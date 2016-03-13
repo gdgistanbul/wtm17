@@ -84,6 +84,61 @@
   bio: "ÇOMÜ - Bilgisayar Mühendisliği 2014 mezunu. Boğaziçi Üniversitesi'nde sistem yöneticisi olarak çalışıyor. Özgür yazılım projelerine katkı vermeyi seviyor, aktif olarak Linux Çekirdeğine katkı veriyor."
   thumbnailUrl: 
   social: 
+  
+  -
+  id: 7
+  rockstar: false
+  name: "Aybüke"
+  surname: "Özdemir"
+  company: "Kripton"
+  title: "Öğrenci"
+  bio: "Çanakkale 18 Mart Üniversitesi son sınıf öğrencisi, özgür yazılım insanı, GNU/Linux Kernel ve LibreOffice katkıcısı."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 8
+  rockstar: false
+  name: "Seçil"
+  surname: "Kavas"
+  company: "OBSS"
+  title: "Manager Of Business Analysis"
+  bio: "Seçil KAVAS is a BA Manager at OBSS, the one of the biggest IT consulting firm in Turkey. She is especially specialized in banking related projects. Seçil received her Bachelor’s degrees in Mathematical Engineering and Industrial Engineering and her Master’s degree in Industrial Engineering at İstanbul Technical University. During her education, she has focused on "decision making" and "optimization" fields. After her short time experiences in software, systems management and marketing fields, she decided to start her professional career in business analysis field that suits best for her. She had different positions in banking related projects as a business analyst, tester, screen designer, process designer and project manager. Since June 2015, Seçil and her team provide business analysis consultancy services to Yapı Kredi Bank, which is the member of UniCredit Group, to reinforce their processes in order to provide better user experiences."
+  thumbnailUrl: 
+  social:  
+  
+  -
+  id: 9
+  rockstar: false
+  name: "Necdet"
+  surname: "Yücel"
+  company: "Kripton"
+  title: "Dr."
+  bio: "Özgür yazılımı sadece bir yazılım geliştirme yöntemi olarak değil hayatın her alanına uygulanabilir bir felsefe olarak gören bir eğitimci."
+  thumbnailUrl: 
+  social:  
+  
+  -
+  id: 10
+  rockstar: false
+  name: "Aydan"
+  surname: "Taşdemir Yılmaz"
+  company: "Epiaş"
+  title: "Linux Sistem Yöneticisi"
+  bio: "2011 yılında Çanakkale Onsekiz Mart Üniversitesi'nden mezun oldum. Markafoni ve Metglobal'de Linux sistem yöneticiliği yaptım. Şimdi Enerji Piyasaları İşletme A.Ş. bünyesinde Linux Sistem Yöneticisi olarak çalışmaktayım."
+  thumbnailUrl: 
+  social:  
+  
+    -
+  id: 10
+  rockstar: false
+  name: "Gülüstan"
+  surname: "Doğan"
+  company: "Yildiz Technical University"
+  title: "Assistant Professor"
+  bio: "Gulustan Dogan is currently an assistant professor at Yildiz Technical University, Istanbul, Turkey. She worked at NetApp and Intel as a software engineer in Silicon Valley. She received her PhD degree in Computer Science from City University of New York. She received her B.Sc degree in Computer Engineering from Middle East Technical University, Turkey. She is one of the founding members of Turkish Women in Computing (TWIC), a Systers community affiliated with Anita Borg Institute."
+  thumbnailUrl: 
+  social: 
 
 # - 
 #   id: 0
