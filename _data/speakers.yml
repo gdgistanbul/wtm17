@@ -15,8 +15,8 @@
   company: "Garanti Teknoloji"
   title: "Software Specialist"
   bio: "Mobile Application Developer at Garanti Technology. Working on mobile technologies especially on Android (since Eclair) more than 4 years since the team formation in her current company.<br>Tech Enthusiast, Blogger, Traveller, Photographer"
-  thumbnailUrl: elif-boncuk.jpg
-  social: 
+  thumbnailUrl: elif-boncuk.jpg  
+  social:   
     - {name: "site", link: "https://elifboncuk.wordpress.com/"}
     - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
     - {name: "twitter", link: "https://twitter.com/elifbon_"}
@@ -29,7 +29,6 @@
   title: "Yönetim Kurulu Üyesi"
   bio: "Simay, İstanbul Üniversitesi İşletme Fakültesinden 2005 yılında mezun oldu. Girişimcilik ruhuyla 10 yıl süresince Amerika'dan Asya'ya farklı ülkelerde eğitim, staj ve hayalindeki projeleri gerçekleştirmek için araştırma yapma fırsatı buldu. Universal Studios Hollywood'da başlayan serüveni Avustralya Sydney Opera House'a kadar devam etti. Simay, Türkiye’nin ilk yaratıcı girişimcilik köyü Yenicarohori projesini oluşturdu. Kendisi Türkiye'nin ilk Oyun Yapımcıları ve Geliştiricileri Derneği Oyunder'in yönetim kurulu üyesi ve #WOMENinGAMES Turkiye'nin kurucusu."
   thumbnailUrl: simay-dinc.jpg
-  
   social: 
     - {name: "site", link: "http://oyunder.org"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/simay-din%C3%A7-9b070551"}
@@ -46,7 +45,6 @@
     - {name: "site", link: "http://gulsahgul.net/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/g%C3%BCl%C5%9Fah-g%C3%BCl-4aa46767"}
     - {name: "twitter", link: "http://www.twitter.com/GulshahGulshah"}
-  
 -
   id: 5
   rockstar: true
@@ -59,9 +57,8 @@
   social: 
     - {name: "site", link: "http://www.edayavuz.com/"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/eddayavuz"}
-    - {name: "twitter", link: "https://twitter.com/iEdaYavuz"}
-  
-  -
+    - {name: "twitter", link: "https://twitter.com/iEdaYavuz"}  
+-
   id: 6
   rockstar: true
   name: "Ayşe"
@@ -73,193 +70,142 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/aysesokullu"}
     - {name: "twitter", link: "https://twitter.com/ayse_sokullu"}  
-    
-  -
+-
   id: 7
-  rockstar: false
   name: "Ebru"
   surname: "Akgündüz"
   company: "Boğaziçi Üniversitesi"
   title: "Sistem Yöneticisi"
   bio: "ÇOMÜ - Bilgisayar Mühendisliği 2014 mezunu. Boğaziçi Üniversitesi'nde sistem yöneticisi olarak çalışıyor. Özgür yazılım projelerine katkı vermeyi seviyor, aktif olarak Linux Çekirdeğine katkı veriyor."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 8
-  rockstar: false
   name: "Aybüke"
   surname: "Özdemir"
   company: "Kripton"
   title: "Öğrenci"
   bio: "Çanakkale 18 Mart Üniversitesi son sınıf öğrencisi, özgür yazılım insanı, GNU/Linux Kernel ve LibreOffice katkıcısı."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 9
-  rockstar: false
   name: "Seçil"
   surname: "Kavas"
   company: "OBSS"
   title: "Manager Of Business Analysis"
   bio: "Seçil KAVAS is a BA Manager at OBSS, the one of the biggest IT consulting firm in Turkey. She is especially specialized in banking related projects. Seçil received her Bachelor’s degrees in Mathematical Engineering and Industrial Engineering and her Master’s degree in Industrial Engineering at İstanbul Technical University. During her education, she has focused on "decision making" and "optimization" fields. After her short time experiences in software, systems management and marketing fields, she decided to start her professional career in business analysis field that suits best for her. She had different positions in banking related projects as a business analyst, tester, screen designer, process designer and project manager. Since June 2015, Seçil and her team provide business analysis consultancy services to Yapı Kredi Bank, which is the member of UniCredit Group, to reinforce their processes in order to provide better user experiences."
   thumbnailUrl: 
-  social:  
-  
-  -
+-
   id: 10
-  rockstar: false
   name: "Necdet"
   surname: "Yücel"
   company: "Kripton"
   title: "Dr."
   bio: "Özgür yazılımı sadece bir yazılım geliştirme yöntemi olarak değil hayatın her alanına uygulanabilir bir felsefe olarak gören bir eğitimci."
   thumbnailUrl: 
-  social:  
-  
-  -
+-  
   id: 11
-  rockstar: false
   name: "Aydan"
   surname: "Taşdemir Yılmaz"
   company: "Epiaş"
   title: "Linux Sistem Yöneticisi"
   bio: "2011 yılında Çanakkale Onsekiz Mart Üniversitesi'nden mezun oldum. Markafoni ve Metglobal'de Linux sistem yöneticiliği yaptım. Şimdi Enerji Piyasaları İşletme A.Ş. bünyesinde Linux Sistem Yöneticisi olarak çalışmaktayım."
   thumbnailUrl: 
-  social:  
-  
-  -
+-
   id: 12
-  rockstar: false
   name: "Gülüstan"
   surname: "Doğan"
   company: "Yildiz Technical University"
   title: "Assistant Professor"
   bio: "Gulustan Dogan is currently an assistant professor at Yildiz Technical University, Istanbul, Turkey. She worked at NetApp and Intel as a software engineer in Silicon Valley. She received her PhD degree in Computer Science from City University of New York. She received her B.Sc degree in Computer Engineering from Middle East Technical University, Turkey. She is one of the founding members of Turkish Women in Computing (TWIC), a Systers community affiliated with Anita Borg Institute."
   thumbnailUrl: 
-  social: 
-
-  -
+-
   id: 13
-  rockstar: false
   name: "Audrey"
   surname: "Ehouman"
   company: "AE Consulting / Women Techmakers Abidjan"
   title: "CEO / co-Lead"
   bio: "Audrey is a young Ivorian passionate about technology and CEO of AE Consulting. Also she is a developer and a Women Techmakers Abidjan Co-lead .Very involved in developer communities, she have been leading the expansion of the community Developers in Ivory Coast and promoting collaboration between Google Developer Groups them with enthusiasm. she works closely with global companies such as Google in order to promote the involvement of women in IT and get support for their local events and initiatives."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 14
-  rockstar: false
   name: "Ikram"
   surname: "Kella"
   company: ""
   title: "WomenTechmakers Chlef Lead"
   bio: "Passionate about all new technologies , mobiles technologies and Open sources , Technophile Half human half droid and JEDI of Google OS."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 15
-  rockstar: false
   name: "Nilüfer"
   surname: "Alan"
   company: "OBSS"
   title: "Uzman İş Analisti"
   bio: "Şu anda OBSS şirketinde iş analisti olarak çalışmaktayım. Lisans derecemi Yeditepe Üniversitesinde Bilişim Sistemleri ve Teknolojileri ve Uluşlararası Ticaret üzerine tamamladım. Bitirme tezim olan “Altın Fiyatlarının Zaman Serisi Analizi” çalışması  2012 yılında Atina’ daki Chaos 2012 zirvesinde yayınlandı. Halen Yeditepe üniversitesinde Stratejik Yönetim ve Liderlik üzerine Yüksek Lisans yapıyorum."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 16
-  rockstar: false
   name: "Sofiya"
   surname: "Huts"
   company: "JustAnswer.com"
   title: "Full Stack .NET Developer"
   bio: "I am still studying at the university, completing my Master's degree in the National University Lviv Politechnic, CS faculty (Ukraine)  and at the same time, I've been working about 1,5 year as Software Engineer. Now I am working as Full Stack .Net Developer at the company JustAnswer.com Also, I am co-organizer of WTM Lviv and co-ordinator of GDG Lviv. I am really passionate about programming and everything what is related to it. To be the part of it and to meet a lot of other geeks at the different conferences just makes me feel great! I am just crazy about new innovations, developments, gadgets."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 17
-  rockstar: false
   name: "Merve"
   surname: "Akman"
   company: "ITS Group"
   title: "Founder"
   bio: "Yüksek Yazılım Mühendisi Merve Akman, 28 Ağustos 1987 yılında dünyaya gelerek, üniversite yıllarına kadar öğrenimini İzmir’de sürdürmüştür. Lisans eğitimini Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği alanında, Yüksek Lisans öğrenimini de Işık Üniversitesi Yazılım Mühendisliği alanında burslu olarak tamamlamıştır. Kurumsal iş hayatında bugüne kadar Ulusal ve Uluslararası düzeyde meydana getirmiş olduğu projeler ile derecelere girmiştir. Mesleğine duyduğu iş aşkı ve çalışma azmi ile Hilton, Bilge Adam gibi sektörde öncü olmuş firmalarda genç yaşta tecrübe sahibi olarak 2013 yılında ITS Group Bilişim Eğitim ve Strateji Ajansını kurmuştur. Kızılay, Engelliler Vakfı, JCI, Kadın Bilişimci gibi birçok sivil toplum kuruluşu ve Üniversiteler ile ortaklaşa projeler yürüterek kişisel ve kurumsal alanlarda vizyonuna değer katacak yatırımlar ile ilgilenmektedir."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 18
-  rockstar: false
   name: "Anna"
   surname: "Romandash"
   company: "Lviv IT Cluster"
   title: "Communications Manager"
   bio: "Communications manager with an interesting experience in IT. I work for Lviv IT Cluster which unites the IT companies in Lviv, Ukraine, one of the biggest IT Centers of the Eastern Europe. My job includes communicating, connecting and running the projects which involve the IT leaders (who are mostly males) and arranging the IT promotion on the local and international level. I transitioned to the IT world from journalism which is mostly female, so now, I find and deal with many sexist challenges along the way of exploring the great potential of IT."
-  thumbnailUrl: 
-  social: 
-  
-    -
+  thumbnailUrl:   
+-
   id: 19
-  rockstar: false
   name: "Kübra"
   surname: "Harmankaya"
   company: ""
   title: "Software Developer"
   bio: "Software developer, Android and Sevilla lover, MBA student, GDG and WTM Izmir can describe me exactly."
-  thumbnailUrl: 
-  social: 
-  
-    -
+  thumbnailUrl:   
+-
   id: 20
-  rockstar: false
   name: "Gülşah"
   surname: "Köse"
   company: "Kripton"
   title: "Bilgisayar Mühendisi"
   bio: "Özgür yazılım gönüllüsüyüm. Bilgisayar mühendisiyim. LibreOffice geliştiricisiyim ve The Document Foundation'ın üyesiyim."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 21
-  rockstar: false
   name: "Özge"
   surname: "Barbaros"
   company: "Boğaziçi Üniversitesi"
   title: "Sistem Yöneticisi"
   bio: "Çanakkale Onsekiz Mart Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldum. 2011'den beri tam zamanlı olarak Java ve Python yazılım geliştirme, Hadoop, CEP (Complex Event Processing) ve Linux Sistem Yönetimi konularında çalıştım ve son 2 yıldır Boğaziçi Üniversitesi Bilgi İşlem Merkezi sistem yönetim biriminde çalışmaktayım. Özgür Yazılım insanıyım."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 22
-  rockstar: false
   name: "Özge"
   surname: "Özmen"
   company: "Social MakerLab"
   title: "Founder"
   bio: "7 yıl sivil toplum kuruluşlarında görev aldı. Son 3 yıldır sosyal girişimcilik ve maker hareketi ile ilgileniyor ve bu alanda çalışıyor. SOGLA, Things, CoderDojo Türkiye, Makers Türkiye, Maker Çocuk ve Istanbul MakerLab ekiplerinde yer aldı. Son olarak 2015 Temmuz ayında Social MakerLab'i kurdu. Social MakerLab olarak iyilik için üret diyerek yola çıktılar ve maker hareketine sosyal inovasyonu dahil ederek ilerliyorlar."
-  thumbnailUrl: 
-  social: 
-  
-  -
+  thumbnailUrl:   
+-
   id: 23
-  rockstar: false
   name: "Esin"
   surname: "Işık"
   company: "Esin Experience Design"
   title: "Owner - Experience Designer"
   bio: "Esin works as a humaniser for experiences and processes. She means she is an independent user experience and service designer with 5 years experience in fields including banking IT, user research in sensitive topics, emotional design, interaction design, service design and creative facilitation.You can also see her giving talks and workshops about existential questions like ''What is experience?'' She completed a master's degree in TUDelft in the Netherlands in 2010 in the field of Design for Interaction after an undergarduate degree at the department of Industrial Design at METU (Middle East Technical University) in Ankara in 2007. She started with digital experience design consulting in a design consultancy, then she was in Denizbank and Garanti Bank's IT companies. Her current focus is getting startup teams to become more experience design conscious. She also keeps being a consultant for corporate design teams and IT projects."
   thumbnailUrl: 
-  social:
   
 # - 
 #   id: 0
