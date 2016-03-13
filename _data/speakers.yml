@@ -67,12 +67,23 @@
   name: "Ayşe"
   surname: "Sokullu"
   company: "InfoGuru Eğitim ve Danışmanlık Hizmetleri"
-  title: "InfoGuru Eğitim ve Danışmanlık - Principal"
+  title: "Principal"
   bio: "1991’de ODTÜ Bilgisayar Mühendisiğinden mezun olan Ayşe Sokullu, University of South Florida’da MBA yaptı. Profesyonel kariyerine bilişim sektöründe sistem mühendisi olarak başlayan Sokullu 1998’e kadar IT sektöründe çeşitli satış yöneticiliği rolleri üstlendi. Daha sonra, Ericsson Türkiye’de ihale yönetimi, stratejik fiyatlandırma ve iş geliştirme ekiplerinin yöneticiliğini yaptı. Bu dönemde, mobil lisans ihaleleri ve 3G, yeni teknolojiler ve iş modelleri konusunda potansiyel yatırımcılara danışmanlık verdi. Ardından, Sabancı Holding ve grup şirketlerinde strateji ve iş geliştirme alanlarında yöneticilik yaptı. 2003’te Turkcell’de çalışmaya başlayan Sokullu, uluslararası iş geliştirme, M&A (satın alma ve birleşmeler) ve strateji alanlarında yönetici olarak çalıştı. Orta Doğu, Balkanlar, BDT ülkeleri, Kuzey Afrika ve Avrupa’da şirket satın alımları için üst düzey devlet yetkilileri ve şirket hissedarları ile sayısız müzakerelerde bulundu. Özelleştirme ve lisans ihalelerini yürüttü. Multimilyar dolarlık yatırım projelerinde dünyanın önde gelen hukuk danışmanları, yatırım bankaları ve konu uzmanları ile birlikte çalışma fırsatı buldu. InfoGuru Eğitim ve Danışmanlık Hizmetlerinin kurucusu olan Ayşe Sokullu, halen müzakere, iş geliştirme ve M&A alanındaki deneyimlerini kurumsal çalışanlar, start-up’lar, ve MBA öğrencileri ile paylaşıyor."
   thumbnailUrl: ayse-sokullu.jpg
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/aysesokullu"}
     - {name: "twitter", link: "https://twitter.com/ayse_sokullu"}  
+    
+  -
+  id: 7
+  rockstar: false
+  name: "Ebru"
+  surname: "Akgündüz"
+  company: "Boğaziçi Üniversitesi"
+  title: "Sistem Yöneticisi"
+  bio: "ÇOMÜ - Bilgisayar Mühendisliği 2014 mezunu. Boğaziçi Üniversitesi'nde sistem yöneticisi olarak çalışıyor. Özgür yazılım projelerine katkı vermeyi seviyor, aktif olarak Linux Çekirdeğine katkı veriyor."
+  thumbnailUrl: 
+  social: 
 
 # - 
 #   id: 0
