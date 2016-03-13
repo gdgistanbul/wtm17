@@ -151,6 +151,116 @@
   thumbnailUrl: 
   social: 
   
+  -
+  id: 14
+  rockstar: false
+  name: "Ikram"
+  surname: "Kella"
+  company: ""
+  title: "WomenTechmakers Chlef Lead"
+  bio: "Passionate about all new technologies , mobiles technologies and Open sources , Technophile Half human half droid and JEDI of Google OS."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 15
+  rockstar: false
+  name: "Nilüfer"
+  surname: "Alan"
+  company: "OBSS"
+  title: "Uzman İş Analisti"
+  bio: "Şu anda OBSS şirketinde iş analisti olarak çalışmaktayım. Lisans derecemi Yeditepe Üniversitesinde Bilişim Sistemleri ve Teknolojileri ve Uluşlararası Ticaret üzerine tamamladım. Bitirme tezim olan “Altın Fiyatlarının Zaman Serisi Analizi” çalışması  2012 yılında Atina’ daki Chaos 2012 zirvesinde yayınlandı. Halen Yeditepe üniversitesinde Stratejik Yönetim ve Liderlik üzerine Yüksek Lisans yapıyorum."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 16
+  rockstar: false
+  name: "Sofiya"
+  surname: "Huts"
+  company: "JustAnswer.com"
+  title: "Full Stack .NET Developer"
+  bio: "I am still studying at the university, completing my Master's degree in the National University Lviv Politechnic, CS faculty (Ukraine)  and at the same time, I've been working about 1,5 year as Software Engineer. Now I am working as Full Stack .Net Developer at the company JustAnswer.com Also, I am co-organizer of WTM Lviv and co-ordinator of GDG Lviv. I am really passionate about programming and everything what is related to it. To be the part of it and to meet a lot of other geeks at the different conferences just makes me feel great! I am just crazy about new innovations, developments, gadgets."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 17
+  rockstar: false
+  name: "Merve"
+  surname: "Akman"
+  company: "ITS Group"
+  title: "Founder"
+  bio: "Yüksek Yazılım Mühendisi Merve Akman, 28 Ağustos 1987 yılında dünyaya gelerek, üniversite yıllarına kadar öğrenimini İzmir’de sürdürmüştür. Lisans eğitimini Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği alanında, Yüksek Lisans öğrenimini de Işık Üniversitesi Yazılım Mühendisliği alanında burslu olarak tamamlamıştır. Kurumsal iş hayatında bugüne kadar Ulusal ve Uluslararası düzeyde meydana getirmiş olduğu projeler ile derecelere girmiştir. Mesleğine duyduğu iş aşkı ve çalışma azmi ile Hilton, Bilge Adam gibi sektörde öncü olmuş firmalarda genç yaşta tecrübe sahibi olarak 2013 yılında ITS Group Bilişim Eğitim ve Strateji Ajansını kurmuştur. Kızılay, Engelliler Vakfı, JCI, Kadın Bilişimci gibi birçok sivil toplum kuruluşu ve Üniversiteler ile ortaklaşa projeler yürüterek kişisel ve kurumsal alanlarda vizyonuna değer katacak yatırımlar ile ilgilenmektedir."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 18
+  rockstar: false
+  name: "Anna"
+  surname: "Romandash"
+  company: "Lviv IT Cluster"
+  title: "Communications Manager"
+  bio: "Communications manager with an interesting experience in IT. I work for Lviv IT Cluster which unites the IT companies in Lviv, Ukraine, one of the biggest IT Centers of the Eastern Europe. My job includes communicating, connecting and running the projects which involve the IT leaders (who are mostly males) and arranging the IT promotion on the local and international level. I transitioned to the IT world from journalism which is mostly female, so now, I find and deal with many sexist challenges along the way of exploring the great potential of IT."
+  thumbnailUrl: 
+  social: 
+  
+    -
+  id: 19
+  rockstar: false
+  name: "Kübra"
+  surname: "Harmankaya"
+  company: ""
+  title: "Software Developer"
+  bio: "Software developer, Android and Sevilla lover, MBA student, GDG and WTM Izmir can describe me exactly."
+  thumbnailUrl: 
+  social: 
+  
+    -
+  id: 20
+  rockstar: false
+  name: "Gülşah"
+  surname: "Köse"
+  company: "Kripton"
+  title: "Bilgisayar Mühendisi"
+  bio: "Özgür yazılım gönüllüsüyüm. Bilgisayar mühendisiyim. LibreOffice geliştiricisiyim ve The Document Foundation'ın üyesiyim."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 21
+  rockstar: false
+  name: "Özge"
+  surname: "Barbaros"
+  company: "Boğaziçi Üniversitesi"
+  title: "Sistem Yöneticisi"
+  bio: "Çanakkale Onsekiz Mart Üniversitesi Bilgisayar Mühendisliği bölümünden 2012 yılında mezun oldum. 2011'den beri tam zamanlı olarak Java ve Python yazılım geliştirme, Hadoop, CEP (Complex Event Processing) ve Linux Sistem Yönetimi konularında çalıştım ve son 2 yıldır Boğaziçi Üniversitesi Bilgi İşlem Merkezi sistem yönetim biriminde çalışmaktayım. Özgür Yazılım insanıyım."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 22
+  rockstar: false
+  name: "Özge"
+  surname: "Özmen"
+  company: "Social MakerLab"
+  title: "Founder"
+  bio: "7 yıl sivil toplum kuruluşlarında görev aldı. Son 3 yıldır sosyal girişimcilik ve maker hareketi ile ilgileniyor ve bu alanda çalışıyor. SOGLA, Things, CoderDojo Türkiye, Makers Türkiye, Maker Çocuk ve Istanbul MakerLab ekiplerinde yer aldı. Son olarak 2015 Temmuz ayında Social MakerLab'i kurdu. Social MakerLab olarak iyilik için üret diyerek yola çıktılar ve maker hareketine sosyal inovasyonu dahil ederek ilerliyorlar."
+  thumbnailUrl: 
+  social: 
+  
+  -
+  id: 23
+  rockstar: false
+  name: "Esin"
+  surname: "Işık"
+  company: "Esin Experience Design"
+  title: "Owner - Experience Designer"
+  bio: "Esin works as a humaniser for experiences and processes. She means she is an independent user experience and service designer with 5 years experience in fields including banking IT, user research in sensitive topics, emotional design, interaction design, service design and creative facilitation.You can also see her giving talks and workshops about existential questions like ''What is experience?'' She completed a master's degree in TUDelft in the Netherlands in 2010 in the field of Design for Interaction after an undergarduate degree at the department of Industrial Design at METU (Middle East Technical University) in Ankara in 2007. She started with digital experience design consulting in a design consultancy, then she was in Denizbank and Garanti Bank's IT companies. Her current focus is getting startup teams to become more experience design conscious. She also keeps being a consultant for corporate design teams and IT projects."
+  thumbnailUrl: 
+  social:
+  
 # - 
 #   id: 0
 #   name: ""
