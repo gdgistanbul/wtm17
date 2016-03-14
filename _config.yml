@@ -49,8 +49,8 @@ navigationLinks:
  #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Ulaşım"}
 # - {permalink: "/startup/", text: "Startup Launch"}
- - {permalink: "http://wtm14.devfesttr.com/", text: "WTM Istanbul'14"}
- - {permalink: "http://wtm15.devfesttr.com/", text: "WTM Istanbul'15"}
+ - {permalink: "http://2014.wtmistanbul.com/", text: "WTM Istanbul'14"}
+ - {permalink: "http://2015.wtmistanbul.com/", text: "WTM Istanbul'15"}
 bottomNavigationLinks:
  - {link: "http://www.meetup.com/GDGIstanbul/events/229249368/", text: "Kayıt Ol"}
 rightNavigationButtons:
