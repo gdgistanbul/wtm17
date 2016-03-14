@@ -26,6 +26,7 @@
      - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.jpg"}
      - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
      - {name: "GDG X", description: "GDG X", link: "#", imageUrl: "gdg-x.svg"}
+     - {name: "GDG Eskişehir", description: "GDG Eskişehir", link: "#", imageUrl: "gdgeskisehir.png"}
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}
      - {name: "VRFirst BAU", description: "VRFirst BAU", link: "#", imageUrl: "VR_BAU.png"}
      #- {name: "", description: "", link: "http://", imageUrl: ""}
