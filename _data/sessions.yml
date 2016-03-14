@@ -28,3 +28,9 @@
   description: "Kariyer basamaklarını tırmanmanın çeşitli yolları vardır. Kimi helikopter indirir kariyerinin zirvesine; kimi de her basamağı çalışıp çabalayarak ve ter dökerek aşar. Ben kariyerime kolay bir başlangıç yapmadım. Daha gidecek çok yolum da var. Ama şimdiden, eskiden olduğum yerden çok ilerdeyim yani buna inanıyor ve bununla gurur duyuyorum. Anlatacağım hikayede kendinizden bazı parçalar bulabilir ya da hemen kendi hikayenizi oluşturmaya başlayabilirsiniz. Hata yapmanın dayanılmaz hafifliğinden; korkusuzca ilerlemekten ve sosyal medyanın nimetlerinden yararlanmaktan ufak kesitler bulabileceğiniz bu sunumdan ayrılırken yüreklerinizde hedefleriniz için ihtiyacınız olan cesareti bulabileceğinizi umuyorum."
   language: "tr"
   speakers: [5]
+-
+  id: 006
+  title: "Start-up’lar için Müzakere"
+  description: "<strong><i>“Pazarlıklarınız Start-up’ınızın Geleceğini Esir Almasın“</i></strong><br>Herşey güzel bir iş fikri ile başladı. Geceler boyu çalıştınız, iş modeliniz hazır. Start-up’ınızı kurdunuz. Bir yandan potansiyel yatırımcılar ile görüşmelere başladınız, diğer yandan ekibinizi kurmaya çalışıyorsunuz. En doğru tedarikçilerle en avantajlı şartlarla çalışmanız gerekiyor. Ortaklarınız da mı var? Gözünüz gibi baktığınız start-up’ınızın hayal ettiğiniz başarıya ulaşması için bu kararların her birinin ne kadar kritik olduğunu biliyorsunuz… ve tüm bunları aynı anda yapmanız gerekiyor. Biraz stres mi oldunuz? Girişimciler alemine hoşgeldiniz!<br>Sizden önceki yüzlerce girişimcinin yaptığı hataları tekrarlamamak ve müzakere farkındalığınızı arttırmak istiyorsanız bu sunum sizin için… Pazarlıklarınızın start-up’ınızın geleceğini esir almaması için tecrübe ile şekillenmiş bu önerilere kulak verin.<br><br>- Yatırımcılarla müzakere<br>- Kredi sağlayıcılarla müzakere<br>- Ortaklarla müzakere<br>- Aday ve mevcut çalışanlarla müzakere<br>- Tedarikçilerle müzakere."
+  language: "tr"
+  speakers: [6]
