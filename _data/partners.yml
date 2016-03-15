@@ -1,9 +1,5 @@
-- 
-  #group: "Platin Sponsor"
-  elements: 
-   # - {name: "IBM", description: "IBM", link: "http://www.ibm.com/tr/tr/", imageUrl: "IBM.jpg"}
-- 
-  group: "Altın Sponsorlar"
+-
+  group: "Altın Sponsor"
   elements: 
     - {name: "Blippar", description: "Blippar", link: "http://www.blippar.com", imageUrl: "blippar.png"}
     #- {name: "Turkcell", description: "Turkcell & Turkcell Gelecegi Yazanlar", link: "http://www.turkcell.com.tr", imageUrl: "turkcell_white_bg.jpg"}
@@ -11,27 +7,15 @@
   group: "Etkinlik Sponsoru"
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.tr/", imageUrl: "google.svg"}
-    #- {name: "Monitise", description: "Monitise", link: "http://www.monitise.com/", imageUrl: "Monitise.jpg"}
+- 
+  group: "VR Workshop"
+  elements: 
+    - {name: "VRFirst BAU", description: "VRFirst BAU", link: "http://vrfirst.cryengine.com/", imageUrl: "VR_BAU.png"}
 -
-  #group: "Sponsorlar"
-  elements:
-    #- {name: "Google", description: "Google", link: "https://google.com/", imageUrl: "google.svg"}
-    #- {name: "Jet Brains", description: "Jet Brains", link: "https://www.jetbrains.com/", imageUrl: "JetBrains.svg"}
-    #- {name: "Eteration", description: "Eteration", link: "http://www.eteration.com/", imageUrl: "eteration.png"}
-    #- {name: "M-GEN", description: "M-GEN", link: "http://m-gen.biz/tr/anasayfa", imageUrl: "M-GEN.svg"}
--
-  
   group: "Destekleyenler"
   elements:
      - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.jpg"}
      - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
-     - {name: "GDG X", description: "GDG X", link: "#", imageUrl: "gdg-x.svg"}
+     - {name: "GDG X", description: "GDG X", link: "http://info.gdgx.io", imageUrl: "gdg-x.svg"}
      - {name: "GDG Eskişehir", description: "GDG Eskişehir", link: "https://twitter.com/gdgeskisehir", imageUrl: "gdgeskisehir.png"}
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}
-     - {name: "VRFirst BAU", description: "VRFirst BAU", link: "#", imageUrl: "VR_BAU.png"}
-     #- {name: "", description: "", link: "http://", imageUrl: ""}
-     #- {name: "", description: "", link: "http://", imageUrl: ""}
-     #- {name: "", description: "", link: "http://", imageUrl: ""}
-     #- {name: "", description: "", link: "http://", imageUrl: ""}
-     #- {name: "", description: "", link: "http://", imageUrl: ""}
-     #- {name: "", description: "", link: "http://", imageUrl: ""}
