@@ -52,9 +52,9 @@ navigationLinks:
  - {permalink: "http://2014.wtmistanbul.com/", text: "WTM Istanbul'14"}
  - {permalink: "http://2015.wtmistanbul.com/", text: "WTM Istanbul'15"}
 bottomNavigationLinks:
- - {link: "http://www.meetup.com/GDGIstanbul/events/229249368/", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
 rightNavigationButtons:
- - {link: "http://www.meetup.com/GDGIstanbul/events/229249368/", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
 
 # Hero Block
 heroImage: "hero.jpg"
@@ -65,7 +65,7 @@ typeoutFallback: "Season"
 heroButtons:
  #- {permalink: "/schedule/", text: "Konferans Programı"}
  - {permalink: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform", text: "Konuşmacı Başvurusu"}
- - {link: "http://www.meetup.com/GDGIstanbul/events/229249368/", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
 
 # About Block
 aboutTitle: "Women Techmakers Hakkında"
@@ -136,20 +136,20 @@ subscribeInfo: "Registration will be open around end of February. Number of tick
 ticketsTitle: "Kayıt Ol"
 ticketsInfo: ""
 ticketsOffers:
- -
+-
   name: "Ücretsiz Bilet"
-  buyButtonLink: "http://www.meetup.com/GDGIstanbul/events/229249368/"
+  buyButtonLink: "http://wtmistanbul2016.eventbrite.com"
   buyButtonText: "Kayıt Ol"
   additionalInfo: "Konferansa katılabilmek için kayıt olmalısınız."
   validFrom: ""
   validThrough: ""
-  #-
-   #name: "Virtual Reality Atölyesi"
-   #buyButtonLink: "https://docs.google.com/forms/d/1Gt13d2GbSkFWcqV4bk1g_MbE17AvZVM5V5oHKH5wFd4/viewform?usp=send_form"
-   #buyButtonText: "Şimdi Başvur"
-   #additionalInfo: "Sahneye çıkma, fikirlerini VCler ile paylaşma ve networking partisine katılma imkanı."
-   #validFrom: ""
-   #validThrough: ""
+-
+  name: "VR Workshop"
+  buyButtonLink: "http://wtmistanbul2016.eventbrite.com"
+  buyButtonText: "VR Workshop Kayıt"
+  additionalInfo: "Sınırlı sayıda WR Workshop bileti için erken kayıt olmayı unutma."
+  validFrom: ""
+  validThrough: ""
 
 # Footer
 socialLinks:
