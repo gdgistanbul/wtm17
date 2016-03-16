@@ -8,9 +8,9 @@
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.tr/", imageUrl: "google.svg"}
 - 
-  group: "VRFirst BAU Lab"
+  group: "VR First BAU Lab"
   elements: 
-    - {name: "VRFirst BAU", description: "VRFirst BAU", link: "http://vrfirst.cryengine.com/", imageUrl: "VR_BAU.png"}
+    - {name: "VR First BAU", description: "VR First BAU", link: "http://vrfirst.cryengine.com/", imageUrl: "VR_BAU.png"}
 -
   group: "Destekleyenler"
   elements:
