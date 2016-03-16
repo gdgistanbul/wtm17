@@ -143,13 +143,6 @@ ticketsOffers:
   additionalInfo: "Konferansa katılabilmek için kayıt olmalısınız."
   validFrom: ""
   validThrough: ""
--
-  name: "VR Workshop"
-  buyButtonLink: "http://wtmistanbul2016.eventbrite.com"
-  buyButtonText: "VR Workshop Kayıt"
-  additionalInfo: "Sınırlı sayıda WR Workshop bileti için erken kayıt olmayı unutma."
-  validFrom: ""
-  validThrough: ""
 
 # Footer
 socialLinks:
