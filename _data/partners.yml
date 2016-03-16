@@ -8,7 +8,7 @@
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.tr/", imageUrl: "google.svg"}
 - 
-  group: "VR Workshop"
+  group: "VRFirst BAU Lab"
   elements: 
     - {name: "VRFirst BAU", description: "VRFirst BAU", link: "http://vrfirst.cryengine.com/", imageUrl: "VR_BAU.png"}
 -
