@@ -13,7 +13,7 @@
 -
   group: "Destekleyenler"
   elements:
-     - {name: "COOP", description: "COOP", link: "http://coop.bahcesehir.edu.tr/", imageUrl: "COOP.jpg"}
+     - {name: "BAU Incubation Center", description: "BAU Incubation Center", link: "https://twitter.com/bauincubation", imageUrl: "ıncubation_center_logo.png"}
      - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.jpg"}
      - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
      - {name: "GDG X", description: "GDG X", link: "http://info.gdgx.io", imageUrl: "gdg-x.svg"}
