@@ -15,9 +15,9 @@
   elements:
      - {name: "BAU Incubation Center", description: "BAU Incubation Center", link: "https://twitter.com/bauincubation", imageUrl: "incubation_center_logo.png"}
      - {name: "BAU COOP", description: "BAU COOP", link: "http://coop.bahcesehir.edu.tr/", imageUrl: "CO-OP LOGO SON 06.09.JPG"}
-     - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.png"}
      - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
      - {name: "Binyaprak", description: "Binyaprak", link: "http://binyaprak.com/", imageUrl: "binyaprak.jpg"}
+     - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.png"}
      - {name: "GDG X", description: "GDG X", link: "http://info.gdgx.io", imageUrl: "gdg-x.svg"}
      - {name: "GDG Eskişehir", description: "GDG Eskişehir", link: "https://twitter.com/gdgeskisehir", imageUrl: "gdgeskisehir.png"}
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}     
