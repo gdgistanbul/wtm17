@@ -124,6 +124,7 @@
   social: 
      - {name: "twitter", link: "https://twitter.com/ozgeeozmen"}
      - {name: "linkedin", link: "https://www.linkedin.com/in/ozgeozmen"}
+
 -
   id: 14
   name: "Çağıl"
@@ -133,7 +134,17 @@
   bio: ""
   thumbnailUrl: cagilsonmez.jpeg 
  
-
+-
+  id: 15
+  name: "Ceren"
+  surname: "Cubukcu"
+  company: "Arastirma Gorevlisi"
+  title: "Maltepe Universitesi"
+  bio: ""
+  thumbnailUrl: cerencubukcu.jpg
+    social: 
+     - {name: "site", link: "www.cerencubukcu.com"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/ceren-cubukcu-64445129"}
 # - 
 #   id: 0
 #   name: ""
