@@ -136,6 +136,18 @@
   thumbnailUrl: MerveAkman.jpg
   social: 
      - {name: "linkedin", link: "https://www.linkedin.com/in/merve-akman-22740b39?trk=nav_responsive_tab_profile_pic"}
+
+-
+  id: 13
+  name: "Ozge"
+  surname: "Ozmen"
+  company: "Social MakerLab"
+  title: "Founder"
+  bio: "7 yıl sivil toplum kuruluşlarında görev aldı. Son 3 yıldır sosyal girişimcilik ve maker hareketi ile ilgileniyor ve bu alanda çalışıyor. SOGLA, Things, CoderDojo Türkiye, Makers Türkiye, Maker Çocuk ve Istanbul MakerLab ekiplerinde yer aldı. Son olarak 2015 Temmuz ayında Social MakerLab'i kurdu. Social MakerLab olarak iyilik için üret diyerek yola çıktılar ve maker hareketine sosyal inovasyonu dahil ederek ilerliyorlar."
+  thumbnailUrl: OzgeOzmen.jpg
+  social: 
+     - {name: "twitter", link: "https://www.linkedin.com/in/ozgeozmen"}
+     - {name: "linkedin", link: "https://twitter.com/ozgeeozmen"}
 -
   id: 14
   name: "Çağıl"
