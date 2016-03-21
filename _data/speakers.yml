@@ -102,6 +102,19 @@
     - {name: "google-plus", link: "https://plus.google.com/u/0/+K%C3%BCbraHarmankaya"} 
 
 -
+	id: 10
+  name: "Aydan"
+  surname: "Tasdemir Yilmaz"
+  company: "Epias"
+  title: "Linux Sistem Yoneticisi"
+  bio: "2011 yılında Çanakkale Onsekiz Mart Üniversitesi'nden mezun oldum. Markafoni ve Metglobal'de Linux sistem yöneticiliği yaptım. Şimdi Enerji Piyasaları İşletme A.Ş. bünyesinde Linux Sistem Yöneticisi olarak çalışmaktayım."
+  thumbnailUrl: aydantasdemir.jpeg
+    social: 
+     - {name: "twitter", link: "https://twitter.com/aydantasdemir"}
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/aydan-ta%2525C5%25259Fdemir-29423643"}
+     - {name: "github", link: "https://github.com/aydantasdemir"}
+
+-
   id: 11
   name: "Esin"
   surname: "Işık"
