@@ -77,6 +77,79 @@
   bio: "Seçil KAVAS is a BA Manager at OBSS, the one of the biggest IT consulting firm in Turkey. She is especially specialized in banking related projects. Seçil received her Bachelor's degrees in Mathematical Engineering and Industrial Engineering and her Master's degree in Industrial Engineering at İstanbul Technical University. During her education, she has focused on 'decision making' and 'optimization' fields. After her short time experiences in software, systems management and marketing fields, she decided to start her professional career in business analysis field that suits best for her. She had different positions in banking related projects as a business analyst, tester, screen designer, process designer and project manager. Since June 2015, Seçil and her team provide business analysis consultancy services to Yapı Kredi Bank, which is the member of UniCredit Group, to reinforce their processes in order to provide better user experiences."
   thumbnailUrl:
  
+  
+ - 
+  id: 8
+  name: "Aydan"
+  surname: "Taşdemir Yılmaz"
+  company: "Epiaş"
+  title: "Linux Sistem Yöneticisi"
+  bio: "2011 yılında Çanakkale Onsekiz Mart Üniversitesi'nden mezun oldum. Markafoni ve Metglobal'de Linux sistem yöneticiliği yaptım. Şimdi Enerji Piyasaları İşletme A.Ş. bünyesinde Linux Sistem Yöneticisi olarak çalışmaktayım."
+  thumbnailUrl: 
+
+-
+  id: 9
+  name: "Gülüstan"
+  surname: "Doğan"
+  company: "Yildiz Technical University"
+  title: "Assistant Professor"
+  bio: "Gulustan Dogan is currently an assistant professor at Yildiz Technical University, Istanbul, Turkey. She worked at NetApp and Intel as a software engineer in Silicon Valley. She received her PhD degree in Computer Science from City University of New York. She received her B.Sc degree in Computer Engineering from Middle East Technical University, Turkey. She is one of the founding members of Turkish Women in Computing (TWIC), a Systers community affiliated with Anita Borg Institute."
+  thumbnailUrl: GulustanDogan.jpg
+  
+-
+  id: 10
+  name: "Kübra"
+  surname: "Harmankaya"
+  company: ""
+  title: "Software Developer"
+  bio: "Software developer, Android and Sevilla lover, MBA student, GDG and WTM Izmir can describe me exactly."
+  thumbnailUrl: 
+  
+-
+  id: 11
+  name: "Esin"
+  surname: "Işık"
+  company: "Esin Experience Design"
+  title: "Owner Experience Designer"
+  bio: "Esin works as a humaniser for experiences and processes. She means she is an independent user experience and service designer with 5 years experience in fields including banking IT, user research in sensitive topics, emotional design, interaction design, service design and creative facilitation.You can also see her giving talks and workshops about existential questions like ''What is experience?'' She completed a master's degree in TUDelft in the Netherlands in 2010 in the field of Design for Interaction after an undergarduate degree at the department of Industrial Design at METU (Middle East Technical University) in Ankara in 2007. She started with digital experience design consulting in a design consultancy, then she was in Denizbank and Garanti Bank's IT companies. Her current focus is getting startup teams to become more experience design conscious. She also keeps being a consultant for corporate design teams and IT projects."
+  thumbnailUrl: EsinIsik.jpg
+  
+-
+  id: 12
+  name: "Merve"
+  surname: "Akman"
+  company: "ITS Group"
+  title: "Founder"
+  bio: "Yüksek Yazılım Mühendisi Merve Akman, 28 Ağustos 1987 yılında dünyaya gelerek, üniversite yıllarına kadar öğrenimini İzmir'de sürdürmüştür. Lisans eğitimini Orta Doğu Teknik Üniversitesi Bilgisayar Mühendisliği alanında, Yüksek Lisans öğrenimini de Işık Üniversitesi Yazılım Mühendisliği alanında burslu olarak tamamlamıştır. Kurumsal iş hayatında bugüne kadar Ulusal ve Uluslararası düzeyde meydana getirmiş olduğu projeler ile derecelere girmiştir. Mesleğine duyduğu iş aşkı ve çalışma azmi ile Hilton, Bilge Adam gibi sektörde öncü olmuş firmalarda genç yaşta tecrübe sahibi olarak 2013 yılında ITS Group Bilişim Eğitim ve Strateji Ajansını kurmuştur. Kızılay, Engelliler Vakfı, JCI, Kadın Bilişimci gibi birçok sivil toplum kuruluşu ve Üniversiteler ile ortaklaşa projeler yürüterek kişisel ve kurumsal alanlarda vizyonuna değer katacak yatırımlar ile ilgilenmektedir."
+  thumbnailUrl: MerveAkman.jpg
+  
+-
+  id: 13
+  name: "Özge"
+  surname: "Özmen"
+  company: "Social MakerLab"
+  title: "Founder"
+  bio: "7 yıl sivil toplum kuruluşlarında görev aldı. Son 3 yıldır sosyal girişimcilik ve maker hareketi ile ilgileniyor ve bu alanda çalışıyor. SOGLA, Things, CoderDojo Türkiye, Makers Türkiye, Maker Çocuk ve Istanbul MakerLab ekiplerinde yer aldı. Son olarak 2015 Temmuz ayında Social MakerLab'i kurdu. Social MakerLab olarak iyilik için üret diyerek yola çıktılar ve maker hareketine sosyal inovasyonu dahil ederek ilerliyorlar."
+  thumbnailUrl: OzgeOzmen.jpg
+  
+-
+  id: 14
+  name: "Çağıl"
+  surname: "Uluşahin Sönmez"
+  company: "Django Girls Istanbul"
+  title: "Co-organizer"
+  bio: ""
+  thumbnailUrl: 
+  
+-
+  id: 15
+  name: "Ceren"
+  surname: "Çubukçu"
+  company: "Araştırma Görevlisi"
+  title: "Maltepe Üniversitesi"
+  bio: "Ceren Çubukçu, İstanbul Teknik Üniversitesi ve New York eyaletinde bulunan Binghamton Üniversitesi'nin ortak yürüttüğü çift diploma programı Bilişim Sistemleri Mühendisliği mezunudur. Ayrıca Boston'da bulunan Bentley Üniversitesi'nde burslu olarak MBA yapmıştır. Mezun olduktan sonra birkaç yıl Amerika'da çeşitli firmalarda sistem analisti olarak çalışan Ceren Çubukçu yakın zamanda Türkiye'ye kesin dönüş yapmıştır. Çubukçu, hali hazırda Maltepe Üniversitesi Mühendislik Fakültesi öğretim elemanıdır ve İstanbul Üniversitesi Enformatik bölümünde doktora çalışmalarını sürdürmektedir. Aynı zamanda Etkinlik Fabrikam isimli ve birçok ödül almış etkinlik bileti satış platformunun da kurucularından biridir. Ayrıca bir yazar olan Çubukçu'nun 'Make Your American Dream a Reality' isimli Amerika'da satılan bir kişisel gelişim kitabı ve Türkiye'de satılan 'Aşk Kriterlerim' isimli bir romanı bulunmaktadır ve yine Istanbul Üniversitesi Enformatik Bölümü olarak yazdıkları 'Enformatik, Toplum ve Hukuk' isimli kitabın 'Sosyal Medya ve Bilişim Suçları' adlı bölümünü yazmıştır."
+  thumbnailUrl:
+
 # - 
 #   id: 0
 #   name: ""
