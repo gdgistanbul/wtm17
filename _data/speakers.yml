@@ -70,7 +70,6 @@
     - {name: "twitter", link: "https://twitter.com/ayse_sokullu"}  
 -
   id: 7
-  rockstar: false
   name: "Seçil"
   surname: "Kavas"
   company: "OBSS"
@@ -80,7 +79,6 @@
   
  - 
   id: 8
-  rockstar: false
   name: "Aydan"
   surname: "Taşdemir Yılmaz"
   company: "Epiaş"
@@ -90,7 +88,6 @@
 
 -
   id: 9
-  rockstar: false
   name: "Gülüstan"
   surname: "Doğan"
   company: "Yildiz Technical University"
@@ -100,7 +97,6 @@
   
 -
   id: 10
-  rockstar: false
   name: "Kübra"
   surname: "Harmankaya"
   company: ""
@@ -110,7 +106,6 @@
   
 -
   id: 11
-  rockstar: false
   name: "Esin"
   surname: "Işık"
   company: "Esin Experience Design"
@@ -120,7 +115,6 @@
   
 -
   id: 12
-  rockstar: false
   name: "Merve"
   surname: "Akman"
   company: "ITS Group"
@@ -130,7 +124,6 @@
   
 -
   id: 13
-  rockstar: false
   name: "Özge"
   surname: "Özmen"
   company: "Social MakerLab"
@@ -140,7 +133,6 @@
   
 -
   id: 14
-  rockstar: false
   name: "Çağıl"
   surname: "Uluşahin Sönmez"
   company: "Django Girls Istanbul"
@@ -150,12 +142,11 @@
   
 -
   id: 15
-  rockstar: false
   name: "Ceren"
   surname: "Çubukçu"
   company: "Araştırma Görevlisi"
   title: "Maltepe Üniversitesi"
-  bio: ""
+  bio: "Ceren Çubukçu, İstanbul Teknik Üniversitesi ve New York eyaletinde bulunan Binghamton Üniversitesi'nin ortak yürüttüğü çift diploma programı Bilişim Sistemleri Mühendisliği mezunudur. Ayrıca Boston'da bulunan Bentley Üniversitesi'nde burslu olarak MBA yapmıştır. Mezun olduktan sonra birkaç yıl Amerika'da çeşitli firmalarda sistem analisti olarak çalışan Ceren Çubukçu yakın zamanda Türkiye'ye kesin dönüş yapmıştır. Çubukçu, hali hazırda Maltepe Üniversitesi Mühendislik Fakültesi öğretim elemanıdır ve İstanbul Üniversitesi Enformatik bölümünde doktora çalışmalarını sürdürmektedir. Aynı zamanda Etkinlik Fabrikam isimli ve birçok ödül almış etkinlik bileti satış platformunun da kurucularından biridir. Ayrıca bir yazar olan Çubukçu'nun 'Make Your American Dream a Reality' isimli Amerika'da satılan bir kişisel gelişim kitabı ve Türkiye'de satılan 'Aşk Kriterlerim' isimli bir romanı bulunmaktadır ve yine Istanbul Üniversitesi Enformatik Bölümü olarak yazdıkları 'Enformatik, Toplum ve Hukuk' isimli kitabın 'Sosyal Medya ve Bilişim Suçları' adlı bölümünü yazmıştır."
   thumbnailUrl: 
 # - 
 #   id: 0
