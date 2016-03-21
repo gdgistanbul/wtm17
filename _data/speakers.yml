@@ -79,15 +79,6 @@
   social: 
     - {name: "linkedin", link: "https://www.linkedin.com/in/secilkavas"}
     - {name: "twitter", link: "https://twitter.com/secilkavas"}  
- 
--
-  id: 8
-  name: "Gülüstan"
-  surname: "Doğan"
-  company: "Yildiz Technical University"
-  title: "Assistant Professor"
-  bio: "Gulustan Dogan is currently an assistant professor at Yildiz Technical University, Istanbul, Turkey. She worked at NetApp and Intel as a software engineer in Silicon Valley. She received her PhD degree in Computer Science from City University of New York. She received her B.Sc degree in Computer Engineering from Middle East Technical University, Turkey. She is one of the founding members of Turkish Women in Computing (TWIC), a Systers community affiliated with Anita Borg Institute."
-  thumbnailUrl: GulustanDogan.jpg 
   
 -
   id: 9
