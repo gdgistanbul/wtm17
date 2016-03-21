@@ -113,17 +113,6 @@
      - {name: "twitter", link: "https://twitter.com/esinishi"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/esinis"}
 
- -
-  id: 13
-  name: "Özge"
-  surname: "Özmen"
-  company: "Social MakerLab"
-  title: "Founder"
-  bio: "7 yıl sivil toplum kuruluşlarında görev aldı. Son 3 yıldır sosyal girişimcilik ve maker hareketi ile ilgileniyor ve bu alanda çalışıyor. SOGLA, Things, CoderDojo Türkiye, Makers Türkiye, Maker Çocuk ve Istanbul MakerLab ekiplerinde yer aldı. Son olarak 2015 Temmuz ayında Social MakerLab'i kurdu. Social MakerLab olarak iyilik için üret diyerek yola çıktılar ve maker hareketine sosyal inovasyonu dahil ederek ilerliyorlar."
-  thumbnailUrl: OzgeOzmen.jpg
-  social: 
-     - {name: "twitter", link: "https://twitter.com/ozgeeozmen"}
-     - {name: "linkedin", link: "https://www.linkedin.com/in/ozgeozmen"}
 -
   id: 14
   name: "Çağıl"
