@@ -1,36 +1,118 @@
 -
+  id: 999
+  title: "Daha sonra açıklanacak"
+  service: true
+-
+  id: 998
+  title: "Kahve Arası"
+  place: "Hall"
+  service: true
+-
+  id: 997
+  title: "Öğle Yemeği Arası"
+  place: "Fuaye Alanı"
+  service: true
+-
+  id: 996
+  title: "Kayıt"
+  service: true
+-
+  id: 995
+  title: "Women Techmakers Istanbul 2016'ya Hoşgeldiniz!"
+  description: "GDG Istanbul Women Techmakers grubu tarafından düzenlenen Women Techmakers Istanbul 2016 konferansına hoşgeldiniz."
+  service: true
+-
+  id: 100
+  title: "RAW Grubu Canlı Performans"
+  place: "Fazıl Say Konferans Salonu"
+  service: true
+-
   id: 001
   title: "Daha sonra açıklanacak."
   description: ""
-  language: ""
+  language: "TR"
   speakers: [1]
 -
   id: 002
   title: "Optimizing Apps for Better Performance"
   description: "Performance matters to users, so it must matter to you. In this session, I will talk about how to identify and fix performance bottlenecks and using profiling tools."
-  language: tr
+  language: "TR"
   speakers: [2]
 -
   id: 003
   title: "Oyun Girişimciliği"
   description: ""
-  language: tr
+  language: "TR"
   speakers: [3]
 -
   id: 004
   title: "Daha sonra açıklanacak."
   description: ""
-  language: ""
+  language: "TR"
   speakers: [4]
 -
   id: 005
   title: "Kariyer Basamaklarında Teknolojinin Tesellisi"
   description: "Kariyer basamaklarını tırmanmanın çeşitli yolları vardır. Kimi helikopter indirir kariyerinin zirvesine; kimi de her basamağı çalışıp çabalayarak ve ter dökerek aşar. Ben kariyerime kolay bir başlangıç yapmadım. Daha gidecek çok yolum da var. Ama şimdiden, eskiden olduğum yerden çok ilerdeyim yani buna inanıyor ve bununla gurur duyuyorum. Anlatacağım hikayede kendinizden bazı parçalar bulabilir ya da hemen kendi hikayenizi oluşturmaya başlayabilirsiniz. Hata yapmanın dayanılmaz hafifliğinden; korkusuzca ilerlemekten ve sosyal medyanın nimetlerinden yararlanmaktan ufak kesitler bulabileceğiniz bu sunumdan ayrılırken yüreklerinizde hedefleriniz için ihtiyacınız olan cesareti bulabileceğinizi umuyorum."
-  language: "tr"
+  language: "TR"
   speakers: [5]
 -
   id: 006
   title: "Start-up’lar için Müzakere"
   description: "<strong><i>“Pazarlıklarınız Start-up’ınızın Geleceğini Esir Almasın“</i></strong><br><br>Herşey güzel bir iş fikri ile başladı. Geceler boyu çalıştınız, iş modeliniz hazır. Start-up’ınızı kurdunuz. Bir yandan potansiyel yatırımcılar ile görüşmelere başladınız, diğer yandan ekibinizi kurmaya çalışıyorsunuz. En doğru tedarikçilerle en avantajlı şartlarla çalışmanız gerekiyor. Ortaklarınız da mı var? Gözünüz gibi baktığınız start-up’ınızın hayal ettiğiniz başarıya ulaşması için bu kararların her birinin ne kadar kritik olduğunu biliyorsunuz… ve tüm bunları aynı anda yapmanız gerekiyor. Biraz stres mi oldunuz? Girişimciler alemine hoşgeldiniz!<br><br>Sizden önceki yüzlerce girişimcinin yaptığı hataları tekrarlamamak ve müzakere farkındalığınızı arttırmak istiyorsanız bu sunum sizin için… Pazarlıklarınızın start-up’ınızın geleceğini esir almaması için tecrübe ile şekillenmiş bu önerilere kulak verin.<br><br>- Yatırımcılarla müzakere<br>- Kredi sağlayıcılarla müzakere<br>- Ortaklarla müzakere<br>- Aday ve mevcut çalışanlarla müzakere<br>- Tedarikçilerle müzakere."
-  language: "tr"
+  language: "TR"
   speakers: [6]
+-
+  id: 007
+  title: "Doğru Kaynak, Doğru Görev"
+  description: "Yeni bir projeye başlıyorsunuz ve sadece tek bir kişiyi işe alma şansınız var. Bu durumda kimi seçerdiniz? İş analisti mi yoksa proje yöneticisi mi?<br><br>IT sektörü içerisinde yer alan ve görev tanımlarını kabataslak da olsa az çok bilen kişiler için bu soru biraz \"garip\" gelebilir.<br>Her iki görevin de iş tanımları gereği projeye katkısı farklı olacaktır. En temelde, iş analistleri ve proje yöneticilerinin \"hedefleri\" farklıdır.<br>Business Analysis<br>Body of Knowledge (BABOK) ve Project Management Body of Knowledge (PMBOK)'ta hassasiyetle belirtildiği üzere iş analistleri organizasyonların hedeflerine ulaşmalarına yardımcı olurken; proje yöneticileri projelerin hedeflerine ulaşmalarına yardımcı olurlar.<br>Hedefler ayrılığı, yazılı olarak net bir biçimde ifade edilse de, iş uygulamaya geldiğinde netlik bulanıklaşmaya ve yerini iş yapış yöntemleri ile ilgili sorulara bırakabilir.<br>Bu bulanıklık da size ilk başta yönelttiğim ve 2012 yılında Chicago'da düzenlenen iş analizi konferansının panel konusu olarak da karşımıza çıkan \"iş analisti mi yoksa proje yöneticisi mi\" sorumu biraz daha anlamlı hale getirecektir.<br>Bu konuşma kapsamında bir iş analisti ve proje yöneticisinin sorumluluk alanları arasındaki ince çizgileri fark edecek ve projelerin başarıyla hedefine ulaşması yolunda iş birliği içerisinde nasıl hareket edebilecekleri ile ilgili olarak püf noktalarını öğreneceksiniz. "
+  language: "TR"
+  speakers: [7]
+-
+  id: 008
+  title: "Cheat Sheet  for  Data Science"
+  description: "Data Science, Big Data, Data Engineering are hot topics in Technology. With many teaching programs, courses, and tools popping up, our intent is to capture the high level concepts in data science to enlighten technologists who want to enter or learn more about the field. Our aim is to highlight the workflow steps that are used in data science practice, tools, and high level architectures that comprise data science systems as a guide for the learner. Our talk can also be used as a skeleton in developing teaching programs for data science. "
+  language: "TR"
+  speakers: [8]
+-
+  id: 009
+  title: "Playing Like a Real Team "
+  description: "I am planning to have a 40 mins session. At first I will talk about being a woman at IT and the second part will be about Agile Project Management and feeling the agile philosophy to produce valuable products. Nowadays I am about to complete my MBA thesis on that topic and I want to share my fresh knowledge. "
+  language: "TR"
+  speakers: [9]
+-
+  id: 010
+  title: "Pgbarman ile Postgresql Yedekleme"
+  description: "Pgbarman Postgresql veritabanları için yedekleme, artımlı yedekleme ve yedekten geri dönme imkanı tanıyan açık kaynak kodlu bir yazılımdır. Birden fazla sunucu için yedekleme yönetimi yapılmasına imkan tanır. Tamamen Python ile yazılmıştır. Konuşmada Pgbarman ile yedekleme yönetimi ve yedekten geri dönme konularında bilgi verilecektir."
+  language: "TR"
+  speakers: [10]
+-
+  id: 011
+  title: "Design Critique How To's - Open, Constructive, Generous  and Humble"
+  description: "Experience Designers lead a team to create the experience, they (we) do not create experience alone. It is the whole technology team that creates it. Design critique, design discussions, are the most important get-togethers for technology teams to build the experience together. <br><br>These meetings are the biggest opportunities for everyone to show and improve the quality of the product. Yet, most members of these teams leave these discussions disappointed by the depth of conversations, the tone of communication, time limitations, poorly analysed decisions, etc... Being open, constructive, generous and humble is the answer to all these questions. <br><br>This talk will explain how to share and receive design critique and the main principles of communication around creative work. Finally there will be additional tips on how to show that everyone is treated equally no matter the gender, race, orientation, identity, etc.. "
+  language: "TR"
+  speakers: [11]
+-
+  id: 012
+  title: "Girişimcilik ve Bilişimde Kadın Lider Olmak"
+  description: "Girişimcilik, Bilişim, Kadın Bilişimci Olmak, Bilişimde Kadın Lider Olmak, Bilişimde Strateji, "
+  language: "TR"
+  speakers: [12]
+-
+  id: 013
+  title: "Maker Movement For Social Good"
+  description: "Tüketimi deği üretimi düşleyen kişilerin yer aldığı maker hareketini, makerların nasıl yeni nesil girişimcilere dönüştüklerini ve toplumsal dönüşümü de sağlayan bu alandaki sosyal inovasyon konularını örnekleri ile aktaracağım."
+  language: "TR"
+  speakers: [13]
+-
+  id: 014
+  title: "Django Girls İstanbul ile tanışın"
+  description: "Django Girls etkinlikleri nedir? Django Girls İstanbul etkinliğinde neler yaptık? Daha neler yapacağız?"
+  language: "TR"
+  speakers: [14]
+-
+  id: 015
+  title: "Sosyal Medya ve Bilişim Suçları"
+  description: "Internet’te sosyalleşmeyi ve iletişimi sağlayan sosyal medyanın yaygınlaşması çeşitli sorunları beraberinde getiriyor. Sosyal medya profilinin ele geçirilmesi, başkasının adına sahte hesap açma, sosyal medya üzerinden tehdit, aşağılama vb. örnek olarak gösterilebilir. Bireylerin mağdur olmasına neden olan bu ve benzeri durumlarda kanunlar devreye giriyor. Günlük hayatımızı düzenleyen kanunlar sosyal medya üzerinden işlenen suçlara da uygulanmaktadır. Bu bakımdan gerçek hayatta olduğu gibi sosyal medyada da davranış ve eylemler bu kanunlara göre değerlendirilmektedir. Bu sunumda sosyal medya ve suç kavramı incelenecektir. Sosyal medyada başkasının adına sahte hesap açmak, başkasının profilini ele geçirmek suretiyle dolandırıcılık yapmak ve sosyal medyada başkasına hakaret etmek suçlarına ve bunlarla ilgili örneklere yer verilecektir. Aynı zamanda sosyal medyada herhangi bir zorbalığa veya dolandırıcılığa maruz kalınırsa neler yapılması ve nasıl bir yasal süreç izlenmesi gerektiği de ayrıntılı olarak açıklanacaktır. "
+  language: "TR"
+  speakers: [15]
