@@ -35,7 +35,7 @@
 -
   id: 002
   title: "Optimizing Apps for Better Performance"
-  description: "Performance matters to users, so it must matter to you. In this session, I will talk about how to identify and fix performance bottlenecks and using profiling tools."
+  description: "Uygulama performansı, kullanıcılar için son derece önemli bir konudur. Bu sebeple geliştiriciler için de en önemli konuların başında gelmektedir. Dünya üzerindeki en ilgi çekici Android uygulamasına da sahip olsak, eğer yavaş cihazlarda düzgün çalışmıyor ve çok batarya tüketiyorsa, günün sonunda kullanıcılar uygulamayı sileceklerdir. Önemli olan görsellik ve performans arasındaki dengeyi kurmaktan geçmektedir. Bu oturumda, performans problemlerinin temel sebepleri ve performans profiling toolarının nasıl kullanılacağının üzerinde durulacaktır."
   language: "TR"
   speakers: [2]
 -
