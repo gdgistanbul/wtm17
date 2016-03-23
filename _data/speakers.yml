@@ -113,8 +113,6 @@
      - {name: "twitter", link: "https://twitter.com/aydantasdemir"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/aydan-ta%2525C5%25259Fdemir-29423643"}
      - {name: "github", link: "https://github.com/aydantasdemir"}
-
-
 -
   id: 11
   name: "Esin"
@@ -157,7 +155,6 @@
   title: "Co-organizer"
   bio: ""
   thumbnailUrl: cagilsonmez.jpeg 
-
 -
   id: 15
   name: "Ceren"
