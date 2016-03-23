@@ -166,6 +166,17 @@
   social: 
      - {name: "site", link: "www.cerencubukcu.com"}
      - {name: "linkedin", link: "https://www.linkedin.com/in/ceren-cubukcu-64445129"}
+-
+  id: 16
+  name: "Ebru"
+  surname: "Çetin"
+  company: "S.S. Doğa Sigorta Kooperatifi'"
+  title: "STEAMWIN Proje Lideri / Reasüran&Özel Riskler Uzman Yrd."
+  bio: "Ebru Çetin, Marmara Üniversite’si Aktüerya Bilimleri eğitiminin son senesine devam ederken Sigorta sektöründe Reasürans çalışmaları yürütmektedir. PWN İstanbul’da sosyal sorumluluk proje liderliği yapmakla birlikte marketing çalışmalarına katkı sağlamakta ve  TurkishWIN Marmara Üniversite’si kampüs temsilciliği ve STEAMWIN projesinin liderliğini yürütmektedir."
+  thumbnailUrl: Ebru_Cetin.jpg
+  social: 
+     - {name: "twitter", link: "https://twitter.com/ebrcetin"}
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/ebru-çetin-38154a9a/en"}
  
 # - 
 #   id: 0
