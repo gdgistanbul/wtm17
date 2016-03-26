@@ -125,3 +125,9 @@
   description: ""
   language: "TR"
   speakers: [16]
+-
+  id: 018
+  title: "Hack4Women"
+  description: ""
+  language: "TR"
+  speakers: [18,19]
