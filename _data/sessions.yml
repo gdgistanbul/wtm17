@@ -43,8 +43,10 @@
   speakers: [3]
 -
   id: 004
-  title: "Virtual Reality & Django Girls"
-  description: ""
+  title: "Virtual Reality"
+  description: "Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR."
+  title: "Django Girls"
+  description: "Django Girls"
   language: "TR"
   speakers: [4,14]
 -
