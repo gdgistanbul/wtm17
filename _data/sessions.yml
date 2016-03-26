@@ -49,14 +49,14 @@
   speakers: [4]
 -
   id: 116
-  title: "Django Girls"
-  description: "Django Girls"
+  title: "Django Girls İstanbul ile tanışın"
+  description: "Django Girls etkinlikleri nedir? Django Girls İstanbul etkinliğinde neler yaptık? Daha neler yapacağız?"
   language: "TR"
   speakers: [14]
 -
   id: 004
-  title: "Virtual Reality &<br>Django Girls"
-  description: "<strong>Virtual Reality</strong><br>Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR.<br><br><strong>Django Girls</strong><br>Django Girls"
+  title: "Virtual Reality &<br>Django Girls İstanbul ile tanışın"
+  description: "<strong>Virtual Reality</strong><br>Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR.<br><br><strong>Django Girls</strong><br>Django Girls etkinlikleri nedir? Django Girls İstanbul etkinliğinde neler yaptık? Daha neler yapacağız?"
   language: "TR"
   speakers: [4,14]
 -
@@ -114,12 +114,6 @@
   language: "TR"
   speakers: [13]
 -
-  id: 014
-  title: "Django Girls İstanbul ile tanışın"
-  description: "Django Girls etkinlikleri nedir? Django Girls İstanbul etkinliğinde neler yaptık? Daha neler yapacağız?"
-  language: "TR"
-  speakers: [14]
--
   id: 015
   title: "Sosyal Medya ve Bilişim Suçları"
   description: "Internet’te sosyalleşmeyi ve iletişimi sağlayan sosyal medyanın yaygınlaşması çeşitli sorunları beraberinde getiriyor. Sosyal medya profilinin ele geçirilmesi, başkasının adına sahte hesap açma, sosyal medya üzerinden tehdit, aşağılama vb. örnek olarak gösterilebilir. Bireylerin mağdur olmasına neden olan bu ve benzeri durumlarda kanunlar devreye giriyor. Günlük hayatımızı düzenleyen kanunlar sosyal medya üzerinden işlenen suçlara da uygulanmaktadır. Bu bakımdan gerçek hayatta olduğu gibi sosyal medyada da davranış ve eylemler bu kanunlara göre değerlendirilmektedir. Bu sunumda sosyal medya ve suç kavramı incelenecektir. Sosyal medyada başkasının adına sahte hesap açmak, başkasının profilini ele geçirmek suretiyle dolandırıcılık yapmak ve sosyal medyada başkasına hakaret etmek suçlarına ve bunlarla ilgili örneklere yer verilecektir. Aynı zamanda sosyal medyada herhangi bir zorbalığa veya dolandırıcılığa maruz kalınırsa neler yapılması ve nasıl bir yasal süreç izlenmesi gerektiği de ayrıntılı olarak açıklanacaktır. "
@@ -137,9 +131,3 @@
   description: ""
   language: "TR"
   speakers: [16]
--
-  id: 018
-  title: "Django Girls"
-  description: "Django Girls"
-  language: "TR"
-  speakers: [14]
