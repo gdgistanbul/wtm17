@@ -120,11 +120,17 @@
   language: "TR"
   speakers: [13]
 -
-  id: 015
+  id: 014
   title: "Sosyal Medya ve Bilişim Suçları"
   description: "Internet’te sosyalleşmeyi ve iletişimi sağlayan sosyal medyanın yaygınlaşması çeşitli sorunları beraberinde getiriyor. Sosyal medya profilinin ele geçirilmesi, başkasının adına sahte hesap açma, sosyal medya üzerinden tehdit, aşağılama vb. örnek olarak gösterilebilir. Bireylerin mağdur olmasına neden olan bu ve benzeri durumlarda kanunlar devreye giriyor. Günlük hayatımızı düzenleyen kanunlar sosyal medya üzerinden işlenen suçlara da uygulanmaktadır. Bu bakımdan gerçek hayatta olduğu gibi sosyal medyada da davranış ve eylemler bu kanunlara göre değerlendirilmektedir. Bu sunumda sosyal medya ve suç kavramı incelenecektir. Sosyal medyada başkasının adına sahte hesap açmak, başkasının profilini ele geçirmek suretiyle dolandırıcılık yapmak ve sosyal medyada başkasına hakaret etmek suçlarına ve bunlarla ilgili örneklere yer verilecektir. Aynı zamanda sosyal medyada herhangi bir zorbalığa veya dolandırıcılığa maruz kalınırsa neler yapılması ve nasıl bir yasal süreç izlenmesi gerektiği de ayrıntılı olarak açıklanacaktır. "
   language: "TR"
   speakers: [15]
+-
+  id: 015
+  title: "Maker Movement For Social Good &<br>Sosyal Medya ve Bilişim Suçları"
+  description: "<strong>Maker Movement For Social Good</strong><br>Internet’te sosyalleşmeyi ve iletişimi sağlayan sosyal medyanın yaygınlaşması çeşitli sorunları beraberinde getiriyor. Sosyal medya profilinin ele geçirilmesi, başkasının adına sahte hesap açma, sosyal medya üzerinden tehdit, aşağılama vb. örnek olarak gösterilebilir. Bireylerin mağdur olmasına neden olan bu ve benzeri durumlarda kanunlar devreye giriyor. Günlük hayatımızı düzenleyen kanunlar sosyal medya üzerinden işlenen suçlara da uygulanmaktadır. Bu bakımdan gerçek hayatta olduğu gibi sosyal medyada da davranış ve eylemler bu kanunlara göre değerlendirilmektedir. Bu sunumda sosyal medya ve suç kavramı incelenecektir. Sosyal medyada başkasının adına sahte hesap açmak, başkasının profilini ele geçirmek suretiyle dolandırıcılık yapmak ve sosyal medyada başkasına hakaret etmek suçlarına ve bunlarla ilgili örneklere yer verilecektir. Aynı zamanda sosyal medyada herhangi bir zorbalığa veya dolandırıcılığa maruz kalınırsa neler yapılması ve nasıl bir yasal süreç izlenmesi gerektiği de ayrıntılı olarak açıklanacaktır.<br><br><strong>Sosyal Medya ve Bilişim Suçları</strong><br>Internet’te sosyalleşmeyi ve iletişimi sağlayan sosyal medyanın yaygınlaşması çeşitli sorunları beraberinde getiriyor. Sosyal medya profilinin ele geçirilmesi, başkasının adına sahte hesap açma, sosyal medya üzerinden tehdit, aşağılama vb. örnek olarak gösterilebilir. Bireylerin mağdur olmasına neden olan bu ve benzeri durumlarda kanunlar devreye giriyor. Günlük hayatımızı düzenleyen kanunlar sosyal medya üzerinden işlenen suçlara da uygulanmaktadır. Bu bakımdan gerçek hayatta olduğu gibi sosyal medyada da davranış ve eylemler bu kanunlara göre değerlendirilmektedir. Bu sunumda sosyal medya ve suç kavramı incelenecektir. Sosyal medyada başkasının adına sahte hesap açmak, başkasının profilini ele geçirmek suretiyle dolandırıcılık yapmak ve sosyal medyada başkasına hakaret etmek suçlarına ve bunlarla ilgili örneklere yer verilecektir. Aynı zamanda sosyal medyada herhangi bir zorbalığa veya dolandırıcılığa maruz kalınırsa neler yapılması ve nasıl bir yasal süreç izlenmesi gerektiği de ayrıntılı olarak açıklanacaktır. "
+  language: "TR"
+  speakers: [13,15]
 -
   id: 119
   title: "Getting Marketing and PR Traction on a Budget"
