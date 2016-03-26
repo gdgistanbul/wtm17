@@ -43,10 +43,10 @@
   speakers: [3]
 -
   id: 004
-  title: "Virtual Reality"
-  description: "Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR."
+  title: "Virtual Reality &<br>Django Girls"
+  description: "<strong>Virtual Reality</strong><br>Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR.<br><br><strong>Django Girls</strong><br>Django Girls"
   language: "TR"
-  speakers: [4]
+  speakers: [4,14]
 -
   id: 005
   title: "Kariyer Basamaklarında Teknolojinin Tesellisi"
