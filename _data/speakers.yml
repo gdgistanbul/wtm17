@@ -188,6 +188,20 @@
   social: 
      - {name: "twitter", link: "https://twitter.com/vlada_pechenaya"}
      - {name: "linkedin", link: "https://www.linkedin.com/in/vladapechenaya"}
+-
+  id: 18
+  name: "Merve"
+  surname: "Keleş"
+  company: ""
+  title: ""
+  bio: ""
+-
+  id: 19
+  name: "Elif"
+  surname: "Özdemir"
+  company: ""
+  title: ""
+  bio: ""
  
 # - 
 #   id: 0
