@@ -63,7 +63,7 @@ eventDate: "3 Nisan, 2016"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- #- {permalink: "/schedule/", text: "Konferans Programı"}
+ - {permalink: "/schedule/", text: "Konferans Programı"}
  - {permalink: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform", text: "Konuşmacı Başvurusu"}
  - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
 
