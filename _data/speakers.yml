@@ -177,6 +177,17 @@
   social: 
      - {name: "twitter", link: "https://twitter.com/ebrcetin"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/ebru-çetin-38154a9a/en"}
+-
+  id: 17
+  name: "Vlada"
+  surname: "Pechenaya"
+  company: "Twentify"
+  title: "Growth Marketing Specialist"
+  bio: "Vlada is a growth hacking specialist at Twentify, building the community for their crowdsourcing app Bounty. Vlada is also a writer for startup magazine Startus.cc and organises monthly startup events as Startup Blink Istanbul ambassador. She is active in the social entrepreneurship community MakeSense in Istanbul. Vlada is a global mind, passionate about connecting people, learning together and collaborating."
+  thumbnailUrl: vlada_pechenaya.jpg
+  social: 
+     - {name: "twitter", link: "https://twitter.com/vlada_pechenaya"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/vladapechenaya"}
  
 # - 
 #   id: 0
