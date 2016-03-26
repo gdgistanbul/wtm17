@@ -120,10 +120,22 @@
   language: "TR"
   speakers: [15]
 -
-  id: 016
-  title: "Getting Marketing and PR Traction on a Budget & Kadınlar için Hackathon mu?"
+  id: 117
+  title: "Getting Marketing and PR Traction on a Budget"
   description: ""
   language: "EN"
+  speakers: [17]
+-
+  id: 118
+  title: "Kadınlar için Hackathon mu?"
+  description: ""
+  language: "TR"
+  speakers: [8,19]
+-
+  id: 016
+  title: "Getting Marketing and PR Traction on a Budget &<br>Kadınlar için Hackathon mu?"
+  description: ""
+  language: "TR"
   speakers: [17,18,19]
 -
   id: 017
