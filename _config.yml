@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/wtm-istanbul-2016-tanitim-dosyasi.pdf"
 navigationLinks:
  - {permalink: "/", text: "Ana Sayfa"}
  # - {permalink: "/blog/", text: "Blog"}
- #- {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  - {permalink: "/#partners", text: "Sponsorlar"}
  #- {permalink: "/team/", text: "Team"}
@@ -64,7 +64,7 @@ typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/schedule/", text: "Konferans Programı"}
- - {permalink: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform", text: "Konuşmacı Başvurusu"}
+ #- {permalink: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform", text: "Konuşmacı Başvurusu"}
  - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
 
 # About Block
