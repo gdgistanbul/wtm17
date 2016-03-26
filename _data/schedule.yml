@@ -21,7 +21,7 @@
         sessionIds: [001,016]
     }
     - {
-        title: "Virtual Reality & Django Girls"
+        title: "Virtual Reality &<br> Django Girls"
         description: "<b>Virtual Reality</b><br/>Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR.<br/><br/><b>Django Girls</b><br/>Django Girls"
         startTime: "10:45",
         endTime: "11:25",
