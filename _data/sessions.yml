@@ -132,6 +132,12 @@
   language: "TR"
   speakers: [8,19]
 -
+  id: 119
+  title: "Kadınlar için Hackathon mu?"
+  description: ""
+  language: "TR"
+  speakers: [19]
+-
   id: 016
   title: "Getting Marketing and PR Traction on a Budget &<br>Kadınlar için Hackathon mu?"
   description: ""
