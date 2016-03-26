@@ -42,6 +42,18 @@
   language: "TR"
   speakers: [3]
 -
+  id: 115
+  title: "Virtual Reality"
+  description: "Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR."
+  language: "EN"
+  speakers: [4]
+-
+  id: 116
+  title: "Django Girls"
+  description: "Django Girls"
+  language: "TR"
+  speakers: [14]
+-
   id: 004
   title: "Virtual Reality &<br>Django Girls"
   description: "<strong>Virtual Reality</strong><br>Introduction as to what VR is & how it will  be making an impact in tech, how it works, its history and its current various industry uses and examples of women who are leading the way in VR.<br><br><strong>Django Girls</strong><br>Django Girls"
