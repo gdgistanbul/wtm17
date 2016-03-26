@@ -43,10 +43,10 @@
   speakers: [3]
 -
   id: 004
-  title: "Virtual Reality"
+  title: "Virtual Reality & Django Girls"
   description: ""
   language: "TR"
-  speakers: [4]
+  speakers: [4,14]
 -
   id: 005
   title: "Kariyer Basamaklarında Teknolojinin Tesellisi"
