@@ -75,7 +75,7 @@
   id: 008
   title: "Cheat Sheet  for  Data Science"
   description: "Data Science, Big Data, Data Engineering are hot topics in Technology. With many teaching programs, courses, and tools popping up, our intent is to capture the high level concepts in data science to enlighten technologists who want to enter or learn more about the field. Our aim is to highlight the workflow steps that are used in data science practice, tools, and high level architectures that comprise data science systems as a guide for the learner. Our talk can also be used as a skeleton in developing teaching programs for data science. "
-  language: "TR"
+  language: "EN"
   speakers: [8]
 -
   id: 009
