@@ -2,8 +2,8 @@
   date: "2016-04-03"
   dateReadable: "Oturumlar"
   tracks: 
-    - {title: "Fazıl Say Konferans Salonu", color: "#90be4e"}
-    - {title: "B Cep", color: "#e91e63"}
+    - {title: "Fazıl Say Konferans Salonu", color: "#4386f4"}
+    - {title: "B Cep", color: "#01bfa5"}
   timeslots:
     - {
         startTime: "08:30",
