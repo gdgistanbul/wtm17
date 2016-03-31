@@ -25,8 +25,8 @@
   service: true
 -
   id: 001
-  title: "Liderlik Yolculuğunda Artırılmış Gerçeklik, Sanal Gerçeklik Ve Derin Öğrenim İle Görsel Keşif’in İşimiz ve Hayatımızda Yaratacağı Büyük Farklar"
-  description: "Liderlik yolculuğunda öncü teknolojileri benimseyerek, ileri görüş ve tutkuyla iş hayatında nasıl fark yarattı? Artırılmış Gerçeklİk, Sanal Gerçeklİk Ve Derin Öğrenm İle Görsel Keşif önümüzdeki birkaç yıl içerisinde hayatlarımızda nasıl büyük bir yol alacak?"
+  title: "Linux Çekirdeği Stajı - Outreachy"
+  description: "Outreachy, toplumda yeterli temsil edilmeyen grupların açık kaynak ve özgür yazılım dünyasına katılmalarına destek olmak amacıyla kurulan bir organizasyon. Outreachy'nin başvurusunu kabul ettiği gruplar: kadınlar, cinsiyet değiştiren kadınlar, cinsiyet değiştiren erkekler, kendini cinsiyetsiz olarak tanımlayan kişiler, Amerika ve çevresinde yaşayan siyahlar. Ayrıntılı bilgi için resmi sayfası: https://www.gnome.org/outreachy/ Bu sunumda Outreachy'yi tanıtarak, Outreachy aracılığıyla yaptığım Linux Çekirdeği stajımdan ve bu süreçteki deneyimlerimden bahsedeceğim."
   language: "TR"
   speakers: [1]
 -
