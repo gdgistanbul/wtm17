@@ -1,12 +1,12 @@
 - 
   id: 1
   rockstar: true
-  name: "Zehra"
-  surname: "Öney"
-  company: "Blippar"
-  title: "Chief Executive Officer"
-  bio: "Zehra Öney İstanbul Üniversitesi’nde Ekonomi eğitimi aldıktan sonra 10 yıl boyunca Turizm sektöründe Türkiye’nin önde gelen acentelerinin üst düzey pozisyonlarında görev aldı. Son 15 yıldır ise kariyerine Telekomünikasyon, Mobil/Dijital ve Sosyal Medya alanlarında profesyonel yönetici ve girişimci olarak devam ediyor."
-  thumbnailUrl: zehra-oney.jpg
+  name: "Ebru"
+  surname: "Akagündüz"
+  company: "Boğaziçi Üniversitesi"
+  title: "System Administrator"
+  bio: ""
+  thumbnailUrl: ebru-akagunduz.jpg
 - 
   id: 2
   rockstar: true
