@@ -19,3 +19,4 @@
      - {name: "GDG Eskişehir", description: "GDG Eskişehir", link: "https://twitter.com/gdgeskisehir", imageUrl: "gdgeskisehir.png"}
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}     
      - {name: "BAU Yazılım ve Bilişim Kulübü", description: "BAU Yazılım ve Bilişim Kulübü", link: "http://yazilimbilisim.org/", imageUrl: "ybk2.jpg"} 
+     - {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
