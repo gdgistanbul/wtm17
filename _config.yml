@@ -9,7 +9,7 @@ exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 
 # Site Settings
-title: "Women Techmakers Istanbul 2016"
+title: "Women Techmakers Istanbul 2017"
 email: "wtm@gdgistanbul.com"
 description: "Women Techmakers is a set of event about Women in technology"
 baseurl: ""
@@ -36,7 +36,7 @@ socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
 c4pUrl: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform"
-c4sponsorsUrl: "/assets/wtm-istanbul-2016-tanitim-dosyasi.pdf"
+c4sponsorsUrl: "/assets/wtm-istanbul-2017-tanitim-dosyasi.pdf"
 
 
 # Navigation
@@ -52,20 +52,20 @@ navigationLinks:
  - {permalink: "http://2014.wtmistanbul.com/", text: "WTM Istanbul'14"}
  - {permalink: "http://2015.wtmistanbul.com/", text: "WTM Istanbul'15"}
 bottomNavigationLinks:
- - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
 rightNavigationButtons:
- - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
 
 # Hero Block
 heroImage: "hero.jpg"
-heroTitle: "WTM Istanbul 2016"
-eventDate: "3 Nisan, 2016"
+heroTitle: "WTM Istanbul 2017"
+eventDate: "TBA"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
  - {permalink: "/schedule/", text: "Konferans Programı"}
  #- {permalink: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform", text: "Konuşmacı Başvurusu"}
- - {link: "http://wtmistanbul2016.eventbrite.com", text: "Kayıt Ol"}
+ - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
 
 # About Block
 aboutTitle: "Women Techmakers Hakkında"
@@ -99,9 +99,9 @@ eventAddressLocality: "Istanbul"
 eventAddressLocalityRegion: ""
 eventPostalCode: ""
 eventAddressCountry: "Türkiye"
-eventStartTime: "2016-04-03T09:00"
+eventStartTime: "2017-04-03T09:00"
 eventDoorTime: "09:00"
-eventEndTime: "2016-04-03T17:30"
+eventEndTime: "2017-04-03T17:30"
 eventPlaceCoordinates: "41.041994, 29.009049"
 mapCenterCoordinates: "41.041994, 29.009049"
 mapMobileCenterCoordinates: "41.041994, 29.009049"
@@ -138,7 +138,7 @@ ticketsInfo: ""
 ticketsOffers:
 -
   name: "Ücretsiz Bilet"
-  buyButtonLink: "http://wtmistanbul2016.eventbrite.com"
+  buyButtonLink: "http://wtmistanbul2017.eventbrite.com"
   buyButtonText: "Kayıt Ol"
   additionalInfo: "Konferansa katılabilmek için kayıt olmalısınız."
   validFrom: ""

@@ -1,13 +1,13 @@
 ---
 layout: post
 title:  "Konuşmacı Olarak Başvurun"
-date:   2016-03-10 19:00:00
+date:   2017-03-10 19:00:00
 isStaticPost: false
 ---
-Women Techmakers Istanbul 2016 etkinliği **3 Nisan'da** Bahçeşehir Üniversite’sinde gerçekleşiyor. Eğer siz de bu harika etkinliğin bir parçası olmak istiyorsanız konuşma başvurunuzu zaman dolmadan yapın!
+Women Techmakers Istanbul 2017 etkinliği **3 Nisan'da** Bahçeşehir Üniversite’sinde gerçekleşiyor. Eğer siz de bu harika etkinliğin bir parçası olmak istiyorsanız konuşma başvurunuzu zaman dolmadan yapın!
 
 
-### Konuşmacılar – WTM Istanbul 2016 Etkinliğinde Kimler Konuşmacı Olabilir? 
+### Konuşmacılar – WTM Istanbul 2017 Etkinliğinde Kimler Konuşmacı Olabilir? 
 
 * geliştiriciler (freelance / çalışan),
 * Yazılım geliştiren şirketler (app, tool, framework vb.),
@@ -55,8 +55,8 @@ Bu seneki konferans konularımızı aşağıda listeledik. Fakat aşağıdaki ko
 
 ### Başvurularınız [Call for Papers](https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform) formunu doldurarak bize iletebilirsiniz.
 
-**Son Başvuru Tarihi** 20 Nisan 2016
+**Son Başvuru Tarihi** 20 Nisan 2017
 
-**Bilgilendirme:** Bilgilendirme: Başvurmanız halinde konuşmanızın WTM Istanbul 2016 programında yer alacağına dair kesin bir bilgi veremiyoruz. Etkinlik programında yer alacak konuşmalar komite tarafından seçilecek ve tüm başvuranlara bilgilendirme epostası gönderilecektir.<br/>
+**Bilgilendirme:** Bilgilendirme: Başvurmanız halinde konuşmanızın WTM Istanbul 2017 programında yer alacağına dair kesin bir bilgi veremiyoruz. Etkinlik programında yer alacak konuşmalar komite tarafından seçilecek ve tüm başvuranlara bilgilendirme epostası gönderilecektir.<br/>
 
 Kafanıza takılan bir soru mu var? Organizatörlere sorun: [wtm@.gdgistanbul.com](mailto:wtm@gdgistanbul.com)<br/>
