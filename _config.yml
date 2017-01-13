@@ -43,14 +43,13 @@ c4sponsorsUrl: "/assets/wtm-istanbul-2017-tanitim-dosyasi.pdf"
 navigationLinks:
  - {permalink: "/", text: "Ana Sayfa"}
  # - {permalink: "/blog/", text: "Blog"}
- - {permalink: "/schedule/", text: "Program"}
- - {permalink: "/speakers/", text: "Konuşmacılar"}
- - {permalink: "/#partners", text: "Sponsorlar"}
+ # - {permalink: "/schedule/", text: "Program"}
+ # - {permalink: "/speakers/", text: "Konuşmacılar"}
+ # - {permalink: "/#partners", text: "Sponsorlar"}
  #- {permalink: "/team/", text: "Team"}
- - {permalink: "/logistics/", text: "Ulaşım"}
+ # - {permalink: "/logistics/", text: "Ulaşım"}
 # - {permalink: "/startup/", text: "Startup Launch"}
- - {permalink: "http://2014.wtmistanbul.com/", text: "WTM Istanbul'14"}
- - {permalink: "http://2015.wtmistanbul.com/", text: "WTM Istanbul'15"}
+ - {permalink: "http://www.wtmistanbul.com/", text: "Blog"}
 bottomNavigationLinks:
  - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
 rightNavigationButtons:
@@ -63,15 +62,16 @@ eventDate: "TBA"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- - {permalink: "/schedule/", text: "Konferans Programı"}
- #- {permalink: "https://docs.google.com/forms/d/1XRJgcAYZAfb3n-qTDqwSEq5qoqCiIq3KPXggUfFsyzU/viewform", text: "Konuşmacı Başvurusu"}
+ # - {permalink: "/schedule/", text: "Konferans Programı"}
+ - {permalink: "TODO: Link ekle", text: "Konuşmacı Başvurusu"}
  - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
 
 # About Block
 aboutTitle: "Women Techmakers Hakkında"
 aboutBlock:
  - {title: "Dünya Kadınlar Günü", image: "conference.jpg", text: "Mart ayında dünya kadınlar gününü kutlarken teknoloji bilişim ve mühendislik alanında kadınları destekliyor ve ilham veriyoruz." }
- - {title: "VR First BAU Lab", image: "vr.jpg", text: "Sanal gerçeklik teknolojisinin dünü bugünü ve gelecek planları anlatılırken, bir yandan hangi alanlarda nasıl kullanılabileceğini örnekler üzerinden tartışacağız" }
+ # TODO 2. sekil ekle
+ # - {title: "VR First BAU Lab", image: "vr.jpg", text: "Sanal gerçeklik teknolojisinin dünü bugünü ve gelecek planları anlatılırken, bir yandan hangi alanlarda nasıl kullanılabileceğini örnekler üzerinden tartışacağız" }
  - {title: "Teknoloji", image: "workshop.jpg", text: "Teknoloji sektörundeki gelişmeler, yenilikler ve haberleri dinlemek icin sahneye teknoloji dunyasında calışan başarılı kadınları davet ediyoruz." }
 
 # Statistic Block
@@ -155,6 +155,8 @@ footerBlocks:
  -
   title: "Bağlantılar"
   links:
+   - {link: "http://www.wtmistanbul.com", text: "WTM Istanbul Blog"}
+   - {link: "http://2016.wtmistanbul.com", text: "WTM Istanbul '16"}
    - {link: "http://2015.wtmistanbul.com", text: "WTM Istanbul '15"}
    - {link: "http://2014.wtmistanbul.com", text: "WTM Istanbul '14"}
    - {link: "http://www.gdgistanbul.com", text: "GDG Istanbul"}
