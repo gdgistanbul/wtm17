@@ -50,7 +50,7 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Ulaşım"}
 # - {permalink: "/startup/", text: "Startup Launch"}
  - {permalink: "http://www.wtmistanbul.com/", text: "Blog"}
- - {permalink: "http://www.wtmistanbul.com/", text: "Sponsorluk"}
+ - {permalink: "c4sponsorsUrl", text: "Sponsorluk"}
 bottomNavigationLinks:
  - {link: "c4sponsorsUrl", text: "Kayıt Ol"}
 rightNavigationButtons:
