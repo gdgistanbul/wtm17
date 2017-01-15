@@ -156,6 +156,7 @@ footerBlocks:
  -
   title: "Bağlantılar"
   links:
+   - {link: "https://www.womentechmakers.com/", text: "Women Techmakers"}
    - {link: "http://www.wtmistanbul.com", text: "WTM Istanbul Blog"}
    - {link: "http://2016.wtmistanbul.com", text: "WTM Istanbul '16"}
    - {link: "http://2015.wtmistanbul.com", text: "WTM Istanbul '15"}
