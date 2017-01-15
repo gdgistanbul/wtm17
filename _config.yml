@@ -50,8 +50,9 @@ navigationLinks:
  # - {permalink: "/logistics/", text: "Ulaşım"}
 # - {permalink: "/startup/", text: "Startup Launch"}
  - {permalink: "http://www.wtmistanbul.com/", text: "Blog"}
+ - {permalink: "http://www.wtmistanbul.com/", text: "Sponsorluk"}
 bottomNavigationLinks:
- - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
+ - {link: "c4sponsorsUrl", text: "Kayıt Ol"}
 rightNavigationButtons:
  - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
 
