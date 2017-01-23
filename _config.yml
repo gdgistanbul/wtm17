@@ -20,7 +20,7 @@ googleAnalyticsSiteUrl: "wtmistanbul.com"
 siteVerification: "J78BVBOHc0PWM6qbrydtmvG1KjsM5HFF4JUSzcuoqCw"
 
 # Organizer Info
-organizerName: "GDG Women Istanbul"
+organizerName: "WTM Istanbul"
 organizerAlternateName: "Google Developer Group Istanbul"
 organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
 organizerEmail: "wtm@gdgistanbul.com"
@@ -54,7 +54,7 @@ navigationLinks:
 bottomNavigationLinks:
  - {link: "c4sponsorsUrl", text: "Kayıt Ol"}
 rightNavigationButtons:
- - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
+ - {link: "https://www.eventbrite.com/e/women-techmakers-istanbul-iwd-2017-tickets-31415278945", text: "Kayıt Ol"}
 
 # Hero Block
 heroImage: "hero.jpg"
