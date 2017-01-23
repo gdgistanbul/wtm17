@@ -52,7 +52,7 @@ navigationLinks:
  - {permalink: "http://www.wtmistanbul.com/", text: "Blog"}
  - {permalink: "assets/wtm-istanbul-2017-tanitim-dosyasi.pdf", text: "Sponsorluk"}
 bottomNavigationLinks:
- - {link: "c4sponsorsUrl", text: "Kayıt Ol"}
+ - {link: "https://www.eventbrite.com/e/women-techmakers-istanbul-iwd-2017-tickets-31415278945", text: "Kayıt Ol"}
 rightNavigationButtons:
  - {link: "https://www.eventbrite.com/e/women-techmakers-istanbul-iwd-2017-tickets-31415278945", text: "Kayıt Ol"}
 
