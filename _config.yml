@@ -65,7 +65,7 @@ typeoutFallback: "Season"
 heroButtons:
  # - {permalink: "/schedule/", text: "Konferans Programı"}
  - {permalink: "https://goo.gl/forms/xjguwTxdoX4f8HtA2", text: "Konuşmacı Başvurusu"}
- - {link: "http://wtmistanbul2017.eventbrite.com", text: "Kayıt Ol"}
+ - {link: "https://www.eventbrite.com/e/women-techmakers-istanbul-iwd-2017-tickets-31415278945", text: "Kayıt Ol"}
 
 # About Block
 aboutTitle: "Women Techmakers Hakkında"
