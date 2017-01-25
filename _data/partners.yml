@@ -2,10 +2,10 @@
   group: "Etkinlik Sponsoru"
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.tr/", imageUrl: "google.svg"}
--
-  group: "VR First BAU Lab"
-  elements: 
-    - {name: "VR First BAU", description: "VR First BAU", link: "http://vrfirst.cryengine.com/", imageUrl: "VR_BAU.png"}
+#-
+#  group: "VR First BAU Lab"
+#  elements: 
+#    - {name: "VR First BAU", description: "VR First BAU", link: "http://vrfirst.cryengine.com/", imageUrl: "VR_BAU.png"}
 -
   group: "Destekleyenler"
   elements:
