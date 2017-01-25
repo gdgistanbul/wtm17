@@ -23,5 +23,5 @@
  -
   group: "Basın Sporları"
   elements:
-   - {name: "hdteknohaber.com", description: "hdteknohaber.com", link: "http://www.hdteknohaber.com/", imageUrl: "hdteknohaber-.png"}
+   - {name: "hdteknohaber.com", description: "hdteknohaber.com", link: "http://www.hdteknohaber.com/", imageUrl: "hdteknohaber.png"}
    - {name: "BTnet.com.tr", description: "BTnet.com.tr", link: "http://www.btnet.com.tr/", imageUrl: "btnet.jpg"}
