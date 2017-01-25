@@ -21,7 +21,7 @@
      - {name: "BAU Yazılım ve Bilişim Kulübü", description: "BAU Yazılım ve Bilişim Kulübü", link: "http://yazilimbilisim.org/", imageUrl: "ybk2.jpg"} 
      #- {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
  -
-  group: "Destekleyenler"
+  group: "Basın Sporları"
   elements:
    - {name: "hdteknohaber.com", description: "hdteknohaber.com", link: "http://www.hdteknohaber.com/", imageUrl: "hdteknohaber-.png"}
    - {name: "BTnet.com.tr", description: "BTnet.com.tr", link: "http://www.btnet.com.tr/", imageUrl: "btnet.jpg"}
