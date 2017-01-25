@@ -7,10 +7,6 @@
   elements: 
     - {name: "Gram Games", description: "Gram Games", link: "http://gram.gs/", imageUrl: "gramgames.png"}
 -
- group: "VR First BAU Lab"
- elements: 
-   - {name: "VR First BAU", description: "VR First BAU", link: "http://vrfirst.cryengine.com/", imageUrl: "VR_BAU.png"}
--
   group: "Destekleyenler"
   elements:
      #- {name: "FeedTick", description: "FeedTick", link: "http://feedtick.com/", imageUrl: "feeditck-logo.png"}
