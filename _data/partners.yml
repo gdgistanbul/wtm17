@@ -2,6 +2,10 @@
   group: "Etkinlik Sponsoru"
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.tr/", imageUrl: "google.svg"}
+-
+group: "Bronz Sponsor"
+  elements: 
+    - {name: "Gram Games", description: "Gram Games", link: "http://gram.gs/", imageUrl: "gramgames.png"}
 #-
 #  group: "VR First BAU Lab"
 #  elements: 
