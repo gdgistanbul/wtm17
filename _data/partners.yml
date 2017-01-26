@@ -25,3 +25,4 @@
    elements:
     - {name: "hdteknohaber.com", description: "hdteknohaber.com", link: "http://www.hdteknohaber.com/", imageUrl: "hdteknohaber.png"}
     - {name: "BTnet.com.tr", description: "BTnet.com.tr", link: "http://www.btnet.com.tr/", imageUrl: "btnet.jpg"}
+    - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chiponline.png"}
