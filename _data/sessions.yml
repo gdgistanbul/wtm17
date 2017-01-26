@@ -18,4 +18,9 @@
   title: "Women Techmakers Istanbul 2017'ye Hoşgeldiniz!"
   description: "GDG Istanbul Women Techmakers grubu tarafından düzenlenen Women Techmakers Istanbul 2016 konferansına hoşgeldiniz."
   service: true
+-
+  id: 1
+  title: "Public Speaking Speechless Training"
+  description: "This speacial training is designed with the top tips from the public speaking experts at Speechless with Google Developers. Whether you are a leader, developer, manager, student or entrepreneur this workshop training will help you to  go from an ordinary presenter to an outstanding performer! At least we promise to have a lot of fun!<br/>Bu workshop çalışması Speechless'ın en iyi sunum yapan kişilerinin özel tavsiyeleri doğrultusunda Google Developer ile birlikte hazırlanan video serisi doğrultusunda hazırlanmıştır. Bir lider, yazılımcı, yönetici, öğrenci ya da girişimciyseniz bu workshop çalışması ile sıradan bir sunumdan muşteşem bir sunucuya dönüşebilirsiniz! En azından çok eğleneceğinizi vaad ediyoruz!"
+  service: true
   
