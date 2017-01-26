@@ -44,8 +44,8 @@ navigationLinks:
  - {permalink: "/", text: "Ana Sayfa"}
  # - {permalink: "/blog/", text: "Blog"}
  # - {permalink: "/schedule/", text: "Program"}
- # - {permalink: "/speakers/", text: "Konuşmacılar"}
- # - {permalink: "/#partners", text: "Sponsorlar"}
+  - {permalink: "/speakers/", text: "Konuşmacılar"}
+  - {permalink: "/#partners", text: "Sponsorlar"}
  #- {permalink: "/team/", text: "Team"}
  - {permalink: "/logistics/", text: "Ulaşım"}
 # - {permalink: "/startup/", text: "Startup Launch"}
