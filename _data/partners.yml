@@ -7,10 +7,6 @@
   elements: 
     - {name: "Gram Games", description: "Gram Games", link: "http://gram.gs/", imageUrl: "gramgames.png"}
 -
-   group: "Hediye Sponsoru"
-   elements:
-    - {name: "Robotistan", description: "Robotistan", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
--
    group: "Basın Sponsorları"
    elements:
     - {name: "hdteknohaber.com", description: "hdteknohaber.com", link: "http://www.hdteknohaber.com/", imageUrl: "hdteknohaber.png"}
@@ -21,7 +17,6 @@
   group: "Destekleyenler"
   elements:
      #- {name: "FeedTick", description: "FeedTick", link: "http://feedtick.com/", imageUrl: "feeditck-logo.png"}
-     - {name: "BAU Incubation Center", description: "BAU Incubation Center", link: "https://twitter.com/bauincubation", imageUrl: "incubation_center_logo.png"}
      - {name: "BAU COOP", description: "BAU COOP", link: "http://coop.bahcesehir.edu.tr/", imageUrl: "CO-OP LOGO SON 06.09.JPG"}
      #- {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
      #- {name: "Binyaprak", description: "Binyaprak", link: "http://binyaprak.com/", imageUrl: "binyaprak.jpg"}
@@ -30,4 +25,5 @@
      #- {name: "GDG Eskişehir", description: "GDG Eskişehir", link: "https://twitter.com/gdgeskisehir", imageUrl: "gdgeskisehir.png"}
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}     
      - {name: "BAU Yazılım ve Bilişim Kulübü", description: "BAU Yazılım ve Bilişim Kulübü", link: "http://yazilimbilisim.org/", imageUrl: "ybk2.jpg"} 
+     - {name: "Robotistan", description: "Robotistan", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
      #- {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
