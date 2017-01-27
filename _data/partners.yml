@@ -7,6 +7,16 @@
   elements: 
     - {name: "Gram Games", description: "Gram Games", link: "http://gram.gs/", imageUrl: "gramgames.png"}
 -
+   group: "Hediye Sponsoru"
+   elements:
+    - {name: "Robotistan", description: "Robotistan", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
+-
+   group: "Basın Sponsorları"
+   elements:
+    - {name: "hdteknohaber.com", description: "hdteknohaber.com", link: "http://www.hdteknohaber.com/", imageUrl: "hdteknohaber.png"}
+    - {name: "BTnet.com.tr", description: "BTnet.com.tr", link: "http://www.btnet.com.tr/", imageUrl: "btnet.jpg"}
+    - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chiponline.png"}
+-
   group: "Destekleyenler"
   elements:
      #- {name: "FeedTick", description: "FeedTick", link: "http://feedtick.com/", imageUrl: "feeditck-logo.png"}
@@ -20,9 +30,3 @@
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}     
      - {name: "BAU Yazılım ve Bilişim Kulübü", description: "BAU Yazılım ve Bilişim Kulübü", link: "http://yazilimbilisim.org/", imageUrl: "ybk2.jpg"} 
      #- {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
--
-   group: "Basın Sponsorları"
-   elements:
-    - {name: "hdteknohaber.com", description: "hdteknohaber.com", link: "http://www.hdteknohaber.com/", imageUrl: "hdteknohaber.png"}
-    - {name: "BTnet.com.tr", description: "BTnet.com.tr", link: "http://www.btnet.com.tr/", imageUrl: "btnet.jpg"}
-    - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chiponline.png"}
