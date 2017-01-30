@@ -26,4 +26,6 @@
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}     
      - {name: "BAU Yazılım ve Bilişim Kulübü", description: "BAU Yazılım ve Bilişim Kulübü", link: "http://yazilimbilisim.org/", imageUrl: "ybk2.jpg"} 
      - {name: "Robotistan", description: "Robotistan", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
+     - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "logo_JetBrains_4.svg"}
+
      #- {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
