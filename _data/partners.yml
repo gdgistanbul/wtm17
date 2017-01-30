@@ -27,5 +27,6 @@
      - {name: "BAU Yazılım ve Bilişim Kulübü", description: "BAU Yazılım ve Bilişim Kulübü", link: "http://yazilimbilisim.org/", imageUrl: "ybk2.jpg"} 
      - {name: "Robotistan", description: "Robotistan", link: "http://www.robotistan.com/", imageUrl: "robotistan.png"}
      - {name: "JetBrains", description: "JetBrains", link: "https://www.jetbrains.com/", imageUrl: "logo_JetBrains_4.svg"}
+     - {name: "Abakus Kitap", description: "Abakus Kitap", link: "https://www.abakuskitap.com/", imageUrl: "abakus.png"}
 
      #- {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
