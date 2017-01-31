@@ -1,6 +1,17 @@
 - 
   id: 1
   rockstar: true
+  name: "Ayla"
+  surname: "Kara Coban"
+  company: "Gram Games"
+  title: "Game Developer"
+  bio: "2012 yılında, ODTÜ Bilgisayar Mühendisliği Bölümü'nden mezun olan, şimdilerde ODTÜ Enformatik Enstitüsü - Oyun Teknolojileri Bölümü’nde yüksek lisansına devam eden Ayla Kara Çoban; erken yaşlarda, daha üniversite 3’üncü sınıftayken çalışma hayatına başladı. Kariyer serüveni ODTÜ Teknokent’te başladı. Sırasıyla; Corvitro, Innova ve Simsoft gibi şirketlerde Software Developer olarak çalışarak kendini geliştiren Ayla Kara Çoban, şu anda mobil eğlence stüdyosu Gram Games’te Game Developer olarak kariyer serüvenine devam etmekte."
+  thumbnailUrl: AylaKaraCoban.jpg
+  social:
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/aylakara"}
+- 
+  id: 2
+  rockstar: true
   name: "Sevnur"
   surname: "Malik"
   company: "Medyanet"
@@ -11,6 +22,7 @@
      - {name: "site", link: "https://medium.com/@sevnurm"}
      - {name: "twitter", link: "https://twitter.com/sevnurm"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/sevnurmalik"}
+
 # - 
 #   id: 0
 #   name: ""
