@@ -23,6 +23,22 @@
      - {name: "twitter", link: "https://twitter.com/sevnurm"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/sevnurmalik"}
 
+- 
+  id: 3
+  rockstar: true
+  name: "Elif"
+  surname: "Boncuk"
+  company: "Garanti Teknoloji"
+  title: "Android Google Developer Expert"
+  bio: "Elif Boncuk has been working on mobile technologies especially on Android (since Eclair) and also IOS as a full-stack developer more than 5 years, since the team formation in her current company. She is a Senior Software Specialist and Scrum Master at Garanti Technology. She is also a Google Developer Expert on Android.
+Elif is engaged with GDG and WTM Istanbul as organizer. She loves to speak at tech events and also organize and attend to them. She blogs in her native language at her blog(elifboncuk.com) about everything but mostly tech and also at Medium in English and only tech.
+In addition, she loves to travel and she is a professional photographer but her favourite photography object is Android sculpture. You can find her taking photos with Androids at any time."
+  thumbnailUrl: elifgde.png
+  social:
+     - {name: "site", link: "https://medium.com/@elifbon"}
+     - {name: "twitter", link: "https://twitter.com/elifbon_"}
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
+
 # - 
 #   id: 0
 #   name: ""
