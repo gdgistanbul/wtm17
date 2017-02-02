@@ -31,6 +31,7 @@
   description: "Did you know that nearly half of gamers are women? Forty eight percent? And yet, less that one-quarter of gaming professionals (22%, in fact) are women. How is it possible that women are so poorly represented in an industry where they are equal consumers? Gram wants to play a part in breaking those biases. With The 22% Project we want to provide young women interested in gaming with an introduction to the skills and knowledge they would need to success. With short workshops on game development, design, game art, and data analytics we hope to help these women to achieve their dreams. The project will also give young women the space to discuss their experiences in the gaming industry. We need to work to change the state of affairs, and this will only happen if young women are engaged in that change."
   service: true
   speakers: [1]
+  
 -
   id: 003
   title: "Actions on Google: Build for Google Assistant"
