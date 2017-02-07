@@ -38,6 +38,18 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "site", link: "https://medium.com/@elifbon"}
      - {name: "twitter", link: "https://twitter.com/elifbon_"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
+- 
+  id: 4
+  rockstar: true
+  name: "Hale"
+  surname: "Dönertaşlı"
+  company: "Google"
+  title: "Technical Project Manager"
+  bio: "1981 yılında İstanbul’da doğdum. İki üniversite ve üç master bitirdim. Şu anda doktorama devam etmekteyim. Geçtiğimiz on yılı Amerika’da ve son üç yılı da İrlanda’da geçirdim. Son yedi yıldır Google’da Network Mühendisi olarak çalışıyorum ve yaklaşık 46 projenin yönetiminden sorumluyum."
+  thumbnailUrl: hale.jpg
+  social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/hale-donertasli-8a05213/"}
+
 
 # - 
 #   id: 0
