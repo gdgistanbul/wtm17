@@ -38,4 +38,10 @@
   description: "Sunumda, Google Asistan için uygulama geliştirmemizi sağlayan Actions on Google, şu an için kullanıcılarımızı asistanla tanıştırmamıza olanak sağlayan tek araç olarak Google Home aracılığıyla anlatılacaktır."
   service: true
   speakers: [4]
+-
+  id: 004
+  title: "My 20 Year Career in Tech"
+  description: "Reflecting on my 20 year journey in the tech industry, I’ll cover how I discovered my love of Computer Science, navigated my career path, and share my lessons learned along the way.  I'll discuss transitions in job role, moving across continents, and experiences at different sized companies.  This talk is suited to all technical levels and abilities."
+  service: true
+  speakers: [5]
   
