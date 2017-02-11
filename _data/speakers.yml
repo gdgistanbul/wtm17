@@ -22,7 +22,7 @@
      - {name: "linkedin", link: "https://tr.linkedin.com/in/aylakara"}
 - 
   id: 3
-  rockstar: false
+  rockstar: true
   name: "Sevnur"
   surname: "Malik"
   company: "Medyanet"
