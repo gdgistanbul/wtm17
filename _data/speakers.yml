@@ -12,6 +12,18 @@
 - 
   id: 2
   rockstar: true
+  name: "Sarah"
+  surname: "Gordon"
+  company: "Google"
+  title: "Test Engineer"
+  bio: "Sarah Gordon studied Computer Science at the University of California, Berkeley and started her career with internships at Intel and Microsoft.  Her first full-time job was as a Software Engineer at Sun Microsystems focusing on high availability clusters.  She is currently a Test Engineer working on Android at Google London.  In her spare time, she is often at small music venues enjoying up and coming indie bands, hunting down creative street art, exploring underground tunnels, and traveling."
+  thumbnailUrl: sarahgordon.jpg
+  social:
+     - {name: "twitter", link: "https://twitter.com/srgsrg"}
+     - {name: "google-plus", link: "https://plus.google.com/+SarahGordon"}
+- 
+  id: 3
+  rockstar: true
   name: "Ayla"
   surname: "Kara Coban"
   company: "Gram Games"
@@ -21,7 +33,7 @@
   social:
      - {name: "linkedin", link: "https://tr.linkedin.com/in/aylakara"}
 - 
-  id: 3
+  id: 4
   rockstar: true
   name: "Sevnur"
   surname: "Malik"
@@ -35,7 +47,7 @@
      - {name: "linkedin", link: "https://tr.linkedin.com/in/sevnurmalik"}
 
 - 
-  id: 4
+  id: 5
   rockstar: false
   name: "Elif"
   surname: "Boncuk"
@@ -49,18 +61,7 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "site", link: "https://medium.com/@elifbon"}
      - {name: "twitter", link: "https://twitter.com/elifbon_"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
-- 
-  id: 5
-  rockstar: true
-  name: "Sarah"
-  surname: "Gordon"
-  company: "Google"
-  title: "Test Engineer"
-  bio: "Sarah Gordon studied Computer Science at the University of California, Berkeley and started her career with internships at Intel and Microsoft.  Her first full-time job was as a Software Engineer at Sun Microsystems focusing on high availability clusters.  She is currently a Test Engineer working on Android at Google London.  In her spare time, she is often at small music venues enjoying up and coming indie bands, hunting down creative street art, exploring underground tunnels, and traveling."
-  thumbnailUrl: sarahgordon.jpg
-  social:
-     - {name: "twitter", link: "https://twitter.com/srgsrg"}
-     - {name: "google-plus", link: "https://plus.google.com/+SarahGordon"}
+
 
 
 
