@@ -23,6 +23,19 @@
      - {name: "google-plus", link: "https://plus.google.com/+SarahGordon"}
 - 
   id: 3
+  rockstar: false
+  name: "Başak"
+  surname: "Taşpınar Değim"
+  company: "Armut.com"
+  title: "Co-founder"
+  bio: "Boğaziçi Universitesi İnşaat Mühendisliği'nden 2000 yılında mezun olan Başak Taşpınar Değim, ardından Koç Üniversitesi'nde MBA ve Loyola University Chicago MSIMC yüksek lisans programlarını bitirmiştir. Çoğunluğu yurtdışında Revlon, Nielsen, Coca Cola gibi firmalarda yöneticilik yaparak geçen kurumsal kariyerini 2011 yılında bırakarak şu an 130.000'den fazla profesyoneli barındıran, aylık trafiği 1.6 milyonun üzerinde ve müşteri memnuniyeti %98 olan Türkiye'nin en büyük hizmet platformu armut.com'u kurmuştur. 
+  Armut Wired UK 2014 Avrupa'nın En Popüler 100 Girişimi listesine girmiş, Ağustos 2014'te New York'ta Endeavor girişimi seçilmiş, 2016 yılında aldığı 3.2 milyon dolarlık yatırım ile Türkiye'nin 2016 yılında en yüksek yatırımını alan internet şirketi olmuştur. Başak ayrıca Garanti, Kagider ve Ekonomist işbirliğiyle düzenlenen 2014 Türkiye'nin Kadın Girişimcisi yarışmasında Türkiye'nin Gelecek Vaat Eden Kadın Girişimcisi kategorisinde birincilik ve ODTÜ GGT tarafından verilen Kristal Ağaç Ödülleri'nde Yılın Girişimcisi ödüllerini almıştır."
+  thumbnailUrl: basak_taspinar.jpg
+  social:
+     - {name: "twitter", link: "https://twitter.com/basaktaspinar"}
+     - {name: "instagram", link: "https://www.instagram.com/girisimcianne/"}
+- 
+  id: 4
   rockstar: true
   name: "Ayla"
   surname: "Kara Coban"
@@ -33,7 +46,7 @@
   social:
      - {name: "linkedin", link: "https://tr.linkedin.com/in/aylakara"}
 - 
-  id: 4
+  id: 5
   rockstar: true
   name: "Sevnur"
   surname: "Malik"
@@ -47,7 +60,7 @@
      - {name: "linkedin", link: "https://tr.linkedin.com/in/sevnurmalik"}
 
 - 
-  id: 5
+  id: 6
   rockstar: false
   name: "Elif"
   surname: "Boncuk"
