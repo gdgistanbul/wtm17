@@ -23,7 +23,7 @@
      - {name: "google-plus", link: "https://plus.google.com/+SarahGordon"}
 - 
   id: 3
-  rockstar: false
+  rockstar: true
   name: "Başak"
   surname: "Taşpınar Değim"
   company: "Armut.com"
@@ -47,7 +47,7 @@
      - {name: "linkedin", link: "https://tr.linkedin.com/in/aylakara"}
 - 
   id: 5
-  rockstar: true
+  rockstar: false
   name: "Sevnur"
   surname: "Malik"
   company: "Medyanet"
