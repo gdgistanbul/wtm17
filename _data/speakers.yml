@@ -74,7 +74,21 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "site", link: "https://medium.com/@elifbon"}
      - {name: "twitter", link: "https://twitter.com/elifbon_"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
-
+- 
+  id: 7
+  rockstar: true
+  name: "Hande"
+  surname: "Çilingir"
+  company: "Insider"
+  title: "Co-founder & CEO"
+  bio: "Hande Çilingir, London School of Economics, Economics&Management bölümünden mezun olduktan sonra Shanghai University’de ‘International Chinese and Culture’ yüksek lisans programını bitirdi.
+Farklı şirketleri, iş yapış tarzlarını ve en önemlisi kültürlerini öğrenmek, hangi alanda kariyerine devam edeceğine karar vermek adına PepsiCo, Zorlu Holding, Eczacıbaşı, Alarko gibi şirketlerde fınans, iç denetim, pazarlama ve satış gibi departmanlarda çalıştı. 
+İngiltere’de ve Çin’de eğitim ve kariyerin ardından, ilk girişiminde Fethiye’deki İngiliz ailelerin misafir ettiği, İngiliz öğretmenlerin eğitim verdiği bir okul yapısını hayata geçiren Hande Çilingir, uçtan uca planladığı bu girişimi Serhat Soyuerel ile hayata geçirdi. Özellikle Avrupa’dan öğrenciler hedefleyen ve 1,5 yıl sonunda 28 ülkeden  1500 öğrenciye ulaşan bu girişimi 2011 yazının sonunda satarak çıkış yapan Çilingir, ara vermeden Insider'ı kurdu.
+Insider, başta e-ticaret siteleri olmak üzere dönüşüm (conversion) optimizasyonu ve öngörüsel tahminleme odaklı hizmetleriyle tanınıyor.  Bu sayede site sahiplerinin ziyaretçilerden/üyelerden daha verimli bir şekilde faydalanmasını sağlıyor. 4 yıl önce kurulan şirket, Londra, Moskova, Singapur, İstanbul, Dubai, Warsaw, Kuala Lumpur ve Jakarta’da ofislerinde 200'ü aşkın müşteriye hizmet veriyor.
+Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Girişimcisi seçilen Hande Çilingir aynı zamanda bir Endeavor Girişimcisi. 2016 yılında aldıkları 2,2 Milyon Dolar yatırım turuyla hedeflerine koşan Insider ise Wired Dergisi tarafından 2016 yılında Avrupa'nın En İyi 100 Startup'ı arasına seçildi."
+  thumbnailUrl: hande_cilingir.jpg
+  social:
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/hande-cilingir-4a4161a/tr"}
 
 
 
