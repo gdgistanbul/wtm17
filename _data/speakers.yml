@@ -36,7 +36,7 @@
      - {name: "instagram", link: "https://www.instagram.com/girisimcianne/"}
 - 
   id: 4
-  rockstar: true
+  rockstar: false
   name: "Ayla"
   surname: "Kara Coban"
   company: "Gram Games"
