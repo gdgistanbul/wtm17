@@ -89,7 +89,17 @@ Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Giri�
   thumbnailUrl: hande_cilingir.jpg
   social:
      - {name: "linkedin", link: "https://tr.linkedin.com/in/hande-cilingir-4a4161a/tr"}
-
+- 
+  id: 8
+  rockstar: false
+  name: "Merve"
+  surname: "Kara"
+  company: "Webrazzi"
+  title: "Technology Editor"
+  bio: "Merve is an Editor at Webrazzi, the largest tech publication in Turkey, covering startups, funding stories, mobile economy and in depth feature stories. Before joining Webrazzi, Merve worked at Bloomberg Businessweek for three years. Her background extends to managing content at different online/offline publications as a custom project editor for a year in Turkey.  Merve holds an MSc degree in IMES from University of Edinburgh, UK. She has a bachelor's in Management from Bogazici University, Turkey."
+  thumbnailUrl: merve.jpg
+  social:
+     - {name: "twitter", link: "https://twitter.com/noirmerve"}
 
 
 # - 
