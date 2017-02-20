@@ -67,4 +67,10 @@
   title: "Front-end'in 1 saniyesi"
   description: "Günlük 1.5 milyon ziyaretçisi olan nesine.com'da front-end performansı üzerine yaptığım çalışmalar ve geliştirmeler sonucu 1 saniyelik bir iyileştirmenin kullanıcı deneyimi ve site trafiğindeki olumlu etkisi üzerine bir sunum yapacağım. Sunumum içerisinde http/2, Service Workers, Resource Hints, WebFont Performansı'nın önemlerinden bahsederken NY Times ve BBC'nin bu konuda yaptığı geliştirmelerden örnekler vereceğim."
   service: true
+  speakers: [13]
+-
+  id: 009
+  title: "We have numbers, now what?"
+  description: ""
+  service: true
   speakers: [12]
