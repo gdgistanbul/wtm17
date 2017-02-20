@@ -31,7 +31,7 @@
   description: "Did you know that nearly half of gamers are women? Forty eight percent? And yet, less that one-quarter of gaming professionals (22%, in fact) are women. How is it possible that women are so poorly represented in an industry where they are equal consumers? Gram wants to play a part in breaking those biases. With The 22% Project we want to provide young women interested in gaming with an introduction to the skills and knowledge they would need to success. With short workshops on game development, design, game art, and data analytics we hope to help these women to achieve their dreams. The project will also give young women the space to discuss their experiences in the gaming industry. We need to work to change the state of affairs, and this will only happen if young women are engaged in that change."
   service: true
   speakers: [4]
-  
+
 -
   id: 003
   title: "Actions on Google: Build for Google Assistant"
@@ -44,4 +44,27 @@
   description: "Reflecting on my 20 year journey in the tech industry, I’ll cover how I discovered my love of Computer Science, navigated my career path, and share my lessons learned along the way.  I'll discuss transitions in job role, moving across continents, and experiences at different sized companies.  This talk is suited to all technical levels and abilities."
   service: true
   speakers: [2]
-  
+-
+  id: 005
+  title: "Noestimation on Jira"
+  description: "Bu sunumda noestimation ile benzer geçmiş  projelere göre gelecek projelerin zaman tahminlemesi nasıl yapılır istatistiksel olarak anlatılacaktır."
+  service: true
+  speakers: [9]
+-
+  id: 006
+  title: "Python ile Programlamaya Giriş"
+  description: "Programlamaya başlamak için en doğru dil olarak kabul edilen Python'ın tanıtılacağı ve temellerinin öğretileceği bir atölye olacaktır. Siz de programla öğrenmeye başlamak istiyor ve nereden başlayacağınızı bilemiyorsanız bu atölyede sorularınızın cevaplarını bulabilirsiniz."
+  service: true
+  speakers: [10]
+-
+  id: 007
+  title: "What is the right question, “What is Big Data” or “How to use the data”?"
+  description: ""
+  service: true
+  speakers: [11]
+-
+  id: 008
+  title: "Front-end'in 1 saniyesi"
+  description: "Günlük 1.5 milyon ziyaretçisi olan nesine.com'da front-end performansı üzerine yaptığım çalışmalar ve geliştirmeler sonucu 1 saniyelik bir iyileştirmenin kullanıcı deneyimi ve site trafiğindeki olumlu etkisi üzerine bir sunum yapacağım. Sunumum içerisinde http/2, Service Workers, Resource Hints, WebFont Performansı'nın önemlerinden bahsederken NY Times ve BBC'nin bu konuda yaptığı geliştirmelerden örnekler vereceğim."
+  service: true
+  speakers: [12]

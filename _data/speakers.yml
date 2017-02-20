@@ -1,4 +1,4 @@
-- 
+-
   id: 1
   rockstar: true
   name: "Hale"
@@ -9,7 +9,7 @@
   thumbnailUrl: hale.jpg
   social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/hale-donertasli-8a05213/"}
-- 
+-
   id: 2
   rockstar: true
   name: "Sarah"
@@ -21,20 +21,20 @@
   social:
      - {name: "twitter", link: "https://twitter.com/srgsrg"}
      - {name: "google-plus", link: "https://plus.google.com/+SarahGordon"}
-- 
+-
   id: 3
   rockstar: true
   name: "Başak"
   surname: "Taşpınar Değim"
   company: "Armut.com"
   title: "Co-founder"
-  bio: "Boğaziçi Universitesi İnşaat Mühendisliği'nden 2000 yılında mezun olan Başak Taşpınar Değim, ardından Koç Üniversitesi'nde MBA ve Loyola University Chicago MSIMC yüksek lisans programlarını bitirmiştir. Çoğunluğu yurtdışında Revlon, Nielsen, Coca Cola gibi firmalarda yöneticilik yaparak geçen kurumsal kariyerini 2011 yılında bırakarak şu an 130.000'den fazla profesyoneli barındıran, aylık trafiği 1.6 milyonun üzerinde ve müşteri memnuniyeti %98 olan Türkiye'nin en büyük hizmet platformu armut.com'u kurmuştur. 
+  bio: "Boğaziçi Universitesi İnşaat Mühendisliği'nden 2000 yılında mezun olan Başak Taşpınar Değim, ardından Koç Üniversitesi'nde MBA ve Loyola University Chicago MSIMC yüksek lisans programlarını bitirmiştir. Çoğunluğu yurtdışında Revlon, Nielsen, Coca Cola gibi firmalarda yöneticilik yaparak geçen kurumsal kariyerini 2011 yılında bırakarak şu an 130.000'den fazla profesyoneli barındıran, aylık trafiği 1.6 milyonun üzerinde ve müşteri memnuniyeti %98 olan Türkiye'nin en büyük hizmet platformu armut.com'u kurmuştur.
   Armut Wired UK 2014 Avrupa'nın En Popüler 100 Girişimi listesine girmiş, Ağustos 2014'te New York'ta Endeavor girişimi seçilmiş, 2016 yılında aldığı 3.2 milyon dolarlık yatırım ile Türkiye'nin 2016 yılında en yüksek yatırımını alan internet şirketi olmuştur. Başak ayrıca Garanti, Kagider ve Ekonomist işbirliğiyle düzenlenen 2014 Türkiye'nin Kadın Girişimcisi yarışmasında Türkiye'nin Gelecek Vaat Eden Kadın Girişimcisi kategorisinde birincilik ve ODTÜ GGT tarafından verilen Kristal Ağaç Ödülleri'nde Yılın Girişimcisi ödüllerini almıştır."
   thumbnailUrl: basak_taspinar.jpg
   social:
      - {name: "twitter", link: "https://twitter.com/basaktaspinar"}
      - {name: "instagram", link: "https://www.instagram.com/girisimcianne/"}
-- 
+-
   id: 4
   rockstar: false
   name: "Ayla"
@@ -45,7 +45,7 @@
   thumbnailUrl: AylaKaraCoban.jpg
   social:
      - {name: "linkedin", link: "https://tr.linkedin.com/in/aylakara"}
-- 
+-
   id: 5
   rockstar: false
   name: "Sevnur"
@@ -59,7 +59,7 @@
      - {name: "twitter", link: "https://twitter.com/sevnurm"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/sevnurmalik"}
 
-- 
+-
   id: 6
   rockstar: false
   name: "Elif"
@@ -74,7 +74,7 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "site", link: "https://medium.com/@elifbon"}
      - {name: "twitter", link: "https://twitter.com/elifbon_"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
-- 
+-
   id: 7
   rockstar: true
   name: "Hande"
@@ -82,14 +82,14 @@ In addition, she loves to travel and she is a professional photographer but her 
   company: "Insider"
   title: "Co-founder & CEO"
   bio: "Hande Çilingir, London School of Economics, Economics&Management bölümünden mezun olduktan sonra Shanghai University’de ‘International Chinese and Culture’ yüksek lisans programını bitirdi.
-Farklı şirketleri, iş yapış tarzlarını ve en önemlisi kültürlerini öğrenmek, hangi alanda kariyerine devam edeceğine karar vermek adına PepsiCo, Zorlu Holding, Eczacıbaşı, Alarko gibi şirketlerde fınans, iç denetim, pazarlama ve satış gibi departmanlarda çalıştı. 
+Farklı şirketleri, iş yapış tarzlarını ve en önemlisi kültürlerini öğrenmek, hangi alanda kariyerine devam edeceğine karar vermek adına PepsiCo, Zorlu Holding, Eczacıbaşı, Alarko gibi şirketlerde fınans, iç denetim, pazarlama ve satış gibi departmanlarda çalıştı.
 İngiltere’de ve Çin’de eğitim ve kariyerin ardından, ilk girişiminde Fethiye’deki İngiliz ailelerin misafir ettiği, İngiliz öğretmenlerin eğitim verdiği bir okul yapısını hayata geçiren Hande Çilingir, uçtan uca planladığı bu girişimi Serhat Soyuerel ile hayata geçirdi. Özellikle Avrupa’dan öğrenciler hedefleyen ve 1,5 yıl sonunda 28 ülkeden  1500 öğrenciye ulaşan bu girişimi 2011 yazının sonunda satarak çıkış yapan Çilingir, ara vermeden Insider'ı kurdu.
 Insider, başta e-ticaret siteleri olmak üzere dönüşüm (conversion) optimizasyonu ve öngörüsel tahminleme odaklı hizmetleriyle tanınıyor.  Bu sayede site sahiplerinin ziyaretçilerden/üyelerden daha verimli bir şekilde faydalanmasını sağlıyor. 4 yıl önce kurulan şirket, Londra, Moskova, Singapur, İstanbul, Dubai, Warsaw, Kuala Lumpur ve Jakarta’da ofislerinde 200'ü aşkın müşteriye hizmet veriyor.
 Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Girişimcisi seçilen Hande Çilingir aynı zamanda bir Endeavor Girişimcisi. 2016 yılında aldıkları 2,2 Milyon Dolar yatırım turuyla hedeflerine koşan Insider ise Wired Dergisi tarafından 2016 yılında Avrupa'nın En İyi 100 Startup'ı arasına seçildi."
   thumbnailUrl: hande_cilingir.jpg
   social:
      - {name: "linkedin", link: "https://tr.linkedin.com/in/hande-cilingir-4a4161a/tr"}
-- 
+-
   id: 8
   rockstar: false
   name: "Merve"
@@ -100,9 +100,55 @@ Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Giri�
   thumbnailUrl: merve.jpg
   social:
      - {name: "twitter", link: "https://twitter.com/noirmerve"}
-
-
-# - 
+-
+  id: 9
+  rockstar: false
+  name: "Semen"
+  surname: "Cirit"
+  company: "Netaş"
+  title: "Scrum Master"
+  bio: "Sabancı Bilgisayar Mühendisliği Yüksek Lisansını tamamlamıştır. Şu anda Scrum Master olarak çalışmaktadır. Çevik Yönetim'in sadece uygulayıcısı değil aynı zamanda savunucusu ve yayıcısıdır. Çevik Yönetim ile ilgili Bahçeşehir Üniversitesinde ders vermekte ve bir çok farklı konferansa konuşmacı olarak katılmaktadır.
+Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgili konularda çalışmaktadır.
+İstanbul Coders ve Agile Turkey üyesidir."
+  thumbnailUrl: semen_cirit.jpg
+  social:
+     - {name: "twitter", link: "https://twitter.com/semencirit"}
+-
+  id: 10
+  rockstar: false
+  name: "Eda"
+  surname: "Yavuz"
+  company: "SEV American College"
+  title: "ICT Teacher"
+  bio: "Eda YAVUZ, Eğitim Teknolojileri Uzmanı ve ICT öğretmeni. Marmara Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitmenliği Bölümünden mezun olmadan Robert Kolej ve SEV Amerikan Koleji kurumlarında stajyerlik yaparak profesyonel kariyerime giriş yaptım. 1,5 yıllık staj deneyimlerim sonrasında SEV Amerikan Koleji'nde Eğitim Teknolojileri Uzman'ı olarak çalışmaya başladım. Halen devam etmekte olduğum okulda aynı zamanda Python ile İnovatif Projeler klubüne  danışmanlık yapmaktayım."
+  thumbnailUrl: eda-yavuz.jpg
+  social:
+     - {name: "twitter", link: "https://twitter.com/iedayavuz"}
+-
+  id: 11
+  rockstar: false
+  name: "Didem"
+  surname: "Gündoğdu"
+  company: "Verilista"
+  title: "PhD Candidate, Co-founder of Verilista"
+  bio: "Didem Gündoğdu is a PhD student at the University of Trento, Italy, Information Engineering and Computer Science department, under the scholarship from Fondazione Bruno Kessler, in the Mobile and Social Computing Lab (MobS Lab). She completed her MSc in computer science at Bogazici University, Turkey, after 15 years in the information technologies industry. Her main research is anomaly detection in telecommunication data using stochastic methods. In the meantime, she is working on establishing her own Start-up Verilista to understand failures of IT systems."
+  thumbnailUrl: didem-gundogdu.jpeg
+  social:
+     - {name: "site", link: "http://www.didemgundogdu.net"}
+     - {name: "twitter", link: "https://twitter.com/GundogduDidem"}
+-
+  id: 12
+  rockstar: false
+  name: "Filiz"
+  surname: "Altıntürk"
+  company: "Front-end Developer"
+  title: "nesine.com"
+  bio: "Front-End Developer since 2007. ".css:lover" I'm a Senior Front-end Developer at Nesine.com. I’m a pixel perfect developer and mysterious bug’s fixer."
+  thumbnailUrl: filiz-altinturk.jpg
+  social:
+     - {name: "twitter", link: "https://twitter.com/Filiz_Altinturk"}
+     
+# -
 #   id: 0
 #   name: ""
 #   surname: ""
@@ -110,7 +156,7 @@ Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Giri�
 #   title: ""
 #   bio: ""
 #   thumbnailUrl: .jpg
-#   social: 
+#   social:
 #    - {name: "site", link: "http://trishagee.github.io/"}
 #     - {name: "google-plus", link: "https://plus.google.com/+TrishaGee/"}
 #     - {name: "twitter", link: "http://www.twitter.com/trisha_gee"}
