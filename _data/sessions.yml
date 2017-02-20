@@ -74,7 +74,7 @@
   description: ""
   service: true
   speakers: [12]
--  
+-
   id: 010
   title: "Understanding the Legal Issues in Startups - How to Protect you Ideas"
   description: "I would like to give an overview of the legal issue and opportunities when someone has a good idea and advise on how to protect them."
@@ -87,13 +87,13 @@
 Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım firmalarında fonksiyonel testten, müşteri deneyimi ve kaliteye doğru dönüşüyor.  Bu konuşmanın amacı, kalite ve test arasındaki farkı tanımlamak ve ileriye yönelik öngörüleri paylaşmaktır."
   service: true
   speakers: [16]
-  -
+-
   id: 012
   title: "Recruting Women in IT"
   description: "Talking about the current recruitment trends in technology. Diversity policies: How do companies implement their diversity and inclusion policies? Do they actually work, are they practical or just written to seem good on paper? Has the mentality against sexism changed -on both employee and employers' side-? Problems technical profiles face in recruitment. Ways and methods for candidates to express themselves better. The imbalance between profiles and sectoral needs. Share personal experiences as women who used to work at technology and now recruit for technology companies. The issues we face, the change we’ve witnessed, the future we expect and the future we hope to have for women in tech."
   service: true
   speakers: [19]
-  -
+-
   id: 013
   title: "Omik çağında sırada ne var? SosyOmik!"
   description: "Genomik, DNA’nın moleküler yapısının ortaya çıkarılması ve daha sonra insan genom projesinin tamamlanması ile hızla genişleyen bir araştırma alanı ve gündelik yaşama yeni girmeye başlayan teknolojilerin temelinde bulunan bir çalışma alanıdır. Bu sunumda, genomik, omik çağı, genom, genomik çalışmalarında gelinen nokta, kişilerin kendi genom verisine erişmeleri ve bu verilerin önemi, genetik çalışmalarda açık kaynak yaklaşımlar ele alınacak ve paylaşılacaktır. Önümüzdeki yıllarda kişilerin genom verilerinin ulaşılabilir ve paylaşılabilir olması aslında “gen”lerin sosyalleşmesi olarak görülebilir. Sunum “sosyomik” terimi ile geleceğe dair genetik biliminin önemini vurgulayacaktır."
