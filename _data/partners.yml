@@ -29,4 +29,5 @@
      - {name: "Abakus Kitap", description: "Abakus Kitap", link: "https://www.abakuskitap.com/", imageUrl: "abakus.png"}
      - {name: "Binyaprak", description: "Binyaprak", link: "http://binyaprak.com/", imageUrl: "binyaprak.jpg"}
      - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.png"}
+     - {name: "Bilgisayar Mühendisleri Odası", description: "BMO", link: "http://www.bmo.org.tr/", imageUrl: "bmo-logo-png.png"}
      #- {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
