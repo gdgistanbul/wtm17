@@ -226,7 +226,17 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
    thumbnailUrl: tugce-damgaci.jpg
    social:
      - {name: "twitter", link: "https://twitter.com/michaelpagetr"}  
-     - {name: "linkedin", link: "https://www.linkedin.com/groups/3812636"}          
+     - {name: "linkedin", link: "https://www.linkedin.com/groups/3812636"}      
+
+-
+   id: 20
+   name: "Dilek"
+   surname: "Dayınarlı"
+   company: "ScaleX"
+   title: "Founder and Managing Partner "
+   bio: "As founder at ScaleX, she is helping scale-up tech compenies to Scale and growth internationally. Worked at 212 as VC focusing on early and growth stage technology companies. Prior to 212, she worked at Groupon as a Director of Strategy and Analysis. Previously, she was a Senior Management Consultant in Accenture’s Communications & High Technology. She spent the first couple of years of her career in Turkey as a Business Developer at Koc Holding’s Telecom division executing business development and strategy. She started her career in the USA, where she held different project management positions and also created her own start-up."
+   thumbnailUrl: dilek.jpg
+   social:       
 # -
 #   id: 0
 #   name: ""
