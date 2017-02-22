@@ -98,4 +98,11 @@ Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım fi
   title: "Omik çağında sırada ne var? SosyOmik!"
   description: "Genomik, DNA’nın moleküler yapısının ortaya çıkarılması ve daha sonra insan genom projesinin tamamlanması ile hızla genişleyen bir araştırma alanı ve gündelik yaşama yeni girmeye başlayan teknolojilerin temelinde bulunan bir çalışma alanıdır. Bu sunumda, genomik, omik çağı, genom, genomik çalışmalarında gelinen nokta, kişilerin kendi genom verisine erişmeleri ve bu verilerin önemi, genetik çalışmalarda açık kaynak yaklaşımlar ele alınacak ve paylaşılacaktır. Önümüzdeki yıllarda kişilerin genom verilerinin ulaşılabilir ve paylaşılabilir olması aslında “gen”lerin sosyalleşmesi olarak görülebilir. Sunum “sosyomik” terimi ile geleceğe dair genetik biliminin önemini vurgulayacaktır."
   service: true
-  speakers: [14]       
+  speakers: [14]  
+
+-
+  id: 014
+  title: "Alternative Payment Technologies"
+  description: "Türkiye'de ve Dünya'da kullanılan Mobil ödeme teknolojileri,Android/Apple Pay  ve kasasız ödeme çözümlerinden bahsedeceğim.Gelecekte yeni nesil ödeme sistemlerimiz; IOT,Chatbot,Sanal Asistan,Biyometri ve günümüzde çok konuşulan Blokchain  hayatımızı nasıl değiştirecek?Geleceğin alternatif ödeme teknolojileri bizi uç noktalara götürecek."
+  service: true
+  speakers: [15]      
