@@ -49,7 +49,7 @@
 
 -
   id: 5
-  rockstar: false
+  rockstar: true
   name: "Hande"
   surname: "Çilingir"
   company: "Insider"
