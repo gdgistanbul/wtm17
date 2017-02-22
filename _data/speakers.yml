@@ -116,14 +116,14 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
 -
   id: 10
   rockstar: false
-  name: "Eda"
-  surname: "Yavuz"
-  company: "SEV American College"
-  title: "ICT Teacher"
-  bio: "Eda YAVUZ, Eğitim Teknolojileri Uzmanı ve ICT öğretmeni. Marmara Üniversitesi Bilgisayar ve Öğretim Teknolojileri Eğitmenliği Bölümünden mezun olmadan Robert Kolej ve SEV Amerikan Koleji kurumlarında stajyerlik yaparak profesyonel kariyerime giriş yaptım. 1,5 yıllık staj deneyimlerim sonrasında SEV Amerikan Koleji'nde Eğitim Teknolojileri Uzman'ı olarak çalışmaya başladım. Halen devam etmekte olduğum okulda aynı zamanda Python ile İnovatif Projeler klubüne  danışmanlık yapmaktayım."
-  thumbnailUrl: eda-yavuz.jpg
+  name: "Erin"
+  surname: "O'Brien"
+  company: "Gram Games"
+  title: "Culture Developer"
+  bio: "Erin O'Brien is Culture Developer at Gram Games, and leads the creation and further refinement of the company’s culture, to build an inspiring place to work that is good for its people, as well as the business. Originally from Washington DC and graduated from Princeton University, she started her career in gaming as a content manager. After sharing ideas and supporting the culture team, she became Culture Developer, aiming to drive Gram’s culture as its own product, to optimise input and output, and ensure the business works for everyone. Having moved to Istanbul to work for Gram, her role continues to evolve as she leads on the search for new talent to fill multiple positions at the new office. Erin made her move into the video games industry as she believes it provides a fascinating opportunity to interact with a variety of people, both directly and by creating entertainment that resonates on a human level. She enjoys working in an industry whose aim is to ultimately make people happy."
+  thumbnailUrl: erin.jpg
   social:
-     - {name: "twitter", link: "https://twitter.com/iedayavuz"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/erin-o-brien-69b68326"}
 -
   id: 11
   rockstar: false
@@ -172,18 +172,18 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "twitter", link: "https://twitter.com/AmaEksi"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elçin-ekşi-261120a1"}
      - {name: "site", link: "https://medium.com/@Elcin"}
-#-
-   #id: 15
-   #name: "Zeynep"
-   #surname: "Erdemi"
-   #company: "BankalarArası Kart Merkezi"
-   #title: "Integration Engineer"
-   #bio: "Zeynep Erdemi,Üniversite ilk yıllarında E-ticaret sektörüne adım atarak,Yazılım Geliştirme ve ArGe projelerine ağırlık vererek E-ticaret sektöründe yer aldı.5 Yıllık  E-ticaret sektörün ardından 2015 yılında Bankalararası Kart Merkezi’nde Product   Manager olarak görevine başladı.2016 #yılı itibari ile Uygulama Geliştirme bölümünde Integration Engineer olarak görev almakta, Ödeme Sistemleri,Entegrasyon ve İnovasyon konusunda çalışmalar sağlamaktadır.İstanbul Üniversitesi ve  Anadolu Üniversitesinden  mezun."
-   #thumbnailUrl: .jpg
-   #social:
-   #  - {name: "site", link: "https://medium.com/@zeyneperdemi"}
-   #  - {name: "twitter", link: "https://twitter.com/ZErdemi"}
-   #  - {name: "linkedin", link: "https://www.linkedin.com/in/zeyneperdemi"}
+-
+   id: 15
+   name: "Zeynep"
+   surname: "Erdemi"
+   company: "BankalarArası Kart Merkezi"
+   title: "Integration Engineer"
+   bio: "Zeynep Erdemi,Üniversite ilk yıllarında E-ticaret sektörüne adım atarak,Yazılım Geliştirme ve ArGe projelerine ağırlık vererek E-ticaret sektöründe yer aldı.5 Yıllık  E-ticaret sektörün ardından 2015 yılında Bankalararası Kart Merkezi’nde Product   Manager olarak görevine başladı.2016 #yılı itibari ile Uygulama Geliştirme bölümünde Integration Engineer olarak görev almakta, Ödeme Sistemleri,Entegrasyon ve İnovasyon konusunda çalışmalar sağlamaktadır.İstanbul Üniversitesi ve  Anadolu Üniversitesinden  mezun."
+   thumbnailUrl: zeyneperdemi.jpg
+   social:
+    - {name: "site", link: "https://medium.com/@zeyneperdemi"}
+    - {name: "twitter", link: "https://twitter.com/ZErdemi"}
+    - {name: "linkedin", link: "https://www.linkedin.com/in/zeyneperdemi"}
 -
    id: 16
    name: "Emine"
