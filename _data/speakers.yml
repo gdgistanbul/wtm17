@@ -1,17 +1,6 @@
 -
   id: 1
   rockstar: true
-  name: "Hale"
-  surname: "Dönertaşlı"
-  company: "Google"
-  title: "Technical Project Manager"
-  bio: "1981 yılında İstanbul’da doğdum. İki üniversite ve üç master bitirdim. Şu anda doktorama devam etmekteyim. Geçtiğimiz on yılı Amerika’da ve son üç yılı da İrlanda’da geçirdim. Son yedi yıldır Google’da Network Mühendisi olarak çalışıyorum ve yaklaşık 46 projenin yönetiminden sorumluyum."
-  thumbnailUrl: hale.jpg
-  social:
-     - {name: "linkedin", link: "https://www.linkedin.com/in/hale-donertasli-8a05213/"}
--
-  id: 2
-  rockstar: true
   name: "Sarah"
   surname: "Gordon"
   company: "Google"
@@ -21,6 +10,18 @@
   social:
      - {name: "twitter", link: "https://twitter.com/srgsrg"}
      - {name: "google-plus", link: "https://plus.google.com/+SarahGordon"}
+-
+  id: 2
+  rockstar: true
+  name: "Hale"
+  surname: "Dönertaşlı"
+  company: "Google"
+  title: "Technical Project Manager"
+  bio: "1981 yılında İstanbul’da doğdum. İki üniversite ve üç master bitirdim. Şu anda doktorama devam etmekteyim. Geçtiğimiz on yılı Amerika’da ve son üç yılı da İrlanda’da geçirdim. Son yedi yıldır Google’da Network Mühendisi olarak çalışıyorum ve yaklaşık 46 projenin yönetiminden sorumluyum."
+  thumbnailUrl: hale.jpg
+  social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/hale-donertasli-8a05213/"}
+
 -
   id: 3
   rockstar: true
@@ -34,8 +35,46 @@
   social:
      - {name: "twitter", link: "https://twitter.com/basaktaspinar"}
      - {name: "instagram", link: "https://www.instagram.com/girisimcianne/"}
+
 -
-  id: 4
+   id: 4
+   rockstar: true
+   name: "Dilek"
+   surname: "Dayınarlı"
+   company: "ScaleX"
+   title: "Founder and Managing Partner "
+   bio: "As founder at ScaleX, she is helping scale-up tech compenies to Scale and growth internationally. Worked at 212 as VC focusing on early and growth stage technology companies. Prior to 212, she worked at Groupon as a Director of Strategy and Analysis. Previously, she was a Senior Management Consultant in Accenture’s Communications & High Technology. She spent the first couple of years of her career in Turkey as a Business Developer at Koc Holding’s Telecom division executing business development and strategy. She started her career in the USA, where she held different project management positions and also created her own start-up."
+   thumbnailUrl: dilek.jpg
+   social:      
+
+-
+  id: 5
+  rockstar: true
+  name: "Hande"
+  surname: "Çilingir"
+  company: "Insider"
+  title: "Co-founder & CEO"
+  bio: "Hande Çilingir, London School of Economics, Economics&Management bölümünden mezun olduktan sonra Shanghai University’de ‘International Chinese and Culture’ yüksek lisans programını bitirdi.
+Farklı şirketleri, iş yapış tarzlarını ve en önemlisi kültürlerini öğrenmek, hangi alanda kariyerine devam edeceğine karar vermek adına PepsiCo, Zorlu Holding, Eczacıbaşı, Alarko gibi şirketlerde fınans, iç denetim, pazarlama ve satış gibi departmanlarda çalıştı.
+İngiltere’de ve Çin’de eğitim ve kariyerin ardından, ilk girişiminde Fethiye’deki İngiliz ailelerin misafir ettiği, İngiliz öğretmenlerin eğitim verdiği bir okul yapısını hayata geçiren Hande Çilingir, uçtan uca planladığı bu girişimi Serhat Soyuerel ile hayata geçirdi. Özellikle Avrupa’dan öğrenciler hedefleyen ve 1,5 yıl sonunda 28 ülkeden  1500 öğrenciye ulaşan bu girişimi 2011 yazının sonunda satarak çıkış yapan Çilingir, ara vermeden Insider'ı kurdu.
+Insider, başta e-ticaret siteleri olmak üzere dönüşüm (conversion) optimizasyonu ve öngörüsel tahminleme odaklı hizmetleriyle tanınıyor.  Bu sayede site sahiplerinin ziyaretçilerden/üyelerden daha verimli bir şekilde faydalanmasını sağlıyor. 4 yıl önce kurulan şirket, Londra, Moskova, Singapur, İstanbul, Dubai, Warsaw, Kuala Lumpur ve Jakarta’da ofislerinde 200'ü aşkın müşteriye hizmet veriyor.
+Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Girişimcisi seçilen Hande Çilingir aynı zamanda bir Endeavor Girişimcisi. 2016 yılında aldıkları 2,2 Milyon Dolar yatırım turuyla hedeflerine koşan Insider ise Wired Dergisi tarafından 2016 yılında Avrupa'nın En İyi 100 Startup'ı arasına seçildi."
+  thumbnailUrl: hande_cilingir.jpg
+  social:
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/hande-cilingir-4a4161a/tr"} 
+-
+  id: 6
+  rockstar: false
+  name: "Erin"
+  surname: "O'Brien"
+  company: "Gram Games"
+  title: "Culture Developer"
+  bio: "Erin O'Brien is Culture Developer at Gram Games, and leads the creation and further refinement of the company’s culture, to build an inspiring place to work that is good for its people, as well as the business. Originally from Washington DC and graduated from Princeton University, she started her career in gaming as a content manager. After sharing ideas and supporting the culture team, she became Culture Developer, aiming to drive Gram’s culture as its own product, to optimise input and output, and ensure the business works for everyone. Having moved to Istanbul to work for Gram, her role continues to evolve as she leads on the search for new talent to fill multiple positions at the new office. Erin made her move into the video games industry as she believes it provides a fascinating opportunity to interact with a variety of people, both directly and by creating entertainment that resonates on a human level. She enjoys working in an industry whose aim is to ultimately make people happy."
+  thumbnailUrl: erin.jpg
+  social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/erin-o-brien-69b68326"}
+-
+  id: 7
   rockstar: false
   name: "Ayla"
   surname: "Kara Coban"
@@ -46,7 +85,7 @@
   social:
      - {name: "linkedin", link: "https://tr.linkedin.com/in/aylakara"}
 -
-  id: 5
+  id: 8
   rockstar: false
   name: "Sevnur"
   surname: "Malik"
@@ -60,7 +99,7 @@
      - {name: "linkedin", link: "https://tr.linkedin.com/in/sevnurmalik"}
 
 -
-  id: 6
+  id: 9
   rockstar: false
   name: "Elif"
   surname: "Boncuk"
@@ -74,23 +113,9 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "site", link: "https://medium.com/@elifbon"}
      - {name: "twitter", link: "https://twitter.com/elifbon_"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
+
 -
-  id: 7
-  rockstar: true
-  name: "Hande"
-  surname: "Çilingir"
-  company: "Insider"
-  title: "Co-founder & CEO"
-  bio: "Hande Çilingir, London School of Economics, Economics&Management bölümünden mezun olduktan sonra Shanghai University’de ‘International Chinese and Culture’ yüksek lisans programını bitirdi.
-Farklı şirketleri, iş yapış tarzlarını ve en önemlisi kültürlerini öğrenmek, hangi alanda kariyerine devam edeceğine karar vermek adına PepsiCo, Zorlu Holding, Eczacıbaşı, Alarko gibi şirketlerde fınans, iç denetim, pazarlama ve satış gibi departmanlarda çalıştı.
-İngiltere’de ve Çin’de eğitim ve kariyerin ardından, ilk girişiminde Fethiye’deki İngiliz ailelerin misafir ettiği, İngiliz öğretmenlerin eğitim verdiği bir okul yapısını hayata geçiren Hande Çilingir, uçtan uca planladığı bu girişimi Serhat Soyuerel ile hayata geçirdi. Özellikle Avrupa’dan öğrenciler hedefleyen ve 1,5 yıl sonunda 28 ülkeden  1500 öğrenciye ulaşan bu girişimi 2011 yazının sonunda satarak çıkış yapan Çilingir, ara vermeden Insider'ı kurdu.
-Insider, başta e-ticaret siteleri olmak üzere dönüşüm (conversion) optimizasyonu ve öngörüsel tahminleme odaklı hizmetleriyle tanınıyor.  Bu sayede site sahiplerinin ziyaretçilerden/üyelerden daha verimli bir şekilde faydalanmasını sağlıyor. 4 yıl önce kurulan şirket, Londra, Moskova, Singapur, İstanbul, Dubai, Warsaw, Kuala Lumpur ve Jakarta’da ofislerinde 200'ü aşkın müşteriye hizmet veriyor.
-Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Girişimcisi seçilen Hande Çilingir aynı zamanda bir Endeavor Girişimcisi. 2016 yılında aldıkları 2,2 Milyon Dolar yatırım turuyla hedeflerine koşan Insider ise Wired Dergisi tarafından 2016 yılında Avrupa'nın En İyi 100 Startup'ı arasına seçildi."
-  thumbnailUrl: hande_cilingir.jpg
-  social:
-     - {name: "linkedin", link: "https://tr.linkedin.com/in/hande-cilingir-4a4161a/tr"}
--
-  id: 8
+  id: 10
   rockstar: false
   name: "Merve"
   surname: "Kara"
@@ -101,7 +126,32 @@ Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Giri�
   social:
      - {name: "twitter", link: "https://twitter.com/noirmerve"}
 -
-  id: 9
+  id: 11
+  rockstar: false
+  name: "Esin"
+  surname: "Işık"
+  company: "Independent Experience Designer"
+  title: "Esindesign"
+  bio: "Since 2016, Esin is an independent consultant for startups in product and experience design  while carrying on her Google UX/UI Design Expert and an IDEO U Fellowships. She is very passionate about sharing processes, methods of human centred experience design via workshops, courses, seminars and projects. Prior to her independent career, she worked as an in-house user experience designer in major IT companies in banking industry after  her undergraduate degree in METU / Ankara on industrial design her Masters Degree in TUDelft/ the Netherlands on designing for Interaction. She is now travelling through South America with a co-working traveller group and exploring her two passions: design and travel."
+  thumbnailUrl: esin-isik.jpg
+  social:
+     - {name: "twitter", link: "https://twitter.com/esinishi"}
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/esinis"}
+-
+  id: 12
+  rockstar: false
+  name: "Didem"
+  surname: "Gündoğdu"
+  company: "Verilista"
+  title: "PhD Candidate, Co-founder of Verilista"
+  bio: "Didem Gündoğdu is a PhD student at the University of Trento, Italy, Information Engineering and Computer Science department, under the scholarship from Fondazione Bruno Kessler, in the Mobile and Social Computing Lab (MobS Lab). She completed her MSc in computer science at Bogazici University, Turkey, after 15 years in the information technologies industry. Her main research is anomaly detection in telecommunication data using stochastic methods. In the meantime, she is working on establishing her own Start-up Verilista to understand failures of IT systems."
+  thumbnailUrl: didem-gundogdu.jpeg
+  social:
+     - {name: "site", link: "http://www.didemgundogdu.net"}
+     - {name: "twitter", link: "https://twitter.com/GundogduDidem"}
+
+-
+  id: 13
   rockstar: false
   name: "Semen"
   surname: "Cirit"
@@ -114,42 +164,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
   social:
      - {name: "twitter", link: "https://twitter.com/semencirit"}
 -
-  id: 10
-  rockstar: false
-  name: "Erin"
-  surname: "O'Brien"
-  company: "Gram Games"
-  title: "Culture Developer"
-  bio: "Erin O'Brien is Culture Developer at Gram Games, and leads the creation and further refinement of the company’s culture, to build an inspiring place to work that is good for its people, as well as the business. Originally from Washington DC and graduated from Princeton University, she started her career in gaming as a content manager. After sharing ideas and supporting the culture team, she became Culture Developer, aiming to drive Gram’s culture as its own product, to optimise input and output, and ensure the business works for everyone. Having moved to Istanbul to work for Gram, her role continues to evolve as she leads on the search for new talent to fill multiple positions at the new office. Erin made her move into the video games industry as she believes it provides a fascinating opportunity to interact with a variety of people, both directly and by creating entertainment that resonates on a human level. She enjoys working in an industry whose aim is to ultimately make people happy."
-  thumbnailUrl: erin.jpg
-  social:
-     - {name: "linkedin", link: "https://www.linkedin.com/in/erin-o-brien-69b68326"}
--
-  id: 11
-  rockstar: false
-  name: "Didem"
-  surname: "Gündoğdu"
-  company: "Verilista"
-  title: "PhD Candidate, Co-founder of Verilista"
-  bio: "Didem Gündoğdu is a PhD student at the University of Trento, Italy, Information Engineering and Computer Science department, under the scholarship from Fondazione Bruno Kessler, in the Mobile and Social Computing Lab (MobS Lab). She completed her MSc in computer science at Bogazici University, Turkey, after 15 years in the information technologies industry. Her main research is anomaly detection in telecommunication data using stochastic methods. In the meantime, she is working on establishing her own Start-up Verilista to understand failures of IT systems."
-  thumbnailUrl: didem-gundogdu.jpeg
-  social:
-     - {name: "site", link: "http://www.didemgundogdu.net"}
-     - {name: "twitter", link: "https://twitter.com/GundogduDidem"}
--
-  id: 12
-  rockstar: false
-  name: "Esin"
-  surname: "Işık"
-  company: "Independent Experience Designer"
-  title: "Esindesign"
-  bio: "Since 2016, Esin is an independent consultant for startups in product and experience design  while carrying on her Google UX/UI Design Expert and an IDEO U Fellowships. She is very passionate about sharing processes, methods of human centred experience design via workshops, courses, seminars and projects. Prior to her independent career, she worked as an in-house user experience designer in major IT companies in banking industry after  her undergraduate degree in METU / Ankara on industrial design her Masters Degree in TUDelft/ the Netherlands on designing for Interaction. She is now travelling through South America with a co-working traveller group and exploring her two passions: design and travel."
-  thumbnailUrl: esin-isik.jpg
-  social:
-     - {name: "twitter", link: "https://twitter.com/esinishi"}
-     - {name: "linkedin", link: "https://tr.linkedin.com/in/esinis"}
--
-  id: 13
+  id: 14
   rockstar: false
   name: "Filiz"
   surname: "Altıntürk"
@@ -160,7 +175,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
   social:
      - {name: "twitter", link: "https://twitter.com/Filiz_Altinturk"}
 -
-  id: 14
+  id: 15
   rockstar: false
   name: "Elçin"
   surname: "Ekşi"
@@ -173,7 +188,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elçin-ekşi-261120a1"}
      - {name: "site", link: "https://medium.com/@Elcin"}
 -
-   id: 15
+   id: 16
    name: "Zeynep"
    surname: "Erdemi"
    company: "BankalarArası Kart Merkezi"
@@ -185,7 +200,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
     - {name: "twitter", link: "https://twitter.com/ZErdemi"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/zeyneperdemi"}
 -
-   id: 16
+   id: 17
    name: "Emine"
    surname: "Çelik"
    company: "Turkcell Global Bilgi"
@@ -195,7 +210,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
    social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/emine-celik-75756325/"}     
 -
-   id: 17
+   id: 18
    name: "Sinem"
    surname: "Şahin"
    company: "Davis Wright Tremaine"
@@ -206,7 +221,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "site", link: "http://www.dwt.com/people/sinemsahin/"}
      - {name: "linkedin", link: "https://www.linkedin.com/in/sinemsahin/"} 
 -
-   id: 18
+   id: 19
    name: "Sıla"
    surname: "Sunal"
    company: "Michael page"
@@ -217,7 +232,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "twitter", link: "https://twitter.com/michaelpagetr"} 
      - {name: "linkedin", link: "https://www.linkedin.com/groups/3812636"} 
 -
-   id: 19
+   id: 20
    name: "Tuğçe"
    surname: "Damgacı"
    company: "Michael page"
@@ -228,15 +243,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "twitter", link: "https://twitter.com/michaelpagetr"}  
      - {name: "linkedin", link: "https://www.linkedin.com/groups/3812636"}      
 
--
-   id: 20
-   name: "Dilek"
-   surname: "Dayınarlı"
-   company: "ScaleX"
-   title: "Founder and Managing Partner "
-   bio: "As founder at ScaleX, she is helping scale-up tech compenies to Scale and growth internationally. Worked at 212 as VC focusing on early and growth stage technology companies. Prior to 212, she worked at Groupon as a Director of Strategy and Analysis. Previously, she was a Senior Management Consultant in Accenture’s Communications & High Technology. She spent the first couple of years of her career in Turkey as a Business Developer at Koc Holding’s Telecom division executing business development and strategy. She started her career in the USA, where she held different project management positions and also created her own start-up."
-   thumbnailUrl: dilek.jpg
-   social:       
+
 # -
 #   id: 0
 #   name: ""
