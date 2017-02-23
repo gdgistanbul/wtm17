@@ -242,7 +242,18 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
    social:
      - {name: "twitter", link: "https://twitter.com/michaelpagetr"}  
      - {name: "linkedin", link: "https://www.linkedin.com/groups/3812636"}      
-
+-
+   id: 21
+   name: "Hazel"
+   surname: "Kavılı"
+   company: "Istanbul Technical University (ITU)"
+   title: "Data Analyst, PhD Student, Founder of R-Ladies Istanbul"
+   bio: "I am a Data Analyst who loves work with R and RStudio. I found R-Ladies Istanbul in September 2016 and having monthly sessions with great, passionate ladies! 
+I have graduated from department of Statistics (BS and MS) at Yıldız Technical University in 2016.  I am currently continuing my academic life as PhD student in Earth System Science program at ITU (Istanbul Technical University) and working in a TUBITAK (Scientific and Technological Research Council of Turkey) project which is about examining characteristics and changes in archaeology-related environmental data during the Holocene period in Anatolia. I love playing ukulele and Spanish language! Hasta luego! "
+   thumbnailUrl: hazel.png
+   social:
+     - {name: "twitter", link: "https://twitter.com/ZofiatheWitch"}  
+     - {name: "site", link: "https://medium.com/@zofiathewitch"} 
 
 # -
 #   id: 0

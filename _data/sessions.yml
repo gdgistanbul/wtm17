@@ -139,6 +139,11 @@ Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım fi
   description: "Talking about the current recruitment trends in technology. Diversity policies: How do companies implement their diversity and inclusion policies? Do they actually work, are they practical or just written to seem good on paper? Has the mentality against sexism changed -on both employee and employers' side-? Problems technical profiles face in recruitment. Ways and methods for candidates to express themselves better. The imbalance between profiles and sectoral needs. Share personal experiences as women who used to work at technology and now recruit for technology companies. The issues we face, the change we’ve witnessed, the future we expect and the future we hope to have for women in tech."
   service: true
   speakers: [20]
- 
+-
+  id: 021
+  title: "Creating Elegant Graphs with R Programming"
+  description: "We hear the hot topics “data science” and “big data” all the time. And we know “data is everywhere” and it is growing faster than ever before. Meanwhile, cleaning, preparing, analysing and predicting tools of data is developing. And R is one the best tools to work on data.R is a very powerful tool make data analysis and solve statistical problems. It is able to perform simulations, graph results, create summary statistics, export findings to different type of files and accomplish almost any programming feat by simply using the base installation of R. It is widely used in commercial industries to enable organizations to make more-informed business decisions and by scientists and researchers to verify or disprove scientific models, theories and hypotheses.In this session I want to introduce a few libraries that display R’s reach. Especially, in terms of producing easy and elegant visualizations and making reproducible reports. Hadley Wickham has crated an amazing library which takes graphing/plotting in R to next level. The library is called ggplot2. With this library visualization is easy and efficient. I’m hoping everyone will enjoy using this tool to make their data analysis great! "
+  service: true
+  speakers: [21]
 
 
