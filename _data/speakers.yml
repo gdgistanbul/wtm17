@@ -87,6 +87,17 @@ Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Giri�
 -
   id: 8
   rockstar: false
+  name: "Barış"
+  surname: "Yesugey"
+  company: "Google"
+  title: "Region Lead: Greater Middle East, Caucasus, Central Asia Google Developer Relations"
+  bio: "As an engineer who is in love with the coolest new technology, I thrive by connecting to other developers who share similar passions. My team is behind all the rich, technical content on developers.google.com. I act as an advocate for third party developers’ needs within Google and passionate evangelists for Google technologies in the outside world. I love connecting with other developers and partners; people who enjoy teaching, speaking or writing about cutting-edge technologies.By working closely with third party developers who are building applications and businesses that showcase Google’s developer platforms, I grow and support the developer community, teaching and supporting developers around MENA region."
+  thumbnailUrl: baris_yesugey.jpg
+  social:
+     - {name: "linkedin", link: "https://www.linkedin.com/in/barisyesugey"}
+-
+  id: 9
+  rockstar: false
   name: "Sevnur"
   surname: "Malik"
   company: "Medyanet"
@@ -99,7 +110,7 @@ Insider'daki başarısı sayesinde Microsoft yılın En başarılı Kadın Giri�
      - {name: "linkedin", link: "https://tr.linkedin.com/in/sevnurmalik"}
 
 -
-  id: 9
+  id: 10
   rockstar: false
   name: "Elif"
   surname: "Boncuk"
@@ -115,7 +126,7 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elif-boncuk-855a8728"}
 
 -
-  id: 10
+  id: 11
   rockstar: false
   name: "Merve"
   surname: "Kara"
@@ -126,7 +137,7 @@ In addition, she loves to travel and she is a professional photographer but her 
   social:
      - {name: "twitter", link: "https://twitter.com/noirmerve"}
 -
-  id: 11
+  id: 12
   rockstar: false
   name: "Esin"
   surname: "Işık"
@@ -138,7 +149,7 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "twitter", link: "https://twitter.com/esinishi"}
      - {name: "linkedin", link: "https://tr.linkedin.com/in/esinis"}
 -
-  id: 12
+  id: 13
   rockstar: false
   name: "Didem"
   surname: "Gündoğdu"
@@ -151,7 +162,7 @@ In addition, she loves to travel and she is a professional photographer but her 
      - {name: "twitter", link: "https://twitter.com/GundogduDidem"}
 
 -
-  id: 13
+  id: 14
   rockstar: false
   name: "Semen"
   surname: "Cirit"
@@ -164,7 +175,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
   social:
      - {name: "twitter", link: "https://twitter.com/semencirit"}
 -
-  id: 14
+  id: 15
   rockstar: false
   name: "Filiz"
   surname: "Altıntürk"
@@ -175,7 +186,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
   social:
      - {name: "twitter", link: "https://twitter.com/Filiz_Altinturk"}
 -
-  id: 15
+  id: 16
   rockstar: false
   name: "Elçin"
   surname: "Ekşi"
@@ -188,7 +199,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "linkedin", link: "https://tr.linkedin.com/in/elçin-ekşi-261120a1"}
      - {name: "site", link: "https://medium.com/@Elcin"}
 -
-   id: 16
+   id: 17
    name: "Zeynep"
    surname: "Erdemi"
    company: "BankalarArası Kart Merkezi"
@@ -200,7 +211,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
     - {name: "twitter", link: "https://twitter.com/ZErdemi"}
     - {name: "linkedin", link: "https://www.linkedin.com/in/zeyneperdemi"}
 -
-   id: 17
+   id: 18
    name: "Emine"
    surname: "Çelik"
    company: ""
@@ -210,7 +221,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
    social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/emine-celik-75756325/"}     
 -
-   id: 18
+   id: 19
    name: "Sinem"
    surname: "Şahin"
    company: "Davis Wright Tremaine"
@@ -221,7 +232,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "site", link: "http://www.dwt.com/people/sinemsahin/"}
      - {name: "linkedin", link: "https://www.linkedin.com/in/sinemsahin/"} 
 -
-   id: 19
+   id: 20
    name: "Sıla"
    surname: "Sunal"
    company: "Michael page"
@@ -232,7 +243,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "twitter", link: "https://twitter.com/michaelpagetr"} 
      - {name: "linkedin", link: "https://www.linkedin.com/groups/3812636"} 
 -
-   id: 20
+   id: 21
    name: "Tuğçe"
    surname: "Damgacı"
    company: "Michael page"
@@ -243,7 +254,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
      - {name: "twitter", link: "https://twitter.com/michaelpagetr"}  
      - {name: "linkedin", link: "https://www.linkedin.com/groups/3812636"}      
 -
-   id: 21
+   id: 22
    name: "Hazel"
    surname: "Kavılı"
    company: "Istanbul Technical University (ITU)"

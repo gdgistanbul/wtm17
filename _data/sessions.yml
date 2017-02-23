@@ -61,76 +61,70 @@
   service: true
   speakers: [7]
 -
-  id: 008
+  id: 009
   title: "Public Speaking Speechless Training"
   description: "This special training is designed with the top tips from the public speaking experts at Speechless with Google Developers. Whether you are a leader, developer, manager, student or entrepreneur this workshop training will help you to go from an ordinary presenter to an outstanding performer! At least we promise to have a lot of fun!<br/>Bu workshop çalışması Speechless'ın en iyi sunum yapan kişilerinin özel tavsiyeleri doğrultusunda Google Developers ile birlikte hazırlanan video serisi doğrultusunda hazırlanmıştır. Bir lider, yazılımcı, yönetici, öğrenci ya da girişimciyseniz bu workshop çalışması ile sıradan bir sunumdan muşteşem bir sunucuya dönüşebilirsiniz! En azından çok eğleneceğinizi vaad ediyoruz!"
-  service: true
-  speakers: [8]
--
-  id: 009
-  title: "Actions on Google: Build for Google Assistant"
-  description: "Sunumda, Google Asistan için uygulama geliştirmemizi sağlayan Actions on Google, şu an için kullanıcılarımızı asistanla tanıştırmamıza olanak sağlayan tek araç olarak Google Home aracılığıyla anlatılacaktır."
   service: true
   speakers: [9]
 -
   id: 010
-  title: "Teknoloji Girişimciliği ve Liderlik Paneli"
-  description: "Türkiye'nin en başarılı girişimlerinden ikisi, teknoloji girişimcisi iki kadın lider tarafından kuruldu. Bu panelde onların başarı hikayelerini, çok fazla konuşulmayan yeni bir perspektiften dinleyeceğiz. Onlara Türkiye'nin teknoloji alanında tek kadın VC yatırımcısı eşlik edecek. Soruları Webrazzi'den Merve Kara ve sizler soracaksınız, Hande Çilingir, Başak Taşpınar Değim ve Dilek Dayınarlı yanıtlayacak."
+  title: "Actions on Google: Build for Google Assistant"
+  description: "Sunumda, Google Asistan için uygulama geliştirmemizi sağlayan Actions on Google, şu an için kullanıcılarımızı asistanla tanıştırmamıza olanak sağlayan tek araç olarak Google Home aracılığıyla anlatılacaktır."
   service: true
   speakers: [10]
 -
   id: 011
-  title: "We have numbers, now what?"
-  description: ""
+  title: "Teknoloji Girişimciliği ve Liderlik Paneli"
+  description: "Türkiye'nin en başarılı girişimlerinden ikisi, teknoloji girişimcisi iki kadın lider tarafından kuruldu. Bu panelde onların başarı hikayelerini, çok fazla konuşulmayan yeni bir perspektiften dinleyeceğiz. Onlara Türkiye'nin teknoloji alanında tek kadın VC yatırımcısı eşlik edecek. Soruları Webrazzi'den Merve Kara ve sizler soracaksınız, Hande Çilingir, Başak Taşpınar Değim ve Dilek Dayınarlı yanıtlayacak."
   service: true
   speakers: [11]
 -
   id: 012
-  title: "What is the right question, “What is Big Data” or “How to use the data”?"
+  title: "We have numbers, now what?"
   description: ""
   service: true
   speakers: [12]
 -
   id: 013
-  title: "Noestimation on Jira"
-  description: "Bu sunumda noestimation ile benzer geçmiş  projelere göre gelecek projelerin zaman tahminlemesi nasıl yapılır istatistiksel olarak anlatılacaktır."
+  title: "What is the right question, “What is Big Data” or “How to use the data”?"
+  description: ""
   service: true
   speakers: [13]
 -
   id: 014
-  title: "Front-end'in 1 saniyesi"
-  description: "Günlük 1.5 milyon ziyaretçisi olan nesine.com'da front-end performansı üzerine yaptığım çalışmalar ve geliştirmeler sonucu 1 saniyelik bir iyileştirmenin kullanıcı deneyimi ve site trafiğindeki olumlu etkisi üzerine bir sunum yapacağım. Sunumum içerisinde http/2, Service Workers, Resource Hints, WebFont Performansı'nın önemlerinden bahsederken NY Times ve BBC'nin bu konuda yaptığı geliştirmelerden örnekler vereceğim."
+  title: "Noestimation on Jira"
+  description: "Bu sunumda noestimation ile benzer geçmiş  projelere göre gelecek projelerin zaman tahminlemesi nasıl yapılır istatistiksel olarak anlatılacaktır."
   service: true
   speakers: [14]
 -
   id: 015
+  title: "Front-end'in 1 saniyesi"
+  description: "Günlük 1.5 milyon ziyaretçisi olan nesine.com'da front-end performansı üzerine yaptığım çalışmalar ve geliştirmeler sonucu 1 saniyelik bir iyileştirmenin kullanıcı deneyimi ve site trafiğindeki olumlu etkisi üzerine bir sunum yapacağım. Sunumum içerisinde http/2, Service Workers, Resource Hints, WebFont Performansı'nın önemlerinden bahsederken NY Times ve BBC'nin bu konuda yaptığı geliştirmelerden örnekler vereceğim."
+  service: true
+  speakers: [15]
+-
+  id: 016
   title: "Omik çağında sırada ne var? SosyOmik!"
   description: "Genomik, DNA’nın moleküler yapısının ortaya çıkarılması ve daha sonra insan genom projesinin tamamlanması ile hızla genişleyen bir araştırma alanı ve gündelik yaşama yeni girmeye başlayan teknolojilerin temelinde bulunan bir çalışma alanıdır. Bu sunumda, genomik, omik çağı, genom, genomik çalışmalarında gelinen nokta, kişilerin kendi genom verisine erişmeleri ve bu verilerin önemi, genetik çalışmalarda açık kaynak yaklaşımlar ele alınacak ve paylaşılacaktır. Önümüzdeki yıllarda kişilerin genom verilerinin ulaşılabilir ve paylaşılabilir olması aslında “gen”lerin sosyalleşmesi olarak görülebilir. Sunum “sosyomik” terimi ile geleceğe dair genetik biliminin önemini vurgulayacaktır."
   service: true
-  speakers: [15]  
+  speakers: [16]  
 -
-  id: 016
+  id: 017
   title: "Alternative Payment Technologies"
   description: "Türkiye'de ve Dünya'da kullanılan Mobil ödeme teknolojileri,Android/Apple Pay  ve kasasız ödeme çözümlerinden bahsedeceğim.Gelecekte yeni nesil ödeme sistemlerimiz; IOT,Chatbot,Sanal Asistan,Biyometri ve günümüzde çok konuşulan Blokchain  hayatımızı nasıl değiştirecek?Geleceğin alternatif ödeme teknolojileri bizi uç noktalara götürecek."
   service: true
-  speakers: [16] 
+  speakers: [17] 
 -
-  id: 017
+  id: 018
   title: "Teknolojinin Gücü Adına: Kalite Süreci"
   description: "Uçak biletimizi web’den alıp mobil uygulamadan check-in oluyoruz. Kiralayacağımız evi, yiyeceğimiz akşam yemeğini, çocugun okul notlarını, sevgilimize gönderdiğimiz çiçeği, kısacası hayatımızdaki pek çok deneyime dokunan parçası yazılım uygulamaları var. 
 Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım firmalarında fonksiyonel testten, müşteri deneyimi ve kaliteye doğru dönüşüyor.  Bu konuşmanın amacı, kalite ve test arasındaki farkı tanımlamak ve ileriye yönelik öngörüleri paylaşmaktır."
   service: true
-  speakers: [17]
--
-  id: 018
-  title: "Understanding the Legal Issues in Startups - How to Protect you Ideas"
-  description: "I would like to give an overview of the legal issue and opportunities when someone has a good idea and advise on how to protect them."
-  service: true
   speakers: [18]
 -
   id: 019
-  title: "Recruting Women in IT"
-  description: "Talking about the current recruitment trends in technology. Diversity policies: How do companies implement their diversity and inclusion policies? Do they actually work, are they practical or just written to seem good on paper? Has the mentality against sexism changed -on both employee and employers' side-? Problems technical profiles face in recruitment. Ways and methods for candidates to express themselves better. The imbalance between profiles and sectoral needs. Share personal experiences as women who used to work at technology and now recruit for technology companies. The issues we face, the change we’ve witnessed, the future we expect and the future we hope to have for women in tech."
+  title: "Understanding the Legal Issues in Startups - How to Protect you Ideas"
+  description: "I would like to give an overview of the legal issue and opportunities when someone has a good idea and advise on how to protect them."
   service: true
   speakers: [19]
 -
@@ -141,9 +135,15 @@ Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım fi
   speakers: [20]
 -
   id: 021
-  title: "Creating Elegant Graphs with R Programming"
-  description: "We hear the hot topics “data science” and “big data” all the time. And we know “data is everywhere” and it is growing faster than ever before. Meanwhile, cleaning, preparing, analysing and predicting tools of data is developing. And R is one the best tools to work on data.R is a very powerful tool make data analysis and solve statistical problems. It is able to perform simulations, graph results, create summary statistics, export findings to different type of files and accomplish almost any programming feat by simply using the base installation of R. It is widely used in commercial industries to enable organizations to make more-informed business decisions and by scientists and researchers to verify or disprove scientific models, theories and hypotheses.In this session I want to introduce a few libraries that display R’s reach. Especially, in terms of producing easy and elegant visualizations and making reproducible reports. Hadley Wickham has crated an amazing library which takes graphing/plotting in R to next level. The library is called ggplot2. With this library visualization is easy and efficient. I’m hoping everyone will enjoy using this tool to make their data analysis great! "
+  title: "Recruting Women in IT"
+  description: "Talking about the current recruitment trends in technology. Diversity policies: How do companies implement their diversity and inclusion policies? Do they actually work, are they practical or just written to seem good on paper? Has the mentality against sexism changed -on both employee and employers' side-? Problems technical profiles face in recruitment. Ways and methods for candidates to express themselves better. The imbalance between profiles and sectoral needs. Share personal experiences as women who used to work at technology and now recruit for technology companies. The issues we face, the change we’ve witnessed, the future we expect and the future we hope to have for women in tech."
   service: true
   speakers: [21]
+-
+  id: 022
+  title: "Creating Elegant Graphs with R Programming Workshop"
+  description: "We hear the hot topics “data science” and “big data” all the time. And we know “data is everywhere” and it is growing faster than ever before. Meanwhile, cleaning, preparing, analysing and predicting tools of data is developing. And R is one the best tools to work on data.R is a very powerful tool make data analysis and solve statistical problems. It is able to perform simulations, graph results, create summary statistics, export findings to different type of files and accomplish almost any programming feat by simply using the base installation of R. It is widely used in commercial industries to enable organizations to make more-informed business decisions and by scientists and researchers to verify or disprove scientific models, theories and hypotheses.In this session I want to introduce a few libraries that display R’s reach. Especially, in terms of producing easy and elegant visualizations and making reproducible reports. Hadley Wickham has crated an amazing library which takes graphing/plotting in R to next level. The library is called ggplot2. With this library visualization is easy and efficient. I’m hoping everyone will enjoy using this tool to make their data analysis great! "
+  service: true
+  speakers: [22]
 
 
