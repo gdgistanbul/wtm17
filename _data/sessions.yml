@@ -26,8 +26,8 @@
   speakers: [1]
 -
   id: 002
-  title: ""
-  description: ""
+  title: "Yazılım Tanımlı Bilgisayar Ağları (Software Defined Networks - SDN)"
+  description: "Teknolojinin ilerlemesi ve İnternet Kullanımının artmasıyla birlikte, bilgisayar ağları zaman içinde değişime uğramıştır. En kapsamlı değişiklikler kendini arama motorlarının ve sosyal medya hizmet sağlıyıcılarının bilgisayar ağlarında görülmüştür. Hızla büyüyen bilgisayar ağlarında gördüğümüz en büyük değişikliklerden bir tanesi de router ve switchlerde yazılım ile donanımın birbirinden ayrılmasıdır. Yazılım Tanımlı Bilgisayar Ağları, merkezi kontrolü sağlamak ve performansı arttırmak motivasyonu ile bu şekilde doğmuştur."
   service: true
   speakers: [2]
 -
