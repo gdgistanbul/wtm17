@@ -99,7 +99,7 @@
 -
   id: 015
   title: "Front-end'in 1 saniyesi"
-  description: "Günlük 1.5 milyon ziyaretçisi olan nesine.com'da front-end performansı üzerine yaptığım çalışmalar ve geliştirmeler sonucu 1 saniyelik bir iyileştirmenin kullanıcı deneyimi ve site trafiğindeki olumlu etkisi üzerine bir sunum yapacağım. Sunumum içerisinde http/2, Service Workers, Resource Hints, WebFont Performansı'nın önemlerinden bahsederken NY Times ve BBC'nin bu konuda yaptığı geliştirmelerden örnekler vereceğim."
+  description: "Web siteleri için mobil uyumluluk ve performans artık bir tercih değil, zorunluluk. Gün geçtikçe artan internet kullanım oranları, özellikle de mobil cihazların göz ardı edilemeyecek yaygınlığı, tüm internet hızlarında ve tüm cihazlarda kullanıcı deneyimi geliştirmemiz konusunda bizi mecbur kılıyor. Hız ve performansın bu göz ardı edilemeyecek önemine karşın son birkaç yılda ortalama web sitelerinin boyutu üç katına çıktı ve birçok web tekniği ve platformu performansı göz ardı etti. Biten bataryalarımız, internet paketlerimiz ve sayfanın yüklenmesini beklerken yiten zamanlarımız oldu. Performans optimizasyonu şimdi yeni bir dalga, akım olarak karşımıza çıkar oldu. Bu sunumda kimler performans artışı için ne yaptı (NY Times ve BBC, Amazon ve tabi ki Nesine.com ), neler kazandı? Bunun için yapılabilecekler nelerdir (http/2, Service Workers, PWA, Resource Hints, WebFont Performans), biraz bunlardan bahsedeceğim."
   service: true
   speakers: [15]
 -
