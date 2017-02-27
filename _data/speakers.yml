@@ -266,7 +266,17 @@ I have graduated from department of Statistics (BS and MS) at Yıldız Technical
    social:
      - {name: "twitter", link: "https://twitter.com/ZofiatheWitch"}  
      - {name: "site", link: "https://medium.com/@zofiathewitch"} 
-
+-
+   id: 23
+   name: "İmge"
+   surname: "Kaya Sabancı"
+   company: "EMEIA (Europe, Middle East, India, and Africa) at EY"
+   title: "Entrepreneurial Winning Women Program Director"
+   bio: "Imge Kaya Sabanci is the Regional Director of Entrepreneurial Winning Women Program at Ernst & Young for Europe, Middle East, India and Africa. Prior to Ernst & Young, she was Turkey Program Manager of Goldman Sachs 10,000 Women. She also held communications and marketing executive occupations in Firmenich Turkey, Ulker, and Sabanci Holding. She received her Bachelor’s Degree of Economics from Sabanci University and Executive MBA from Ozyegin University. She also had part time academic engagement in IE Business School Center for Entrepreneurship, in Madrid, Spain.Kaya Sabanci has in-depth regional expertise about gender and development, women entrepreneurship, and women’s economic empowerment. She is an advisory board member of Citi Group’s Microentrepreneurship Awards, mentor of EBRD’s “Women in Business Programme”, and a jury member of General Electric’s Youth Innovation Camp. She represented women and the civil society and delivered a speech at the launch event of "Solutions 4 Youth Employment Global Coalition" at the World Bank & IMF 2014 Annual Meetings in Washington DC.Imge holds awards and recognitions for her contributions to international cooperation programs and women’s economic empowerment. RichTopia has listed her as one of "The 250 Most Influential Women Leaders" in the World, and Digital Age Magazine named her in "Inspiring 30" List of Turkish Women Leaders inspiring the digital world."
+   thumbnailUrl: imge.png
+   social:
+     - {name: "twitter", link: "https://twitter.com/imgekayasabanci"}  
+     - {name: "linkedin", link: "https://www.linkedin.com/in/imgekayasabanci/"} 
 # -
 #   id: 0
 #   name: ""

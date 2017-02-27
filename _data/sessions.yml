@@ -145,5 +145,10 @@ Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım fi
   description: "We hear the hot topics “data science” and “big data” all the time. And we know “data is everywhere” and it is growing faster than ever before. Meanwhile, cleaning, preparing, analysing and predicting tools of data is developing. And R is one the best tools to work on data.R is a very powerful tool make data analysis and solve statistical problems. It is able to perform simulations, graph results, create summary statistics, export findings to different type of files and accomplish almost any programming feat by simply using the base installation of R. It is widely used in commercial industries to enable organizations to make more-informed business decisions and by scientists and researchers to verify or disprove scientific models, theories and hypotheses.In this session I want to introduce a few libraries that display R’s reach. Especially, in terms of producing easy and elegant visualizations and making reproducible reports. Hadley Wickham has crated an amazing library which takes graphing/plotting in R to next level. The library is called ggplot2. With this library visualization is easy and efficient. I’m hoping everyone will enjoy using this tool to make their data analysis great! "
   service: true
   speakers: [22]
-
+-
+  id: 023
+  title: "Women’s economic empowerment, women leadership and the future of businesses"
+  description: "Discussing the ways women leadership and women entrepreneurship contribute to economic and social development, the talk will not only provide a snapshot of women’s current participation in the business but also will engage in the future of businesses, tech-oriented organizations, and place of women in this context."
+  service: true
+  speakers: [23]
 
