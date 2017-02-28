@@ -14,6 +14,8 @@
     - {name: "Chip Online", description: "Chip Online", link: "http://www.chip.com.tr/", imageUrl: "chiponline.png"}
     - {name: "Mynet", description: "Mynet", link: "http://www.mynet.com/", imageUrl: "mynet.png"}
     - {name: "WebMasto", description: "WebMasto", link: "http://www.webmasto.com/", imageUrl: "webmasto.png"}
+    - {name: "Dijital Ajanslar", description: "Dijital Ajanslar", link: "http://www.dijitalajanslar.com/", imageUrl: "digital_ajans.png"}
+
 -
   group: "Destekleyenler"
   elements:
