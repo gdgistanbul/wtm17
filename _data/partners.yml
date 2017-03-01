@@ -3,6 +3,10 @@
   elements: 
     - {name: "Google", description: "Google", link: "http://www.google.com.tr/", imageUrl: "google.svg"}
 -
+  group: "Gümüş Sponsor"
+  elements: 
+    - {name: "Thoughtworks", description: "Thoughtworks", link: "https://www.thoughtworks.com/", imageUrl: "thoughtworks.png"}
+-
   group: "Bronz Sponsor"
   elements: 
     - {name: "Gram Games", description: "Gram Games", link: "http://gram.gs/", imageUrl: "gramgames.png"}
