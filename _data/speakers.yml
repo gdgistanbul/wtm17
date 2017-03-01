@@ -139,15 +139,15 @@ In addition, she loves to travel and she is a professional photographer but her 
 -
   id: 12
   rockstar: false
-  name: "Esin"
-  surname: "Işık"
-  company: "Independent Experience Designer"
-  title: "Esindesign"
-  bio: "Since 2016, Esin is an independent consultant for startups in product and experience design  while carrying on her Google UX/UI Design Expert and an IDEO U Fellowships. She is very passionate about sharing processes, methods of human centred experience design via workshops, courses, seminars and projects. Prior to her independent career, she worked as an in-house user experience designer in major IT companies in banking industry after  her undergraduate degree in METU / Ankara on industrial design her Masters Degree in TUDelft/ the Netherlands on designing for Interaction. She is now travelling through South America with a co-working traveller group and exploring her two passions: design and travel."
-  thumbnailUrl: esin-isik.jpg
+  name: "Nilay"
+  surname: "Ocak"
+  company: "Customer Experience Design Expert"
+  title: ""
+  bio: "15 yılı aşkın kariyerimde Müşteri Deneyimi Tasarımı, Servis Tasarımı ve  Kullanıcı Deneyimi konularında uzmanlaştım. Ağırlıklı olarak finans sektöründe olmak üzere dijital kanal yönetimi ve stratejilerini kurgulamakta deneyimliyim. Türkiye’deki kullanıcı deneyimi ve müşteri deneyimi ekosisteminin gelişmesi için ilgili kişi ve kurumlarla da çalışmaktayım."
+  thumbnailUrl: nilay_ocak.png
   social:
-     - {name: "twitter", link: "https://twitter.com/esinishi"}
-     - {name: "linkedin", link: "https://tr.linkedin.com/in/esinis"}
+     - {name: "twitter", link: "https://twitter.com/nilayox"}
+     - {name: "linkedin", link: "https://www.linkedin.com/in/nilaygiray"}
 -
   id: 13
   rockstar: false
