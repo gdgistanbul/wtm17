@@ -39,7 +39,8 @@
      - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.png"}
      - {name: "Bilgisayar Mühendisleri Odası", description: "BMO", link: "http://www.bmo.org.tr/", imageUrl: "bmo-logo-png.png"}
      - {name: "R-Ladies", description: "R-Ladies", link: "https://rladies.org/", imageUrl: "r-ladies.png"}
-     - {name: "LazyLab Game Studio", description: "LazyLab Game Studio", link: "http://lazylabgames.com/", imageUrl: "lazylab_logo.png"}
      - {name: "Kagider", description: "Kagider", link: "http://www.kagider.org/", imageUrl: "kagider.jpg"}
+     - {name: "LazyLab Game Studio", description: "LazyLab Game Studio", link: "http://lazylabgames.com/", imageUrl: "lazylab_logo.png"}
+     
 
      #- {name: "Pazarlamasyon", description: "Pazarlamasyon", link: "http://www.pazarlamasyon.com/", imageUrl: "pazarlamasyon-logo.png"} 
