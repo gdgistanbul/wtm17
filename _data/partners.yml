@@ -10,6 +10,8 @@
   group: "Bronz Sponsor"
   elements: 
     - {name: "Gram Games", description: "Gram Games", link: "http://gram.gs/", imageUrl: "gramgames.png"}
+    - {name: "BKM Express", description: "BKM Express", link: "https://bkmexpress.com.tr/", imageUrl: "bkm.png"}
+
 -
    group: "Basın Sponsorları"
    elements:
