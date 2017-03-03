@@ -288,6 +288,17 @@ I have graduated from department of Statistics (BS and MS) at Yıldız Technical
    social:
      - {name: "twitter", link: "https://twitter.com/seymacc"}  
      - {name: "linkedin", link: "https://tr.linkedin.com/in/seyma-cakmak-06428134"} 
+-
+   id: 25
+   name: "Zehra"
+   surname: "Kavaşoğlu"
+   company: "Thoughtworks"
+   title: "Software Developer"
+   bio: "Zehra has been working as a Software Developer for over 6 years and she joined ThoughtWorks last year. She has experience in platforms like Java, Scala and Go. She's an advocate of Continuous Delivery approach. She has a Bachelor's and Postgraduate Degree on Computer Science from Istanbul Technical University. Her Master Thesis was on Sentiment Analysis in Data Mining. She continues to be an active researcher of Data Science. She passionate about seeking the best solution to a problem that she faces."
+   thumbnailUrl: zehra.png
+   social:
+     - {name: "twitter", link: "https://twitter.com/seymacc"}  
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/seyma-cakmak-06428134"} 
 # -
 #   id: 0
 #   name: ""
