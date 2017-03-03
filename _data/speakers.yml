@@ -277,6 +277,17 @@ I have graduated from department of Statistics (BS and MS) at Yıldız Technical
    social:
      - {name: "twitter", link: "https://twitter.com/imgekayasabanci"}  
      - {name: "linkedin", link: "https://www.linkedin.com/in/imgekayasabanci/"} 
+-
+   id: 24
+   name: "Şeyma"
+   surname: "Çakmak"
+   company: "Thoughtworks"
+   title: "Software Developer"
+   bio: "I graduated from Computer Engineering Department of Istanbul Technical University in 2011. After graduation, i worked in fin-tech sector as a software engineer for 4 years. I joined ThoughtWorks 2 years ago as a software developer consultant and working as full stack developer since then. I am an advocate of agile and extreme programming methodologies like TDD, pair programming and continuous improvement. Learning new programming languages also excite me a lot. Lately, i am mostly interested in web development and taking part in projects that we use trending web technologies."
+   thumbnailUrl: seymacakmak.jpg
+   social:
+     - {name: "twitter", link: "https://twitter.com/seymacc"}  
+     - {name: "linkedin", link: "https://tr.linkedin.com/in/seyma-cakmak-06428134"} 
 # -
 #   id: 0
 #   name: ""
