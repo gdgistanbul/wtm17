@@ -5,7 +5,7 @@
 -
   group: "Gümüş Sponsor"
   elements: 
-    - {name: "Thoughtworks", description: "Thoughtworks", link: "https://www.thoughtworks.com/", imageUrl: "thoughtworks.png"}
+    - {name: "Thoughtworks", description: "Thoughtworks", link: "https://www.thoughtworks.com/", imageUrl: "thoughtworks3.png"}
 -
   group: "Bronz Sponsor"
   elements: 
