@@ -151,4 +151,9 @@ Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım fi
   description: "Discussing the ways women leadership and women entrepreneurship contribute to economic and social development, the talk will not only provide a snapshot of women’s current participation in the business but also will engage in the future of businesses, tech-oriented organizations, and place of women in this context."
   service: true
   speakers: [23]
-
+-
+  id: 026
+  title: "Sosyal Robotlar and Google AnitaBorg Bursu"
+  description: "Bir robotu sosyal yapan özellikleri nelerdir? Robotları günlük hayatlarımıza alabilmek için onlardan neler bekliyoruz? Mevcut sosyal robotik çalışmaları ne aşamadadır? Konuşmamda örnek olarak "yaşlılar için geliştirilmiş egzersiz eğitmeni robotu" çalışmasını kullanıp bu soruları cevaplayacağım. Ayrıca Google AnitaBorg bursu başvuru süreci ve sonrası hakkındaki tecrübelerimi paylaşacağım."
+  service: true
+  speakers: [26]

@@ -296,7 +296,14 @@ I have graduated from department of Statistics (BS and MS) at Yıldız Technical
    title: "Software Developer"
    bio: "Zehra has been working as a Software Developer for over 6 years and she joined ThoughtWorks last year. She has experience in platforms like Java, Scala and Go. She's an advocate of Continuous Delivery approach. She has a Bachelor's and Postgraduate Degree on Computer Science from Istanbul Technical University. Her Master Thesis was on Sentiment Analysis in Data Mining. She continues to be an active researcher of Data Science. She passionate about seeking the best solution to a problem that she faces."
    thumbnailUrl: zehra.png
-  
+-
+   id: 26
+   name: "Binnur"
+   surname: "Görer"
+   company: "Boğaziçi Üniversitesi"
+   title: "Bilgisayar Mühendisliği Araştırma Görevlisi"
+   bio: "Binnur Görer Boğaziçi Üniversitesi Bilgisayar Mühendisliği Bölümü’nde doktora öğrencisidir. 2011 yılında aynı üniversite ve bölümden mezun olmuş, 2013 yılında “Çevre Destekli Yaşama Ortamlarındaki Yaşlı Kişiler İçin Geliştirilmiş Egzersiz Eğitmeni Robotu” başlıklı çalışmasıyla master derecesini almıştır. Boğaziçi Üniversitesi Robotik Araştırma Grubu ve Cerberus RoboCup Standart Platform Ligi Takımı üyesidir. 2015 yılı Google Anita Borg bursunu kazanan Görer’in temel araştırma alanları içerisinde sosyal robotlar ve insan-robot etkileşimi yer almaktadır."
+   thumbnailUrl: binnur.jpg 
 # -
 #   id: 0
 #   name: ""
