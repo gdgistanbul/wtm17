@@ -157,3 +157,9 @@ Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım fi
   description: "Bir robotu sosyal yapan özellikleri nelerdir? Robotları günlük hayatlarımıza alabilmek için onlardan neler bekliyoruz? Mevcut sosyal robotik çalışmaları ne aşamadadır? Konuşmamda örnek olarak 'yaşlılar için geliştirilmiş egzersiz eğitmeni robotu' çalışmasını kullanıp bu soruları cevaplayacağım. Ayrıca Google AnitaBorg bursu başvuru süreci ve sonrası hakkındaki tecrübelerimi paylaşacağım."
   service: true
   speakers: [26]
+-
+  id: 027
+  title: "TBD"
+  description: "TBD"
+  service: true
+  speakers: [25,26]

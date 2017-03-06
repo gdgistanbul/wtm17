@@ -3,10 +3,12 @@
   dateReadable: "Oturumlar"
   tracks: 
     - {title: "Fazıl Say Konferans Salonu", color: "#4386f4"}
-    - {title: "B Cep", color: "#01bfa5"}
+    - {title: "A101", color: "#01bfa5"}
+    - {title: "A102", color: "#01bfa5"}
+
   timeslots:
     - {
-        startTime: "08:30",
+        startTime: "09:00",
         endTime: "09:30",
         sessionIds: [996]
     }
@@ -16,42 +18,28 @@
     	sessionIds: [995]
     }
     - {
-        startTime: "10:05",
+        startTime: "10:00",
         endTime: "10:45",
-        sessionIds: [011,117~118]
+        sessionIds: [001]
     }
     - {
         startTime: "10:45",
-        endTime: "11:25",
-        sessionIds: [006,004~114]
+        endTime: "11:00",
+        sessionIds: [998]
     }
     - {
-        startTime: "11:40",
-        endTime: "12:20",
-        sessionIds: [001,002]
+        startTime: "11:00",
+        endTime: "11:45",
+        sessionIds: [006~007,010]
     }
     - {
-        startTime: "12:20",
-        endTime: "13:20",
-        sessionIds: [997]
+        startTime: "11:45",
+        endTime: "12:00",
+        sessionIds: [998]
     }
     - {
-        startTime: "13:20",
-        endTime: "14:00",
-        sessionIds: [003,109]
+        startTime: "12:00",
+        endTime: "12:45",
+        sessionIds: [27,014,021~012]
     }
-    - {
-        startTime: "14:15",
-        endTime: "14:55",
-        sessionIds: [108,113~115]
-    }
-    - {
-        startTime: "15:10",
-        endTime: "15:50",
-        sessionIds: [016,005]
-    }
-    - {
-        startTime: "16:05",
-        endTime: "16:45",
-        sessionIds: [107~110,012]
-    }
+   
