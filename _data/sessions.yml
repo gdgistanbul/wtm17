@@ -161,4 +161,10 @@
   description: "TBD"
   service: true
   speakers: [25,26]
+-
+  id: 028
+  title: "Key Points in Building Mobile App Back-end Services"
+  description: "The session will be about the key points in building mobile app back-end services including design, efficiency, performance and security"
+  service: true
+  speakers: [27]
 
