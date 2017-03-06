@@ -31,7 +31,7 @@
         parallel: 1,
         startTime: "11:00",
         endTime: "11:45",
-        sessionIds: [004~005,007,015~008]
+        sessionIds: [004~005,007,015]
     }
     - {
         startTime: "11:45",
