@@ -19,6 +19,11 @@
   description: "GDG Istanbul Women Techmakers grubu tarafından düzenlenen Women Techmakers Istanbul 2016 konferansına hoşgeldiniz."
   service: true
 -
+  id: 995
+  title: "Women Techmakers Kapanış Konuşması"
+  description: ""
+  service: true
+-
   id: 001
   title: "My 20 Year Career in Tech"
   description: "Reflecting on my 20 year journey in the tech industry, I’ll cover how I discovered my love of Computer Science, navigated my career path, and share my lessons learned along the way.  I'll discuss transitions in job role, moving across continents, and experiences at different sized companies.  This talk is suited to all technical levels and abilities."
@@ -163,3 +168,4 @@ Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım fi
   description: "TBD"
   service: true
   speakers: [25,26]
+
