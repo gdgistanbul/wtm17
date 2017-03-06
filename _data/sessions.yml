@@ -143,4 +143,10 @@
   description: "The session will be about the key points in building mobile app back-end services including design, efficiency, performance and security"
   service: true
   speakers: [27]
+-
+  id: 021
+  title: "Çevik süreçler ve teknik mükemmeliyet iş yaşamında öne çıkmanızı nasıl sağlar?"
+  description: "Çevik süreçler, sürdürülebilir geliştirmeyi olumlu etkilediği için BT dünyasında kabul edilen yöntemler arasında yer almaktadır. Peki sadece çevik süreçlerin uygulanması yazılım süreçlerini hızlandırmak için yeterli midir? Çevik süreçlerin teknik mükemmeliyetle desteklenmesi durumunda bize kazandıracağı avantajlar nelerdir? Teknik mükemmeliyeti artırmak için neler yapılmalıdır, kullanılan yöntemler nelerdir? Projelerimizde edindiğimiz deneyimleri sizlerle paylaşarak bu soruları birlikte cevaplamaya çalışacağız."
+  service: true
+  speakers: [24,25]
 
