@@ -136,7 +136,6 @@
   title: "TBD"
   description: "TBD"
   service: true
-  speakers: [25,26]
 -
   id: 020
   title: "Key Points in Building Mobile App Back-end Services"
