@@ -221,17 +221,7 @@ Yazılım geliştirme, Yazılım Proje Yönetimi, Süreç iyileştirme ile ilgil
    thumbnailUrl: emine-celik.jpg
    social:
      - {name: "linkedin", link: "https://www.linkedin.com/in/emine-celik-75756325/"}     
--
-   id: 19
-   name: "Sinem"
-   surname: "Şahin"
-   company: "Davis Wright Tremaine"
-   title: "Technology Attorney"
-   bio: "I was graduated from Bahcesehir University (the venue) law school, after gradulation, I attended Duke University with a Fulbright Scholarship and received my masters degree. I also attended University of Washington to receive second masters degree on intellectual property law. I passed New York bar exam and worked for a Fortune 500 company for 3 years, in charge of all of its technology transactions. I recently moved to a big law firm and representing major tech corporations, mainly Microsoft, Amazon, T-Mobile and Starbuck, among others and negotiate cutting edge technology deals."
-   thumbnailUrl: sinem-sahin.jpg
-   social:
-     - {name: "site", link: "http://www.dwt.com/people/sinemsahin/"}
-     - {name: "linkedin", link: "https://www.linkedin.com/in/sinemsahin/"} 
+
 -
    id: 20
    name: "Sıla"

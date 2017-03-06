@@ -122,16 +122,9 @@
 -
   id: 018
   title: "Teknolojinin Gücü Adına: Kalite Süreci"
-  description: "Uçak biletimizi web’den alıp mobil uygulamadan check-in oluyoruz. Kiralayacağımız evi, yiyeceğimiz akşam yemeğini, çocugun okul notlarını, sevgilimize gönderdiğimiz çiçeği, kısacası hayatımızdaki pek çok deneyime dokunan parçası yazılım uygulamaları var. 
-Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım firmalarında fonksiyonel testten, müşteri deneyimi ve kaliteye doğru dönüşüyor.  Bu konuşmanın amacı, kalite ve test arasındaki farkı tanımlamak ve ileriye yönelik öngörüleri paylaşmaktır."
+  description: "Uçak biletimizi web’den alıp mobil uygulamadan check-in oluyoruz. Kiralayacağımız evi, yiyeceğimiz akşam yemeğini, çocugun okul notlarını, sevgilimize gönderdiğimiz çiçeği, kısacası hayatımızdaki pek çok deneyime dokunan parçası yazılım uygulamaları var. Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım firmalarında fonksiyonel testten, müşteri deneyimi ve kaliteye doğru dönüşüyor.  Bu konuşmanın amacı, kalite ve test arasındaki farkı tanımlamak ve ileriye yönelik öngörüleri paylaşmaktır."
   service: true
   speakers: [18]
--
-  id: 019
-  title: "Understanding the Legal Issues in Startups - How to Protect you Ideas"
-  description: "I would like to give an overview of the legal issue and opportunities when someone has a good idea and advise on how to protect them."
-  service: true
-  speakers: [19]
 -
   id: 020
   title: "Recruting Women in IT"
