@@ -22,7 +22,7 @@
         parallel: 1,
         startTime: "10:00",
         endTime: "10:45",
-        speakers: [001]
+        sessionIds: [101]
     }
     - {
         parallel: 1,    
