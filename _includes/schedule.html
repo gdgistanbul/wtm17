@@ -1,3 +1,21 @@
+Skip to content
+This repository
+Search
+Pull requests
+Issues
+Gist
+ @ElifBon
+ Sign out
+ Unwatch 13
+  Star 0
+ Fork 0 gdgistanbul/wtm17
+ Code  Issues 0  Pull requests 0  Projects 0  Wiki  Pulse  Graphs  Settings
+Branch: gh-pages Find file Copy pathwtm17/_includes/schedule.html
+c48c77c  10 minutes ago
+@ElifBon ElifBon Update schedule.html
+3 contributors @tasomaniac @ozasadnyy @ElifBon
+RawBlameHistory     
+105 lines (99 sloc)  6.39 KB
 <!-- Begin Schedule Section -->
 <section id="schedule" class="schedule">
     <div class="content-wrapper">
@@ -36,7 +54,7 @@
                         {{ startTime[0] }}<span>{{ startTime[1] }}</span>
                     </time>
                     <time class="end-time" itemprop="endDate" datetime="{{ day.dateReadable }}T{{ timeslot.endTime }}">
-                        {% assign endTime = timeslot.endTime | split: ":" %}
+                        {% assign endTime = timeslot.endTime | split: "|" %}
                         {{ endTime[0] }}<span>{{ endTime[1] }}</span>
                     </time>
                 </div>
@@ -102,3 +120,5 @@
     </div>
 </section>
 <!-- End Schedule Section -->
+Contact GitHub API Training Shop Blog About
+© 2017 GitHub, Inc. Terms Privacy Security Status Help
