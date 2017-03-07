@@ -17,115 +17,138 @@
   id: 995
   title: "Women Techmakers Istanbul 2017'ye Hoşgeldiniz!"
   description: "GDG Istanbul Women Techmakers grubu tarafından düzenlenen Women Techmakers Istanbul 2016 konferansına hoşgeldiniz."
+  language: tr
   service: true
 -
   id: 994
   title: "Women Techmakers Kapanış Konuşması"
   description: "Women Techmakers Kapanış Konuşması"
+  language: tr
   service: true
 -
   id: 101
   title: "My 20 Year Career in Tech"
   description: "Reflecting on my 20 year journey in the tech industry, I’ll cover how I discovered my love of Computer Science, navigated my career path, and share my lessons learned along the way.  I'll discuss transitions in job role, moving across continents, and experiences at different sized companies.  This talk is suited to all technical levels and abilities."
+  language: en
   speakers: [1]
 -
   id: 002
   title: "Yazılım Tanımlı Bilgisayar Ağları (Software Defined Networks - SDN)"
   description: "Teknolojinin ilerlemesi ve İnternet Kullanımının artmasıyla birlikte, bilgisayar ağları zaman içinde değişime uğramıştır. En kapsamlı değişiklikler kendini arama motorlarının ve sosyal medya hizmet sağlıyıcılarının bilgisayar ağlarında görülmüştür. Hızla büyüyen bilgisayar ağlarında gördüğümüz en büyük değişikliklerden bir tanesi de router ve switchlerde yazılım ile donanımın birbirinden ayrılmasıdır. Yazılım Tanımlı Bilgisayar Ağları, merkezi kontrolü sağlamak ve performansı arttırmak motivasyonu ile bu şekilde doğmuştur."
+  language: tr
   speakers: [2]
 -
   id: 003
   title: "Teknoloji Girişimciliği ve Liderlik Paneli"
   description: "Türkiye'nin en başarılı girişimlerinden ikisi, teknoloji girişimcisi iki kadın lider tarafından kuruldu. Bu panelde onların başarı hikayelerini, çok fazla konuşulmayan yeni bir perspektiften dinleyeceğiz. Onlara Türkiye'nin teknoloji alanında tek kadın VC yatırımcısı eşlik edecek. Soruları Webrazzi'den Merve Kara ve sizler soracaksınız, Hande Çilingir, Başak Taşpınar Değim ve Dilek Dayınarlı yanıtlayacak."
+  language: tr
   speakers: [3,4,5,11]
 -
   id: 004
   title: "Developing Culture As a Product: How Gram Games Sets Itself Apart"
   description: "The talk will outline how Gram Games, as a company, works to both develop and maintain its company culture as actively and vigilantly as it would any product."
+  language: en
   speakers: [6]
 -
   id: 005
   title: "The 22% Project by Gram Games"
   description: "Did you know that nearly half of gamers are women? Forty eight percent? And yet, less that one-quarter of gaming professionals (22%, in fact) are women. How is it possible that women are so poorly represented in an industry where they are equal consumers? Gram wants to play a part in breaking those biases. With The 22% Project we want to provide young women interested in gaming with an introduction to the skills and knowledge they would need to success. With short workshops on game development, design, game art, and data analytics we hope to help these women to achieve their dreams. The project will also give young women the space to discuss their experiences in the gaming industry. We need to work to change the state of affairs, and this will only happen if young women are engaged in that change."
+  language: tr
   speakers: [7]
 -
   id: 006
   title: "Public Speaking Speechless Training"
   description: "This special training is designed with the top tips from the public speaking experts at Speechless with Google Developers. Whether you are a leader, developer, manager, student or entrepreneur this workshop training will help you to go from an ordinary presenter to an outstanding performer! At least we promise to have a lot of fun!<br/>Bu workshop çalışması Speechless'ın en iyi sunum yapan kişilerinin özel tavsiyeleri doğrultusunda Google Developers ile birlikte hazırlanan video serisi doğrultusunda hazırlanmıştır. Bir lider, yazılımcı, yönetici, öğrenci ya da girişimciyseniz bu workshop çalışması ile sıradan bir sunumdan muşteşem bir sunucuya dönüşebilirsiniz! En azından çok eğleneceğinizi vaad ediyoruz!"
+  language: tr
   speakers: [9]
 -
   id: 007
   title: "Actions on Google: Build for Google Assistant"
   description: "Sunumda, Google Asistan için uygulama geliştirmemizi sağlayan Actions on Google, şu an için kullanıcılarımızı asistanla tanıştırmamıza olanak sağlayan tek araç olarak Google Home aracılığıyla anlatılacaktır."
+  language: tr
   speakers: [10]
 -
   id: 008
   title: "Bankaların Dijital Dönüşümünde 'Müşteri' Nerede?"
   description: "Son dönemde dijital dönüşüm tüm sektörler için en gözde konu, bankacılık sektörü de ülkemizde dönüşüm yolculuğuna ilk ve hızlı başlayan sektörlerden ancak tüm bu dönüşüm hamlelerinde 'müşteri' nerede duruyor, müşterilerimizin hayatını kolaylaştırıyor muyuz? "
+  language: tr
   speakers: [12]
 -
   id: 009
   title: "What is the right question, “What is Big Data” or “How to use the data”?"
   description: ""
+  language: tr
   speakers: [13]
 -
   id: 010
   title: "Noestimation on Jira"
   description: "Bu sunumda noestimation ile benzer geçmiş  projelere göre gelecek projelerin zaman tahminlemesi nasıl yapılır istatistiksel olarak anlatılacaktır."
+  language: tr
   speakers: [14]
 -
   id: 011
   title: "Front-end'in 1 saniyesi"
   description: "Web siteleri için mobil uyumluluk ve performans artık bir tercih değil, zorunluluk. Gün geçtikçe artan internet kullanım oranları, özellikle de mobil cihazların göz ardı edilemeyecek yaygınlığı, tüm internet hızlarında ve tüm cihazlarda kullanıcı deneyimi geliştirmemiz konusunda bizi mecbur kılıyor. Hız ve performansın bu göz ardı edilemeyecek önemine karşın son birkaç yılda ortalama web sitelerinin boyutu üç katına çıktı ve birçok web tekniği ve platformu performansı göz ardı etti. Biten bataryalarımız, internet paketlerimiz ve sayfanın yüklenmesini beklerken yiten zamanlarımız oldu. Performans optimizasyonu şimdi yeni bir dalga, akım olarak karşımıza çıkar oldu. Bu sunumda kimler performans artışı için ne yaptı (NY Times ve BBC, Amazon ve tabi ki Nesine.com ), neler kazandı? Bunun için yapılabilecekler nelerdir (http/2, Service Workers, PWA, Resource Hints, WebFont Performans), biraz bunlardan bahsedeceğim."
+  language: tr
   speakers: [15]
 -
   id: 012
   title: "Omik çağında sırada ne var? SosyOmik!"
   description: "Genomik, DNA’nın moleküler yapısının ortaya çıkarılması ve daha sonra insan genom projesinin tamamlanması ile hızla genişleyen bir araştırma alanı ve gündelik yaşama yeni girmeye başlayan teknolojilerin temelinde bulunan bir çalışma alanıdır. Bu sunumda, genomik, omik çağı, genom, genomik çalışmalarında gelinen nokta, kişilerin kendi genom verisine erişmeleri ve bu verilerin önemi, genetik çalışmalarda açık kaynak yaklaşımlar ele alınacak ve paylaşılacaktır. Önümüzdeki yıllarda kişilerin genom verilerinin ulaşılabilir ve paylaşılabilir olması aslında “gen”lerin sosyalleşmesi olarak görülebilir. Sunum “sosyomik” terimi ile geleceğe dair genetik biliminin önemini vurgulayacaktır."
+  language: tr
   speakers: [16]  
 -
   id: 013
   title: "Alternative Payment Technologies"
   description: "Türkiye'de ve Dünya'da kullanılan Mobil ödeme teknolojileri,Android/Apple Pay  ve kasasız ödeme çözümlerinden bahsedeceğim.Gelecekte yeni nesil ödeme sistemlerimiz; IOT,Chatbot,Sanal Asistan,Biyometri ve günümüzde çok konuşulan Blokchain  hayatımızı nasıl değiştirecek?Geleceğin alternatif ödeme teknolojileri bizi uç noktalara götürecek."
+  language: tr
   speakers: [17] 
 -
   id: 014
   title: "Teknolojinin Gücü Adına: Kalite Süreci"
   description: "Uçak biletimizi web’den alıp mobil uygulamadan check-in oluyoruz. Kiralayacağımız evi, yiyeceğimiz akşam yemeğini, çocugun okul notlarını, sevgilimize gönderdiğimiz çiçeği, kısacası hayatımızdaki pek çok deneyime dokunan parçası yazılım uygulamaları var. Peki bu yazılım kalitesi, hayatımızı nasıl etkiliyor? Dünya, yazılım firmalarında fonksiyonel testten, müşteri deneyimi ve kaliteye doğru dönüşüyor.  Bu konuşmanın amacı, kalite ve test arasındaki farkı tanımlamak ve ileriye yönelik öngörüleri paylaşmaktır."
+  language: tr
   speakers: [18]
 -
   id: 015
   title: "Recruting Women in IT"
   description: "Talking about the current recruitment trends in technology. Diversity policies: How do companies implement their diversity and inclusion policies? Do they actually work, are they practical or just written to seem good on paper? Has the mentality against sexism changed -on both employee and employers' side-? Problems technical profiles face in recruitment. Ways and methods for candidates to express themselves better. The imbalance between profiles and sectoral needs. Share personal experiences as women who used to work at technology and now recruit for technology companies. The issues we face, the change we’ve witnessed, the future we expect and the future we hope to have for women in tech."
+  language: tr
   speakers: [20,21]
 -
   id: 016
   title: "Creating Elegant Graphs with R Programming Workshop"
   description: "We hear the hot topics “data science” and “big data” all the time. And we know “data is everywhere” and it is growing faster than ever before. Meanwhile, cleaning, preparing, analysing and predicting tools of data is developing. And R is one the best tools to work on data.R is a very powerful tool make data analysis and solve statistical problems. It is able to perform simulations, graph results, create summary statistics, export findings to different type of files and accomplish almost any programming feat by simply using the base installation of R. It is widely used in commercial industries to enable organizations to make more-informed business decisions and by scientists and researchers to verify or disprove scientific models, theories and hypotheses.In this session I want to introduce a few libraries that display R’s reach. Especially, in terms of producing easy and elegant visualizations and making reproducible reports. Hadley Wickham has crated an amazing library which takes graphing/plotting in R to next level. The library is called ggplot2. With this library visualization is easy and efficient. I’m hoping everyone will enjoy using this tool to make their data analysis great! "
+  language: tr
   speakers: [22]
 -
   id: 017
   title: "Women’s economic empowerment, women leadership and the future of businesses"
   description: "Discussing the ways women leadership and women entrepreneurship contribute to economic and social development, the talk will not only provide a snapshot of women’s current participation in the business but also will engage in the future of businesses, tech-oriented organizations, and place of women in this context."
+  language: tr
   speakers: [23]
 -
   id: 018
   title: "Sosyal Robotlar and Google AnitaBorg Bursu"
   description: "Bir robotu sosyal yapan özellikleri nelerdir? Robotları günlük hayatlarımıza alabilmek için onlardan neler bekliyoruz? Mevcut sosyal robotik çalışmaları ne aşamadadır? Konuşmamda örnek olarak 'yaşlılar için geliştirilmiş egzersiz eğitmeni robotu' çalışmasını kullanıp bu soruları cevaplayacağım. Ayrıca Google AnitaBorg bursu başvuru süreci ve sonrası hakkındaki tecrübelerimi paylaşacağım."
+  language: tr
   speakers: [26]
 -
   id: 019
   title: "TBD"
   description: "TBD"
+  language: tr
   service: true
 -
   id: 020
   title: "Key Points in Building Mobile App Back-end Services"
   description: "The session will be about the key points in building mobile app back-end services including design, efficiency, performance and security"
+  language: tr
   speakers: [27]
 -
   id: 021
   title: "Çevik süreçler ve teknik mükemmeliyet iş yaşamında öne çıkmanızı nasıl sağlar?"
   description: "Çevik süreçler, sürdürülebilir geliştirmeyi olumlu etkilediği için BT dünyasında kabul edilen yöntemler arasında yer almaktadır. Peki sadece çevik süreçlerin uygulanması yazılım süreçlerini hızlandırmak için yeterli midir? Çevik süreçlerin teknik mükemmeliyetle desteklenmesi durumunda bize kazandıracağı avantajlar nelerdir? Teknik mükemmeliyeti artırmak için neler yapılmalıdır, kullanılan yöntemler nelerdir? Projelerimizde edindiğimiz deneyimleri sizlerle paylaşarak bu soruları birlikte cevaplamaya çalışacağız."
+  language: tr
   speakers: [24,25]
 
