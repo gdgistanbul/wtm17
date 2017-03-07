@@ -2,9 +2,9 @@
   date: "2017-03-19"
   dateReadable: "Oturumlar"
   tracks: 
-    - {title: "Fazıl Say Konferans Salonu", color: "#90be4e"}
-    - {title: "A 101", color: "#03a9f4"}
-    - {title: "A 102", color: "#e91e63"}
+    - {title: "Fazıl Say Konferans Salonu", color: "#4386f4"}
+    - {title: "A 101", color: "#01bfa5"}
+    - {title: "A 102", color: "#01bfa5"}
 
   timeslots:
     - {
@@ -13,16 +13,19 @@
         sessionIds: [996]
     }
     - {
+      parallel: 1,
     	startTime: "09:30",
     	endTime: "10:00",
     	sessionIds: [995]
     }
     - {
+        parallel: 1,
         startTime: "10:00",
         endTime: "10:45",
         sessionIds: [001]
     }
     - {
+        parallel: 1,    
         startTime: "10:45",
         endTime: "11:00",
         sessionIds: [998]
@@ -34,6 +37,7 @@
         sessionIds: [004~005,007,015]
     }
     - {
+        parallel: 1,
         startTime: "11:45",
         endTime: "12:00",
         sessionIds: [998]
@@ -45,36 +49,43 @@
         sessionIds: [021,010,020]
     }
     - {
+        parallel: 1,    
         startTime: "12:45",
         endTime: "14:00",
         sessionIds: [997]
     }
     - {
+        parallel: 1,
         startTime: "14:00",
         endTime: "14:45",
         sessionIds: [017,013,018]
     }
     - {
+        parallel: 1,
         startTime: "14:45",
         endTime: "15:00",
         sessionIds: [998]
     }
     - {
+        parallel: 1,
         startTime: "15:00",
         endTime: "15:45",
         sessionIds: [002,011,009]
     }
     - {
+        parallel: 1,
         startTime: "15:45",
         endTime: "16:00",
         sessionIds: [998]
     }
     - {
+        parallel: 1,
         startTime: "16:00",
         endTime: "17:00",
         sessionIds: [003]
     }
     - {
+        parallel: 1,
         startTime: "17:00",
         endTime: "17:30",
         sessionIds: [994]
