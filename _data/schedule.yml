@@ -77,3 +77,25 @@
         endTime: "17:30",
         sessionIds: [994]
     }
+- 
+  date: "2017-03-19"
+  dateReadable: "Workshoplar"
+  tracks: 
+    - {title: "BCep", color: "#4386f4"}
+
+  timeslots:
+    - {
+        startTime: "11:00",
+        endTime: "12:45",
+        sessionIds: [106]
+    }
+    - {    
+        startTime: "12:45",
+        endTime: "14:00",
+        sessionIds: [997]
+    }
+    - {
+        startTime: "14:00",
+        endTime: "15:45",
+        sessionIds: [116]
+    }
