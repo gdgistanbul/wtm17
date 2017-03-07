@@ -54,7 +54,6 @@
         sessionIds: [997]
     }
     - {
-        parallel: 1,
         startTime: "14:00",
         endTime: "14:45",
         sessionIds: [017~012,013,018]
