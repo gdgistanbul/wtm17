@@ -24,7 +24,7 @@
   description: "Women Techmakers Kapanış Konuşması"
   service: true
 -
-  id: 001
+  id: 101
   title: "My 20 Year Career in Tech"
   description: "Reflecting on my 20 year journey in the tech industry, I’ll cover how I discovered my love of Computer Science, navigated my career path, and share my lessons learned along the way.  I'll discuss transitions in job role, moving across continents, and experiences at different sized companies.  This talk is suited to all technical levels and abilities."
   service: true
