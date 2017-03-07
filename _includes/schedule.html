@@ -46,7 +46,7 @@
                     {% assign slotIndex = forloop.index0 %}
                     
                     {% capture temp %}{{ slot }}{% endcapture %}
-                    {% assign slot-array = temp | split:"~" %}
+                    {% assign slot-array = temp | split:"|" %}
                     
                     <div class="slot col-md-{{ slotColWidth }} col-xs-12 flexbox-item-height" data-slot-detail="{{ day.tracks[slotIndex].title }}">
                         {% for elem in slot-array %}
