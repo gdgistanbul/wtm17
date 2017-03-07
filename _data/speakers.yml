@@ -303,6 +303,11 @@ I have graduated from department of Statistics (BS and MS) at Yıldız Technical
    title: "IT Product Manager"
    bio: "I graduated from Boğaziçi University majoring in Electrical&Electronics Engineering. I started my career as a software engineer in Finansbank in 2004 and since then I’ve gained 12 years of experience in software design and development life cycles of Internet Banking, Mobile Banking and Infrastructure applications(IBTech, Anadolubank, Fortis, Akbank and ING Bank). I’m currently attending an MBA program at Yeditepe University."
    thumbnailUrl: birgul.jpg 
+-
+   id: 28
+   name: "Women Techmakers Istanbul"
+   bio: "Women Techmakers (WTM) daha fazla kadının bilim, teknoloji, mühendislik ve benzeri sektörlerde yer almasını teşvik etmek amacıyla etkinlikler düzenleyen ve Google tarafından desteklenen uluslararası bir topluluktur. 50’den fazla ülkede faaliyet gösteren WTM ekipleri, yıl boyunca bu amaçlar doğrultusunda toplantılar düzenleyerek bir araya gelir. Women Techmakers İstanbul, Google Developers İstanbul altında bu komüniteyi oluşturan tamamen gönüllü kişilerden oluşur."
+   thumbnailUrl: wtm_logo.png
 # -
 #   id: 0
 #   name: ""
