@@ -43,7 +43,7 @@ c4sponsorsUrl: "/assets/wtm-istanbul-2017-tanitim-dosyasi.pdf"
 navigationLinks:
  - {permalink: "/", text: "Ana Sayfa"}
  # - {permalink: "/blog/", text: "Blog"}
- # - {permalink: "/schedule/", text: "Program"}
+ - {permalink: "/schedule/", text: "Program"}
  - {permalink: "/speakers/", text: "Konuşmacılar"}
  # - {permalink: "/#partners", text: "Sponsorlar"}
  #- {permalink: "/team/", text: "Team"}
@@ -63,10 +63,10 @@ eventDate: "19 March 2017"
 typeoutTextValues: '"Women", "Techmakers", "Istanbul"'
 typeoutFallback: "Season"
 heroButtons:
- # - {permalink: "/schedule/", text: "Konferans Programı"}
+ - {permalink: "/schedule/", text: "Konferans Programı"}
  # - {permalink: "https://goo.gl/forms/xjguwTxdoX4f8HtA2", text: "Konuşmacı Başvurusu"}
  - {link: "https://www.eventbrite.com/e/women-techmakers-istanbul-iwd-2017-tickets-31415278945", text: "Konferansa Kayıt Ol"}
- - {link: "assets/wtm-istanbul-2017-tanitim-dosyasi.pdf", text: "Destekçilerimiz Arasına Katıl"}
+ # - {link: "assets/wtm-istanbul-2017-tanitim-dosyasi.pdf", text: "Destekçilerimiz Arasına Katıl"}
 
 # About Block
 aboutTitle: "Women Techmakers Hakkında"
