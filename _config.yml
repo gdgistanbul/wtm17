@@ -79,8 +79,8 @@ aboutBlock:
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "420", specialCharacter: "+", info: "katılımcı", detail: "teknoloji dünyasının her alanından ilgili herkes"}
- - {count: "20", specialCharacter: "+", info: "kadın konuşmacı", detail: ""}
+ - {count: "710", specialCharacter: "+", info: "katılımcı", detail: "teknoloji dünyasının her alanından ilgili herkes"}
+ - {count: "25", specialCharacter: "+", info: "kadın konuşmacı", detail: ""}
  - {count: "3", specialCharacter: "", info: "paralel oturum", detail: "2 workshop"}
 
 # Latest News Block
