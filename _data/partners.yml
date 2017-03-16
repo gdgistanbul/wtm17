@@ -14,7 +14,7 @@
 -
    group: "Ulaşım Sponsoru"
    elements:
-    - {name: "Careem", description: "Careem", link: "www.careem.com/istanbul", imageUrl: "careem.png"}
+    - {name: "Careem", description: "Careem", link: "http://careem.com/istanbul", imageUrl: "careem.png"}
 -
    group: "Basın Sponsorları"
    elements:
