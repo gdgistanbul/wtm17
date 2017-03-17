@@ -30,7 +30,6 @@
   elements:
      #- {name: "FeedTick", description: "FeedTick", link: "http://feedtick.com/", imageUrl: "feeditck-logo.png"}
      - {name: "BAU COOP", description: "BAU COOP", link: "http://coop.bahcesehir.edu.tr/", imageUrl: "CO-OP LOGO SON 06.09.JPG"}
-     - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
      - {name: "GDG X", description: "GDG X", link: "http://info.gdgx.io", imageUrl: "gdg-x.svg"}
      #- {name: "GDG Eskişehir", description: "GDG Eskişehir", link: "https://twitter.com/gdgeskisehir", imageUrl: "gdgeskisehir.png"}
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}     
@@ -40,6 +39,8 @@
      - {name: "Abakus Kitap", description: "Abakus Kitap", link: "https://www.abakuskitap.com/", imageUrl: "abakus.png"}
      - {name: "Binyaprak", description: "Binyaprak", link: "http://binyaprak.com/", imageUrl: "binyaprak.jpg"}
      - {name: "Turkish Win", description: "TurkishWin", link: "http://turkishwin.com/", imageUrl: "TurkishWin.png"}
+     - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
+     - {name: "Kadın Bilişimci", description: "Kadın Bilişimci", link: "http://www.kadinbilisimci.com/", imageUrl: "kb-logokopya.png"}
      - {name: "Bilgisayar Mühendisleri Odası", description: "BMO", link: "http://www.bmo.org.tr/", imageUrl: "bmo-logo-png.png"}
      - {name: "R-Ladies", description: "R-Ladies", link: "https://rladies.org/", imageUrl: "r-ladies.png"}
      - {name: "LazyLab Game Studio", description: "LazyLab Game Studio", link: "http://lazylabgames.com/", imageUrl: "lazylab_logo.png"}
