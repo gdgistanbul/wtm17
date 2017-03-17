@@ -30,7 +30,7 @@
   elements:
      #- {name: "FeedTick", description: "FeedTick", link: "http://feedtick.com/", imageUrl: "feeditck-logo.png"}
      - {name: "BAU COOP", description: "BAU COOP", link: "http://coop.bahcesehir.edu.tr/", imageUrl: "CO-OP LOGO SON 06.09.JPG"}
-     #- {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
+     - {name: "Kadın Yazılımcı", description: "Kadın Yazılımcı", link: "http://kadinyazilimci.com", imageUrl: "kadinyazilimci.jpg"}
      - {name: "GDG X", description: "GDG X", link: "http://info.gdgx.io", imageUrl: "gdg-x.svg"}
      #- {name: "GDG Eskişehir", description: "GDG Eskişehir", link: "https://twitter.com/gdgeskisehir", imageUrl: "gdgeskisehir.png"}
      - {name: "Google Developers", description: "Google Developers", link: "http://developers.google.com", imageUrl: "GoogleDevelopers.png"}     
